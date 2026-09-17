@@ -14,7 +14,7 @@
 #     必ず「チャンネル1件 x 日付1日」で1リクエストとすること
 
 param(
-    [int]$BatchSize = 580,
+    [int]$BatchSize = 40,
     [int]$IntervalSeconds = 10,
     # 保存期間（日数）。この日数より古い yyyyMMdd.json は毎回の実行時に自動削除する
     [int]$RetentionDays = 30

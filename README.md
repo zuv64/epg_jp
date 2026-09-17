@@ -51,3 +51,5 @@ data/epg/<地域名>/<siteId>/<yyyyMMdd>.json
 ## 手動実行
 
 GitHub Actionsの「Actions」タブから `Fetch J:COM EPG` ワークフローを選び、「Run workflow」で手動実行できます（`gh workflow run fetch-epg.yml` でも可）。
+
+※ 手動実行できるのは、このリポジトリへの書き込み権限（Write以上）を持つユーザーのみです。publicリポジトリのためコードは誰でも閲覧できますが、第三者が勝手に実行することはできません。

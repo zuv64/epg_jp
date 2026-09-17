@@ -1,0 +1,3682 @@
+[
+  {
+    "siteId": "120_102_65406",
+    "channelType": 120,
+    "channelId": 102,
+    "networkId": 65406,
+    "displayName": "日テレNEWS24 HD",
+    "remoconNumber": 102,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_103_65406",
+    "channelType": 120,
+    "channelId": 103,
+    "networkId": 65406,
+    "displayName": "J:COM BS",
+    "remoconNumber": 103,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_104_65406",
+    "channelType": 120,
+    "channelId": 104,
+    "networkId": 65406,
+    "displayName": "TV5MONDE",
+    "remoconNumber": 104,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_105_65406",
+    "channelType": 120,
+    "channelId": 105,
+    "networkId": 65406,
+    "displayName": "ダンスチャンネル by エンタメ〜テレ",
+    "remoconNumber": 105,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_106_65406",
+    "channelType": 120,
+    "channelId": 106,
+    "networkId": 65406,
+    "displayName": "スポーツライブ+",
+    "remoconNumber": 106,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_107_65406",
+    "channelType": 120,
+    "channelId": 107,
+    "networkId": 65406,
+    "displayName": "レジャーチャンネル",
+    "remoconNumber": 107,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_110_4",
+    "channelType": 120,
+    "channelId": 110,
+    "networkId": 4,
+    "displayName": "BS10",
+    "remoconNumber": 110,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_121_65534",
+    "channelType": 120,
+    "channelId": 121,
+    "networkId": 65534,
+    "displayName": "ディスカバリーチャンネル",
+    "remoconNumber": 121,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_122_65534",
+    "channelType": 120,
+    "channelId": 122,
+    "networkId": 65534,
+    "displayName": "ムービープラス",
+    "remoconNumber": 122,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_123_65534",
+    "channelType": 120,
+    "channelId": 123,
+    "networkId": 65534,
+    "displayName": "女性チャンネル♪LaLa TV",
+    "remoconNumber": 123,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_125_65534",
+    "channelType": 120,
+    "channelId": 125,
+    "networkId": 65534,
+    "displayName": "日本映画専門チャンネル HD",
+    "remoconNumber": 125,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_126_65406",
+    "channelType": 120,
+    "channelId": 126,
+    "networkId": 65406,
+    "displayName": "アジアドラマチックTV（アジドラ）",
+    "remoconNumber": 126,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_127_65406",
+    "channelType": 120,
+    "channelId": 127,
+    "networkId": 65406,
+    "displayName": "衛星劇場HD",
+    "remoconNumber": 127,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_128_65406",
+    "channelType": 120,
+    "channelId": 128,
+    "networkId": 65406,
+    "displayName": "FIGHTING TV サムライ",
+    "remoconNumber": 128,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_129_65406",
+    "channelType": 120,
+    "channelId": 129,
+    "networkId": 65406,
+    "displayName": "ショップチャンネル プラス",
+    "remoconNumber": 129,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_130_65406",
+    "channelType": 120,
+    "channelId": 130,
+    "networkId": 65406,
+    "displayName": "ディズニージュニア",
+    "remoconNumber": 130,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_131_65534",
+    "channelType": 120,
+    "channelId": 131,
+    "networkId": 65534,
+    "displayName": "Dlife（ディーライフ）",
+    "remoconNumber": 131,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_132_65534",
+    "channelType": 120,
+    "channelId": 132,
+    "networkId": 65534,
+    "displayName": "J SPORTS 4 HD",
+    "remoconNumber": 132,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_133_65534",
+    "channelType": 120,
+    "channelId": 133,
+    "networkId": 65534,
+    "displayName": "ザ・シネマ HD",
+    "remoconNumber": 133,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_134_65534",
+    "channelType": 120,
+    "channelId": 134,
+    "networkId": 65534,
+    "displayName": "ヒストリーチャンネル",
+    "remoconNumber": 134,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_135_65534",
+    "channelType": 120,
+    "channelId": 135,
+    "networkId": 65534,
+    "displayName": "チャンネル銀河",
+    "remoconNumber": 135,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_136_65406",
+    "channelType": 120,
+    "channelId": 136,
+    "networkId": 65406,
+    "displayName": "テレ朝チャンネル1",
+    "remoconNumber": 136,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_137_65406",
+    "channelType": 120,
+    "channelId": 137,
+    "networkId": 65406,
+    "displayName": "フジテレビNEXT",
+    "remoconNumber": 137,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_138_65406",
+    "channelType": 120,
+    "channelId": 138,
+    "networkId": 65406,
+    "displayName": "フジテレビONE",
+    "remoconNumber": 138,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_139_65406",
+    "channelType": 120,
+    "channelId": 139,
+    "networkId": 65406,
+    "displayName": "フジテレビTWO",
+    "remoconNumber": 139,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_140_65406",
+    "channelType": 120,
+    "channelId": 140,
+    "networkId": 65406,
+    "displayName": "ショップチャンネル",
+    "remoconNumber": 140,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_141_65406",
+    "channelType": 120,
+    "channelId": 141,
+    "networkId": 65406,
+    "displayName": "ホームドラマチャンネル",
+    "remoconNumber": 141,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_142_65406",
+    "channelType": 120,
+    "channelId": 142,
+    "networkId": 65406,
+    "displayName": "ナショナル ジオグラフィック",
+    "remoconNumber": 142,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_143_65406",
+    "channelType": 120,
+    "channelId": 143,
+    "networkId": 65406,
+    "displayName": "旅チャンネル",
+    "remoconNumber": 143,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_144_65406",
+    "channelType": 120,
+    "channelId": 144,
+    "networkId": 65406,
+    "displayName": "TBSチャンネル1",
+    "remoconNumber": 144,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_145_65406",
+    "channelType": 120,
+    "channelId": 145,
+    "networkId": 65406,
+    "displayName": "釣りビジョンHD",
+    "remoconNumber": 145,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_146_65406",
+    "channelType": 120,
+    "channelId": 146,
+    "networkId": 65406,
+    "displayName": "GAORA SPORTS HD",
+    "remoconNumber": 146,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_147_65406",
+    "channelType": 120,
+    "channelId": 147,
+    "networkId": 65406,
+    "displayName": "スカイA",
+    "remoconNumber": 147,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_148_65406",
+    "channelType": 120,
+    "channelId": 148,
+    "networkId": 65406,
+    "displayName": "アクションチャンネル",
+    "remoconNumber": 148,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_149_65406",
+    "channelType": 120,
+    "channelId": 149,
+    "networkId": 65406,
+    "displayName": "アニマックスHD",
+    "remoconNumber": 149,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_150_65406",
+    "channelType": 120,
+    "channelId": 150,
+    "networkId": 65406,
+    "displayName": "MTV HD",
+    "remoconNumber": 150,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_151_65406",
+    "channelType": 120,
+    "channelId": 151,
+    "networkId": 65406,
+    "displayName": "映画・チャンネルNECO-HD",
+    "remoconNumber": 151,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_152_65406",
+    "channelType": 120,
+    "channelId": 152,
+    "networkId": 65406,
+    "displayName": "TBS NEWS",
+    "remoconNumber": 152,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_153_65406",
+    "channelType": 120,
+    "channelId": 153,
+    "networkId": 65406,
+    "displayName": "ミステリーチャンネル",
+    "remoconNumber": 153,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_154_65406",
+    "channelType": 120,
+    "channelId": 154,
+    "networkId": 65406,
+    "displayName": "タカラヅカ・スカイ・ステージ",
+    "remoconNumber": 154,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_155_65406",
+    "channelType": 120,
+    "channelId": 155,
+    "networkId": 65406,
+    "displayName": "WOWOWプラス",
+    "remoconNumber": 155,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_156_65406",
+    "channelType": 120,
+    "channelId": 156,
+    "networkId": 65406,
+    "displayName": "スペースシャワーTV HD",
+    "remoconNumber": 156,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_157_65406",
+    "channelType": 120,
+    "channelId": 157,
+    "networkId": 65406,
+    "displayName": "ファミリー劇場HD",
+    "remoconNumber": 157,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_158_65406",
+    "channelType": 120,
+    "channelId": 158,
+    "networkId": 65406,
+    "displayName": "J SPORTS 3 HD",
+    "remoconNumber": 158,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_159_65406",
+    "channelType": 120,
+    "channelId": 159,
+    "networkId": 65406,
+    "displayName": "時代劇専門チャンネル HD",
+    "remoconNumber": 159,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_160_65406",
+    "channelType": 120,
+    "channelId": 160,
+    "networkId": 65406,
+    "displayName": "MONDO TV HD",
+    "remoconNumber": 160,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_161_65406",
+    "channelType": 120,
+    "channelId": 161,
+    "networkId": 65406,
+    "displayName": "ミュージック・エア",
+    "remoconNumber": 161,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_163_65406",
+    "channelType": 120,
+    "channelId": 163,
+    "networkId": 65406,
+    "displayName": "キッズステーション HD",
+    "remoconNumber": 163,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_164_65406",
+    "channelType": 120,
+    "channelId": 164,
+    "networkId": 65406,
+    "displayName": "グリーンチャンネルHD",
+    "remoconNumber": 164,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_165_65406",
+    "channelType": 120,
+    "channelId": 165,
+    "networkId": 65406,
+    "displayName": "グリーンチャンネル2HD",
+    "remoconNumber": 165,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_166_65406",
+    "channelType": 120,
+    "channelId": 166,
+    "networkId": 65406,
+    "displayName": "日テレジータス HD",
+    "remoconNumber": 166,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_167_65406",
+    "channelType": 120,
+    "channelId": 167,
+    "networkId": 65406,
+    "displayName": "ゴルフネットワーク",
+    "remoconNumber": 167,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_168_65406",
+    "channelType": 120,
+    "channelId": 168,
+    "networkId": 65406,
+    "displayName": "J SPORTS 1 HD",
+    "remoconNumber": 168,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_169_65406",
+    "channelType": 120,
+    "channelId": 169,
+    "networkId": 65406,
+    "displayName": "J SPORTS 2 HD",
+    "remoconNumber": 169,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_170_65406",
+    "channelType": 120,
+    "channelId": 170,
+    "networkId": 65406,
+    "displayName": "寄席チャンネル",
+    "remoconNumber": 170,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_171_65406",
+    "channelType": 120,
+    "channelId": 171,
+    "networkId": 65406,
+    "displayName": "カートゥーン ネットワークHD",
+    "remoconNumber": 171,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_172_65406",
+    "channelType": 120,
+    "channelId": 172,
+    "networkId": 65406,
+    "displayName": "QVC",
+    "remoconNumber": 172,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_173_65406",
+    "channelType": 120,
+    "channelId": 173,
+    "networkId": 65406,
+    "displayName": "東映チャンネルHD",
+    "remoconNumber": 173,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_174_65406",
+    "channelType": 120,
+    "channelId": 174,
+    "networkId": 65406,
+    "displayName": "KNTV",
+    "remoconNumber": 174,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_175_65406",
+    "channelType": 120,
+    "channelId": 175,
+    "networkId": 65406,
+    "displayName": "歌謡ポップスチャンネル",
+    "remoconNumber": 175,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_176_65406",
+    "channelType": 120,
+    "channelId": 176,
+    "networkId": 65406,
+    "displayName": "TBSチャンネル2",
+    "remoconNumber": 176,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_179_65406",
+    "channelType": 120,
+    "channelId": 179,
+    "networkId": 65406,
+    "displayName": "BSよしもと",
+    "remoconNumber": 179,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_180_65406",
+    "channelType": 120,
+    "channelId": 180,
+    "networkId": 65406,
+    "displayName": "CNNj",
+    "remoconNumber": 180,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_181_65406",
+    "channelType": 120,
+    "channelId": 181,
+    "networkId": 65406,
+    "displayName": "Mnet HD",
+    "remoconNumber": 181,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_182_65406",
+    "channelType": 120,
+    "channelId": 182,
+    "networkId": 65406,
+    "displayName": "アニメシアターX（AT-X）",
+    "remoconNumber": 182,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_183_65406",
+    "channelType": 120,
+    "channelId": 183,
+    "networkId": 65406,
+    "displayName": "ディズニー・チャンネル",
+    "remoconNumber": 183,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_184_65406",
+    "channelType": 120,
+    "channelId": 184,
+    "networkId": 65406,
+    "displayName": "KBS WORLD HD",
+    "remoconNumber": 184,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_185_65406",
+    "channelType": 120,
+    "channelId": 185,
+    "networkId": 65406,
+    "displayName": "日経CNBC",
+    "remoconNumber": 185,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_186_65406",
+    "channelType": 120,
+    "channelId": 186,
+    "networkId": 65406,
+    "displayName": "アニマルプラネット",
+    "remoconNumber": 186,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_187_65406",
+    "channelType": 120,
+    "channelId": 187,
+    "networkId": 65406,
+    "displayName": "エンタメ〜テレHD",
+    "remoconNumber": 187,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_188_65406",
+    "channelType": 120,
+    "channelId": 188,
+    "networkId": 65406,
+    "displayName": "テレ朝チャンネル2",
+    "remoconNumber": 188,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_190_65406",
+    "channelType": 120,
+    "channelId": 190,
+    "networkId": 65406,
+    "displayName": "日テレプラス",
+    "remoconNumber": 190,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_191_65406",
+    "channelType": 120,
+    "channelId": 191,
+    "networkId": 65406,
+    "displayName": "パチンコ★パチスロTV！",
+    "remoconNumber": 191,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_192_65406",
+    "channelType": 120,
+    "channelId": 192,
+    "networkId": 65406,
+    "displayName": "ジュエリー☆GSTV",
+    "remoconNumber": 192,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_195_65406",
+    "channelType": 120,
+    "channelId": 195,
+    "networkId": 65406,
+    "displayName": "V☆パラダイス",
+    "remoconNumber": 195,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_196_65406",
+    "channelType": 120,
+    "channelId": 196,
+    "networkId": 65406,
+    "displayName": "囲碁・将棋チャンネル",
+    "remoconNumber": 196,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_198_65406",
+    "channelType": 120,
+    "channelId": 198,
+    "networkId": 65406,
+    "displayName": "SPEEDチャンネル",
+    "remoconNumber": 198,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_200_4",
+    "channelType": 120,
+    "channelId": 200,
+    "networkId": 4,
+    "displayName": "BS10プレミアム",
+    "remoconNumber": 200,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_203_65406",
+    "channelType": 120,
+    "channelId": 203,
+    "networkId": 65406,
+    "displayName": "BS12トゥエルビ",
+    "remoconNumber": 203,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_227_65534",
+    "channelType": 120,
+    "channelId": 227,
+    "networkId": 65534,
+    "displayName": "中国テレビ★大富チャンネル",
+    "remoconNumber": 227,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_249_65406",
+    "channelType": 120,
+    "channelId": 249,
+    "networkId": 65406,
+    "displayName": "CNN U.S.",
+    "remoconNumber": 249,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_257_65534",
+    "channelType": 120,
+    "channelId": 257,
+    "networkId": 65534,
+    "displayName": "BBCニュース",
+    "remoconNumber": 257,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_290_65534",
+    "channelType": 120,
+    "channelId": 290,
+    "networkId": 65534,
+    "displayName": "プレイボーイ チャンネル",
+    "remoconNumber": 290,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_291_65534",
+    "channelType": 120,
+    "channelId": 291,
+    "networkId": 65534,
+    "displayName": "レッドチェリー",
+    "remoconNumber": 291,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_292_65534",
+    "channelType": 120,
+    "channelId": 292,
+    "networkId": 65534,
+    "displayName": "レインボーチャンネル",
+    "remoconNumber": 292,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_293_65534",
+    "channelType": 120,
+    "channelId": 293,
+    "networkId": 65534,
+    "displayName": "ミッドナイト・ブルー",
+    "remoconNumber": 293,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_294_65406",
+    "channelType": 120,
+    "channelId": 294,
+    "networkId": 65406,
+    "displayName": "チェリーボム",
+    "remoconNumber": 294,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_295_65406",
+    "channelType": 120,
+    "channelId": 295,
+    "networkId": 65406,
+    "displayName": "パラダイステレビ",
+    "remoconNumber": 295,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_33_65406",
+    "channelType": 120,
+    "channelId": 33,
+    "networkId": 65406,
+    "displayName": "ご案内チャンネル",
+    "remoconNumber": 33,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_34_65406",
+    "channelType": 120,
+    "channelId": 34,
+    "networkId": 65406,
+    "displayName": "オンデマンドチャンネル290",
+    "remoconNumber": 34,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_37_65406",
+    "channelType": 120,
+    "channelId": 37,
+    "networkId": 65406,
+    "displayName": "J:COMプレミアチャンネル",
+    "remoconNumber": 37,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_38_65406",
+    "channelType": 120,
+    "channelId": 38,
+    "networkId": 65406,
+    "displayName": "NHKワールド JAPAN",
+    "remoconNumber": 38,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_39_65406",
+    "channelType": 120,
+    "channelId": 39,
+    "networkId": 65406,
+    "displayName": "オンデマンドチャンネル440",
+    "remoconNumber": 39,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_401_65534",
+    "channelType": 120,
+    "channelId": 401,
+    "networkId": 65534,
+    "displayName": "satonoka 4K",
+    "remoconNumber": 401,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_416_65527",
+    "channelType": 120,
+    "channelId": 416,
+    "networkId": 65527,
+    "displayName": "ショップチャンネル 4K",
+    "remoconNumber": 416,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_417_65527",
+    "channelType": 120,
+    "channelId": 417,
+    "networkId": 65527,
+    "displayName": "4K QVC",
+    "remoconNumber": 417,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "120_419_65527",
+    "channelType": 120,
+    "channelId": 419,
+    "networkId": 65527,
+    "displayName": "日本映画+時代劇 4K",
+    "remoconNumber": 419,
+    "regions": [
+      "CS"
+    ]
+  },
+  {
+    "siteId": "2_1024_32736",
+    "channelType": 2,
+    "channelId": 1024,
+    "networkId": 32736,
+    "displayName": "NHK総合",
+    "remoconNumber": 1,
+    "regions": [
+      "東京",
+      "神奈川",
+      "埼玉",
+      "千葉"
+    ]
+  },
+  {
+    "siteId": "2_10240_32592",
+    "channelType": 2,
+    "channelId": 10240,
+    "networkId": 32592,
+    "displayName": "NHK札幌総合",
+    "remoconNumber": 1,
+    "regions": [
+      "北海道（札幌）"
+    ]
+  },
+  {
+    "siteId": "2_10248_32593",
+    "channelType": 2,
+    "channelId": 10248,
+    "networkId": 32593,
+    "displayName": "NHK札幌教育",
+    "remoconNumber": 2,
+    "regions": [
+      "北海道（札幌）"
+    ]
+  },
+  {
+    "siteId": "2_1032_32737",
+    "channelType": 2,
+    "channelId": 1032,
+    "networkId": 32737,
+    "displayName": "NHK Eテレ",
+    "remoconNumber": 2,
+    "regions": [
+      "東京",
+      "神奈川",
+      "埼玉",
+      "千葉",
+      "群馬",
+      "茨城",
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_1040_32738",
+    "channelType": 2,
+    "channelId": 1040,
+    "networkId": 32738,
+    "displayName": "日本テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "東京",
+      "神奈川",
+      "埼玉",
+      "千葉",
+      "群馬",
+      "茨城",
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_1048_32739",
+    "channelType": 2,
+    "channelId": 1048,
+    "networkId": 32739,
+    "displayName": "TBS",
+    "remoconNumber": 6,
+    "regions": [
+      "東京",
+      "神奈川",
+      "埼玉",
+      "千葉",
+      "群馬",
+      "茨城",
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_1056_32740",
+    "channelType": 2,
+    "channelId": 1056,
+    "networkId": 32740,
+    "displayName": "フジテレビ",
+    "remoconNumber": 8,
+    "regions": [
+      "東京",
+      "神奈川",
+      "埼玉",
+      "千葉",
+      "群馬",
+      "茨城",
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_1064_32741",
+    "channelType": 2,
+    "channelId": 1064,
+    "networkId": 32741,
+    "displayName": "テレビ朝日",
+    "remoconNumber": 5,
+    "regions": [
+      "東京",
+      "神奈川",
+      "埼玉",
+      "千葉",
+      "群馬",
+      "茨城",
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_1072_32742",
+    "channelType": 2,
+    "channelId": 1072,
+    "networkId": 32742,
+    "displayName": "テレビ東京",
+    "remoconNumber": 7,
+    "regions": [
+      "東京",
+      "神奈川",
+      "埼玉",
+      "千葉",
+      "群馬",
+      "茨城",
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_11264_32576",
+    "channelType": 2,
+    "channelId": 11264,
+    "networkId": 32576,
+    "displayName": "NHK総合・函館",
+    "remoconNumber": 1,
+    "regions": [
+      "北海道（函館）"
+    ]
+  },
+  {
+    "siteId": "2_11272_32577",
+    "channelType": 2,
+    "channelId": 11272,
+    "networkId": 32577,
+    "displayName": "NHK Eテレ函館",
+    "remoconNumber": 2,
+    "regions": [
+      "北海道（函館）"
+    ]
+  },
+  {
+    "siteId": "2_12288_32560",
+    "channelType": 2,
+    "channelId": 12288,
+    "networkId": 32560,
+    "displayName": "NHK総合・旭川",
+    "remoconNumber": 1,
+    "regions": [
+      "北海道（旭川）"
+    ]
+  },
+  {
+    "siteId": "2_12296_32561",
+    "channelType": 2,
+    "channelId": 12296,
+    "networkId": 32561,
+    "displayName": "NHK Eテレ旭川",
+    "remoconNumber": 2,
+    "regions": [
+      "北海道（旭川）"
+    ]
+  },
+  {
+    "siteId": "2_13312_32544",
+    "channelType": 2,
+    "channelId": 13312,
+    "networkId": 32544,
+    "displayName": "NHK総合・帯広",
+    "remoconNumber": 1,
+    "regions": [
+      "北海道（帯広）"
+    ]
+  },
+  {
+    "siteId": "2_13320_32545",
+    "channelType": 2,
+    "channelId": 13320,
+    "networkId": 32545,
+    "displayName": "NHK Eテレ帯広",
+    "remoconNumber": 2,
+    "regions": [
+      "北海道（帯広）"
+    ]
+  },
+  {
+    "siteId": "2_14336_32528",
+    "channelType": 2,
+    "channelId": 14336,
+    "networkId": 32528,
+    "displayName": "NHK総合・釧路",
+    "remoconNumber": 1,
+    "regions": [
+      "北海道（釧路）"
+    ]
+  },
+  {
+    "siteId": "2_14344_32529",
+    "channelType": 2,
+    "channelId": 14344,
+    "networkId": 32529,
+    "displayName": "NHK Eテレ釧路",
+    "remoconNumber": 2,
+    "regions": [
+      "北海道（釧路）"
+    ]
+  },
+  {
+    "siteId": "2_15360_32512",
+    "channelType": 2,
+    "channelId": 15360,
+    "networkId": 32512,
+    "displayName": "NHK総合・北見",
+    "remoconNumber": 1,
+    "regions": [
+      "北海道（北見）"
+    ]
+  },
+  {
+    "siteId": "2_15368_32513",
+    "channelType": 2,
+    "channelId": 15368,
+    "networkId": 32513,
+    "displayName": "NHK Eテレ北見",
+    "remoconNumber": 2,
+    "regions": [
+      "北海道（北見）"
+    ]
+  },
+  {
+    "siteId": "2_16384_32496",
+    "channelType": 2,
+    "channelId": 16384,
+    "networkId": 32496,
+    "displayName": "NHK総合・室蘭",
+    "remoconNumber": 1,
+    "regions": [
+      "北海道（室蘭）"
+    ]
+  },
+  {
+    "siteId": "2_16392_32497",
+    "channelType": 2,
+    "channelId": 16392,
+    "networkId": 32497,
+    "displayName": "NHK Eテレ室蘭",
+    "remoconNumber": 2,
+    "regions": [
+      "北海道（室蘭）"
+    ]
+  },
+  {
+    "siteId": "2_17408_32480",
+    "channelType": 2,
+    "channelId": 17408,
+    "networkId": 32480,
+    "displayName": "NHK総合",
+    "remoconNumber": 1,
+    "regions": [
+      "宮城"
+    ]
+  },
+  {
+    "siteId": "2_17416_32481",
+    "channelType": 2,
+    "channelId": 17416,
+    "networkId": 32481,
+    "displayName": "NHK教育",
+    "remoconNumber": 2,
+    "regions": [
+      "宮城"
+    ]
+  },
+  {
+    "siteId": "2_17424_32482",
+    "channelType": 2,
+    "channelId": 17424,
+    "networkId": 32482,
+    "displayName": "東北放送",
+    "remoconNumber": 3,
+    "regions": [
+      "宮城"
+    ]
+  },
+  {
+    "siteId": "2_17432_32483",
+    "channelType": 2,
+    "channelId": 17432,
+    "networkId": 32483,
+    "displayName": "仙台放送",
+    "remoconNumber": 4,
+    "regions": [
+      "宮城"
+    ]
+  },
+  {
+    "siteId": "2_17440_32484",
+    "channelType": 2,
+    "channelId": 17440,
+    "networkId": 32484,
+    "displayName": "ミヤギテレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "宮城"
+    ]
+  },
+  {
+    "siteId": "2_17448_32485",
+    "channelType": 2,
+    "channelId": 17448,
+    "networkId": 32485,
+    "displayName": "東日本放送",
+    "remoconNumber": 6,
+    "regions": [
+      "宮城"
+    ]
+  },
+  {
+    "siteId": "2_18432_32464",
+    "channelType": 2,
+    "channelId": 18432,
+    "networkId": 32464,
+    "displayName": "NHK総合・秋田",
+    "remoconNumber": 1,
+    "regions": [
+      "秋田"
+    ]
+  },
+  {
+    "siteId": "2_18440_32465",
+    "channelType": 2,
+    "channelId": 18440,
+    "networkId": 32465,
+    "displayName": "NHK Eテレ秋田",
+    "remoconNumber": 2,
+    "regions": [
+      "秋田"
+    ]
+  },
+  {
+    "siteId": "2_18448_32466",
+    "channelType": 2,
+    "channelId": 18448,
+    "networkId": 32466,
+    "displayName": "ABS秋田放送",
+    "remoconNumber": 3,
+    "regions": [
+      "秋田"
+    ]
+  },
+  {
+    "siteId": "2_18456_32467",
+    "channelType": 2,
+    "channelId": 18456,
+    "networkId": 32467,
+    "displayName": "AKT秋田テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "秋田"
+    ]
+  },
+  {
+    "siteId": "2_18464_32468",
+    "channelType": 2,
+    "channelId": 18464,
+    "networkId": 32468,
+    "displayName": "AAB秋田朝日放送",
+    "remoconNumber": 5,
+    "regions": [
+      "秋田"
+    ]
+  },
+  {
+    "siteId": "2_19456_32448",
+    "channelType": 2,
+    "channelId": 19456,
+    "networkId": 32448,
+    "displayName": "NHK総合・山形",
+    "remoconNumber": 1,
+    "regions": [
+      "山形"
+    ]
+  },
+  {
+    "siteId": "2_19464_32449",
+    "channelType": 2,
+    "channelId": 19464,
+    "networkId": 32449,
+    "displayName": "NHK Eテレ山形",
+    "remoconNumber": 2,
+    "regions": [
+      "山形"
+    ]
+  },
+  {
+    "siteId": "2_19472_32450",
+    "channelType": 2,
+    "channelId": 19472,
+    "networkId": 32450,
+    "displayName": "YBC山形放送",
+    "remoconNumber": 3,
+    "regions": [
+      "山形"
+    ]
+  },
+  {
+    "siteId": "2_19480_32451",
+    "channelType": 2,
+    "channelId": 19480,
+    "networkId": 32451,
+    "displayName": "YTS山形テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "山形"
+    ]
+  },
+  {
+    "siteId": "2_19488_32452",
+    "channelType": 2,
+    "channelId": 19488,
+    "networkId": 32452,
+    "displayName": "テレビユー山形",
+    "remoconNumber": 5,
+    "regions": [
+      "山形"
+    ]
+  },
+  {
+    "siteId": "2_19496_32453",
+    "channelType": 2,
+    "channelId": 19496,
+    "networkId": 32453,
+    "displayName": "さくらんぼテレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "山形"
+    ]
+  },
+  {
+    "siteId": "2_20480_32432",
+    "channelType": 2,
+    "channelId": 20480,
+    "networkId": 32432,
+    "displayName": "NHK総合・盛岡",
+    "remoconNumber": 1,
+    "regions": [
+      "岩手"
+    ]
+  },
+  {
+    "siteId": "2_20488_32433",
+    "channelType": 2,
+    "channelId": 20488,
+    "networkId": 32433,
+    "displayName": "NHK Eテレ盛岡",
+    "remoconNumber": 2,
+    "regions": [
+      "岩手"
+    ]
+  },
+  {
+    "siteId": "2_20496_32434",
+    "channelType": 2,
+    "channelId": 20496,
+    "networkId": 32434,
+    "displayName": "IBCテレビ",
+    "remoconNumber": 3,
+    "regions": [
+      "岩手"
+    ]
+  },
+  {
+    "siteId": "2_20504_32435",
+    "channelType": 2,
+    "channelId": 20504,
+    "networkId": 32435,
+    "displayName": "テレビ岩手",
+    "remoconNumber": 4,
+    "regions": [
+      "岩手"
+    ]
+  },
+  {
+    "siteId": "2_20512_32436",
+    "channelType": 2,
+    "channelId": 20512,
+    "networkId": 32436,
+    "displayName": "めんこいテレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "岩手"
+    ]
+  },
+  {
+    "siteId": "2_20520_32437",
+    "channelType": 2,
+    "channelId": 20520,
+    "networkId": 32437,
+    "displayName": "岩手朝日テレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "岩手"
+    ]
+  },
+  {
+    "siteId": "2_2056_32721",
+    "channelType": 2,
+    "channelId": 2056,
+    "networkId": 32721,
+    "displayName": "NHK大阪教育",
+    "remoconNumber": 2,
+    "regions": [
+      "大阪"
+    ]
+  },
+  {
+    "siteId": "2_2064_32722",
+    "channelType": 2,
+    "channelId": 2064,
+    "networkId": 32722,
+    "displayName": "毎日放送",
+    "remoconNumber": 4,
+    "regions": [
+      "大阪"
+    ]
+  },
+  {
+    "siteId": "2_2072_32723",
+    "channelType": 2,
+    "channelId": 2072,
+    "networkId": 32723,
+    "displayName": "ABCテレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "大阪"
+    ]
+  },
+  {
+    "siteId": "2_2080_32724",
+    "channelType": 2,
+    "channelId": 2080,
+    "networkId": 32724,
+    "displayName": "関西テレビ",
+    "remoconNumber": 8,
+    "regions": [
+      "大阪"
+    ]
+  },
+  {
+    "siteId": "2_2088_32725",
+    "channelType": 2,
+    "channelId": 2088,
+    "networkId": 32725,
+    "displayName": "読売テレビ",
+    "remoconNumber": 10,
+    "regions": [
+      "大阪"
+    ]
+  },
+  {
+    "siteId": "2_21504_32416",
+    "channelType": 2,
+    "channelId": 21504,
+    "networkId": 32416,
+    "displayName": "NHK総合・福島",
+    "remoconNumber": 1,
+    "regions": [
+      "福島"
+    ]
+  },
+  {
+    "siteId": "2_21512_32417",
+    "channelType": 2,
+    "channelId": 21512,
+    "networkId": 32417,
+    "displayName": "NHK Eテレ福島",
+    "remoconNumber": 2,
+    "regions": [
+      "福島"
+    ]
+  },
+  {
+    "siteId": "2_21520_32418",
+    "channelType": 2,
+    "channelId": 21520,
+    "networkId": 32418,
+    "displayName": "福島テレビ",
+    "remoconNumber": 3,
+    "regions": [
+      "福島"
+    ]
+  },
+  {
+    "siteId": "2_21528_32419",
+    "channelType": 2,
+    "channelId": 21528,
+    "networkId": 32419,
+    "displayName": "福島中央テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "福島"
+    ]
+  },
+  {
+    "siteId": "2_21536_32420",
+    "channelType": 2,
+    "channelId": 21536,
+    "networkId": 32420,
+    "displayName": "KFB福島放送",
+    "remoconNumber": 5,
+    "regions": [
+      "福島"
+    ]
+  },
+  {
+    "siteId": "2_21544_32421",
+    "channelType": 2,
+    "channelId": 21544,
+    "networkId": 32421,
+    "displayName": "テレビユー福島",
+    "remoconNumber": 6,
+    "regions": [
+      "福島"
+    ]
+  },
+  {
+    "siteId": "2_22528_32400",
+    "channelType": 2,
+    "channelId": 22528,
+    "networkId": 32400,
+    "displayName": "NHK総合・青森",
+    "remoconNumber": 1,
+    "regions": [
+      "青森"
+    ]
+  },
+  {
+    "siteId": "2_22536_32401",
+    "channelType": 2,
+    "channelId": 22536,
+    "networkId": 32401,
+    "displayName": "NHK Eテレ青森",
+    "remoconNumber": 2,
+    "regions": [
+      "青森"
+    ]
+  },
+  {
+    "siteId": "2_22544_32402",
+    "channelType": 2,
+    "channelId": 22544,
+    "networkId": 32402,
+    "displayName": "RAB青森放送",
+    "remoconNumber": 3,
+    "regions": [
+      "青森"
+    ]
+  },
+  {
+    "siteId": "2_22552_32403",
+    "channelType": 2,
+    "channelId": 22552,
+    "networkId": 32403,
+    "displayName": "ATV青森テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "青森"
+    ]
+  },
+  {
+    "siteId": "2_22560_32404",
+    "channelType": 2,
+    "channelId": 22560,
+    "networkId": 32404,
+    "displayName": "青森朝日放送",
+    "remoconNumber": 5,
+    "regions": [
+      "青森"
+    ]
+  },
+  {
+    "siteId": "2_23608_32391",
+    "channelType": 2,
+    "channelId": 23608,
+    "networkId": 32391,
+    "displayName": "TOKYO MX",
+    "remoconNumber": 9,
+    "regions": [
+      "東京"
+    ]
+  },
+  {
+    "siteId": "2_24632_32375",
+    "channelType": 2,
+    "channelId": 24632,
+    "networkId": 32375,
+    "displayName": "テレビ神奈川",
+    "remoconNumber": 0,
+    "regions": [
+      "神奈川"
+    ]
+  },
+  {
+    "siteId": "2_25600_32352",
+    "channelType": 2,
+    "channelId": 25600,
+    "networkId": 32352,
+    "displayName": "NHK前橋総合",
+    "remoconNumber": 0,
+    "regions": [
+      "群馬"
+    ]
+  },
+  {
+    "siteId": "2_25656_32359",
+    "channelType": 2,
+    "channelId": 25656,
+    "networkId": 32359,
+    "displayName": "群馬テレビ",
+    "remoconNumber": 0,
+    "regions": [
+      "群馬"
+    ]
+  },
+  {
+    "siteId": "2_26624_32336",
+    "channelType": 2,
+    "channelId": 26624,
+    "networkId": 32336,
+    "displayName": "NHK水戸総合",
+    "remoconNumber": 0,
+    "regions": [
+      "茨城"
+    ]
+  },
+  {
+    "siteId": "2_27704_32327",
+    "channelType": 2,
+    "channelId": 27704,
+    "networkId": 32327,
+    "displayName": "チバテレビ",
+    "remoconNumber": 0,
+    "regions": [
+      "千葉"
+    ]
+  },
+  {
+    "siteId": "2_28672_32304",
+    "channelType": 2,
+    "channelId": 28672,
+    "networkId": 32304,
+    "displayName": "NHK宇都宮総合",
+    "remoconNumber": 0,
+    "regions": [
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_28728_32311",
+    "channelType": 2,
+    "channelId": 28728,
+    "networkId": 32311,
+    "displayName": "とちぎテレビ",
+    "remoconNumber": 0,
+    "regions": [
+      "栃木"
+    ]
+  },
+  {
+    "siteId": "2_29752_32295",
+    "channelType": 2,
+    "channelId": 29752,
+    "networkId": 32295,
+    "displayName": "テレ玉",
+    "remoconNumber": 0,
+    "regions": [
+      "埼玉"
+    ]
+  },
+  {
+    "siteId": "2_30720_32272",
+    "channelType": 2,
+    "channelId": 30720,
+    "networkId": 32272,
+    "displayName": "NHK総合・長野",
+    "remoconNumber": 1,
+    "regions": [
+      "長野"
+    ]
+  },
+  {
+    "siteId": "2_30728_32273",
+    "channelType": 2,
+    "channelId": 30728,
+    "networkId": 32273,
+    "displayName": "NHK Eテレ長野",
+    "remoconNumber": 2,
+    "regions": [
+      "長野"
+    ]
+  },
+  {
+    "siteId": "2_30736_32274",
+    "channelType": 2,
+    "channelId": 30736,
+    "networkId": 32274,
+    "displayName": "テレビ信州",
+    "remoconNumber": 3,
+    "regions": [
+      "長野"
+    ]
+  },
+  {
+    "siteId": "2_30744_32275",
+    "channelType": 2,
+    "channelId": 30744,
+    "networkId": 32275,
+    "displayName": "abn長野朝日放送",
+    "remoconNumber": 4,
+    "regions": [
+      "長野"
+    ]
+  },
+  {
+    "siteId": "2_30752_32276",
+    "channelType": 2,
+    "channelId": 30752,
+    "networkId": 32276,
+    "displayName": "SBC信越放送",
+    "remoconNumber": 5,
+    "regions": [
+      "長野"
+    ]
+  },
+  {
+    "siteId": "2_30760_32277",
+    "channelType": 2,
+    "channelId": 30760,
+    "networkId": 32277,
+    "displayName": "NBS長野放送",
+    "remoconNumber": 6,
+    "regions": [
+      "長野"
+    ]
+  },
+  {
+    "siteId": "2_3080_32705",
+    "channelType": 2,
+    "channelId": 3080,
+    "networkId": 32705,
+    "displayName": "NHK Eテレ名古屋",
+    "remoconNumber": 2,
+    "regions": [
+      "愛知"
+    ]
+  },
+  {
+    "siteId": "2_3088_32706",
+    "channelType": 2,
+    "channelId": 3088,
+    "networkId": 32706,
+    "displayName": "東海テレビ",
+    "remoconNumber": 3,
+    "regions": [
+      "愛知"
+    ]
+  },
+  {
+    "siteId": "2_3096_32707",
+    "channelType": 2,
+    "channelId": 3096,
+    "networkId": 32707,
+    "displayName": "CBCテレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "愛知"
+    ]
+  },
+  {
+    "siteId": "2_3104_32708",
+    "channelType": 2,
+    "channelId": 3104,
+    "networkId": 32708,
+    "displayName": "メ〜テレ",
+    "remoconNumber": 5,
+    "regions": [
+      "愛知"
+    ]
+  },
+  {
+    "siteId": "2_3112_32709",
+    "channelType": 2,
+    "channelId": 3112,
+    "networkId": 32709,
+    "displayName": "中京テレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "愛知"
+    ]
+  },
+  {
+    "siteId": "2_31744_32256",
+    "channelType": 2,
+    "channelId": 31744,
+    "networkId": 32256,
+    "displayName": "NHK総合・新潟",
+    "remoconNumber": 1,
+    "regions": [
+      "新潟"
+    ]
+  },
+  {
+    "siteId": "2_31752_32257",
+    "channelType": 2,
+    "channelId": 31752,
+    "networkId": 32257,
+    "displayName": "NHK Eテレ新潟",
+    "remoconNumber": 2,
+    "regions": [
+      "新潟"
+    ]
+  },
+  {
+    "siteId": "2_31760_32258",
+    "channelType": 2,
+    "channelId": 31760,
+    "networkId": 32258,
+    "displayName": "BSN",
+    "remoconNumber": 3,
+    "regions": [
+      "新潟"
+    ]
+  },
+  {
+    "siteId": "2_31768_32259",
+    "channelType": 2,
+    "channelId": 31768,
+    "networkId": 32259,
+    "displayName": "NST",
+    "remoconNumber": 4,
+    "regions": [
+      "新潟"
+    ]
+  },
+  {
+    "siteId": "2_31776_32260",
+    "channelType": 2,
+    "channelId": 31776,
+    "networkId": 32260,
+    "displayName": "TeNY",
+    "remoconNumber": 5,
+    "regions": [
+      "新潟"
+    ]
+  },
+  {
+    "siteId": "2_31784_32261",
+    "channelType": 2,
+    "channelId": 31784,
+    "networkId": 32261,
+    "displayName": "新潟テレビ21",
+    "remoconNumber": 6,
+    "regions": [
+      "新潟"
+    ]
+  },
+  {
+    "siteId": "2_32768_32240",
+    "channelType": 2,
+    "channelId": 32768,
+    "networkId": 32240,
+    "displayName": "NHK総合・甲府",
+    "remoconNumber": 1,
+    "regions": [
+      "山梨"
+    ]
+  },
+  {
+    "siteId": "2_32776_32241",
+    "channelType": 2,
+    "channelId": 32776,
+    "networkId": 32241,
+    "displayName": "NHK Eテレ甲府",
+    "remoconNumber": 2,
+    "regions": [
+      "山梨"
+    ]
+  },
+  {
+    "siteId": "2_32784_32242",
+    "channelType": 2,
+    "channelId": 32784,
+    "networkId": 32242,
+    "displayName": "YBS山梨放送",
+    "remoconNumber": 3,
+    "regions": [
+      "山梨"
+    ]
+  },
+  {
+    "siteId": "2_32792_32243",
+    "channelType": 2,
+    "channelId": 32792,
+    "networkId": 32243,
+    "displayName": "UTY",
+    "remoconNumber": 4,
+    "regions": [
+      "山梨"
+    ]
+  },
+  {
+    "siteId": "2_33792_32224",
+    "channelType": 2,
+    "channelId": 33792,
+    "networkId": 32224,
+    "displayName": "NHK総合・名古屋",
+    "remoconNumber": 1,
+    "regions": [
+      "愛知"
+    ]
+  },
+  {
+    "siteId": "2_33840_32230",
+    "channelType": 2,
+    "channelId": 33840,
+    "networkId": 32230,
+    "displayName": "テレビ愛知",
+    "remoconNumber": 7,
+    "regions": [
+      "愛知"
+    ]
+  },
+  {
+    "siteId": "2_34816_32208",
+    "channelType": 2,
+    "channelId": 34816,
+    "networkId": 32208,
+    "displayName": "NHK総合・金沢",
+    "remoconNumber": 1,
+    "regions": [
+      "石川"
+    ]
+  },
+  {
+    "siteId": "2_34824_32209",
+    "channelType": 2,
+    "channelId": 34824,
+    "networkId": 32209,
+    "displayName": "NHK Eテレ金沢",
+    "remoconNumber": 2,
+    "regions": [
+      "石川"
+    ]
+  },
+  {
+    "siteId": "2_34832_32210",
+    "channelType": 2,
+    "channelId": 34832,
+    "networkId": 32210,
+    "displayName": "テレビ金沢",
+    "remoconNumber": 3,
+    "regions": [
+      "石川"
+    ]
+  },
+  {
+    "siteId": "2_34840_32211",
+    "channelType": 2,
+    "channelId": 34840,
+    "networkId": 32211,
+    "displayName": "北陸朝日放送",
+    "remoconNumber": 4,
+    "regions": [
+      "石川"
+    ]
+  },
+  {
+    "siteId": "2_34848_32212",
+    "channelType": 2,
+    "channelId": 34848,
+    "networkId": 32212,
+    "displayName": "MRO",
+    "remoconNumber": 5,
+    "regions": [
+      "石川"
+    ]
+  },
+  {
+    "siteId": "2_34856_32213",
+    "channelType": 2,
+    "channelId": 34856,
+    "networkId": 32213,
+    "displayName": "石川テレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "石川"
+    ]
+  },
+  {
+    "siteId": "2_35840_32192",
+    "channelType": 2,
+    "channelId": 35840,
+    "networkId": 32192,
+    "displayName": "NHK総合・静岡",
+    "remoconNumber": 1,
+    "regions": [
+      "静岡"
+    ]
+  },
+  {
+    "siteId": "2_35848_32193",
+    "channelType": 2,
+    "channelId": 35848,
+    "networkId": 32193,
+    "displayName": "NHK Eテレ静岡",
+    "remoconNumber": 2,
+    "regions": [
+      "静岡"
+    ]
+  },
+  {
+    "siteId": "2_35856_32194",
+    "channelType": 2,
+    "channelId": 35856,
+    "networkId": 32194,
+    "displayName": "SBS",
+    "remoconNumber": 3,
+    "regions": [
+      "静岡"
+    ]
+  },
+  {
+    "siteId": "2_35864_32195",
+    "channelType": 2,
+    "channelId": 35864,
+    "networkId": 32195,
+    "displayName": "テレビ静岡",
+    "remoconNumber": 4,
+    "regions": [
+      "静岡"
+    ]
+  },
+  {
+    "siteId": "2_35872_32196",
+    "channelType": 2,
+    "channelId": 35872,
+    "networkId": 32196,
+    "displayName": "Daiichi-TV",
+    "remoconNumber": 5,
+    "regions": [
+      "静岡"
+    ]
+  },
+  {
+    "siteId": "2_35880_32197",
+    "channelType": 2,
+    "channelId": 35880,
+    "networkId": 32197,
+    "displayName": "静岡朝日テレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "静岡"
+    ]
+  },
+  {
+    "siteId": "2_36864_32176",
+    "channelType": 2,
+    "channelId": 36864,
+    "networkId": 32176,
+    "displayName": "NHK総合・福井",
+    "remoconNumber": 1,
+    "regions": [
+      "福井"
+    ]
+  },
+  {
+    "siteId": "2_36872_32177",
+    "channelType": 2,
+    "channelId": 36872,
+    "networkId": 32177,
+    "displayName": "NHK Eテレ福井",
+    "remoconNumber": 2,
+    "regions": [
+      "福井"
+    ]
+  },
+  {
+    "siteId": "2_36880_32178",
+    "channelType": 2,
+    "channelId": 36880,
+    "networkId": 32178,
+    "displayName": "FBCテレビ",
+    "remoconNumber": 3,
+    "regions": [
+      "福井"
+    ]
+  },
+  {
+    "siteId": "2_36888_32179",
+    "channelType": 2,
+    "channelId": 36888,
+    "networkId": 32179,
+    "displayName": "福井テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "福井"
+    ]
+  },
+  {
+    "siteId": "2_37888_32160",
+    "channelType": 2,
+    "channelId": 37888,
+    "networkId": 32160,
+    "displayName": "NHK総合・富山",
+    "remoconNumber": 1,
+    "regions": [
+      "富山"
+    ]
+  },
+  {
+    "siteId": "2_37896_32161",
+    "channelType": 2,
+    "channelId": 37896,
+    "networkId": 32161,
+    "displayName": "NHK Eテレ富山",
+    "remoconNumber": 2,
+    "regions": [
+      "富山"
+    ]
+  },
+  {
+    "siteId": "2_37904_32162",
+    "channelType": 2,
+    "channelId": 37904,
+    "networkId": 32162,
+    "displayName": "KNB北日本放送",
+    "remoconNumber": 3,
+    "regions": [
+      "富山"
+    ]
+  },
+  {
+    "siteId": "2_37912_32163",
+    "channelType": 2,
+    "channelId": 37912,
+    "networkId": 32163,
+    "displayName": "BBT富山テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "富山"
+    ]
+  },
+  {
+    "siteId": "2_37920_32164",
+    "channelType": 2,
+    "channelId": 37920,
+    "networkId": 32164,
+    "displayName": "チューリップテレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "富山"
+    ]
+  },
+  {
+    "siteId": "2_38912_32144",
+    "channelType": 2,
+    "channelId": 38912,
+    "networkId": 32144,
+    "displayName": "NHK総合・津",
+    "remoconNumber": 1,
+    "regions": [
+      "三重"
+    ]
+  },
+  {
+    "siteId": "2_38960_32150",
+    "channelType": 2,
+    "channelId": 38960,
+    "networkId": 32150,
+    "displayName": "三重テレビ",
+    "remoconNumber": 2,
+    "regions": [
+      "三重"
+    ]
+  },
+  {
+    "siteId": "2_39936_32128",
+    "channelType": 2,
+    "channelId": 39936,
+    "networkId": 32128,
+    "displayName": "NHK総合・岐阜",
+    "remoconNumber": 1,
+    "regions": [
+      "岐阜"
+    ]
+  },
+  {
+    "siteId": "2_39984_32134",
+    "channelType": 2,
+    "channelId": 39984,
+    "networkId": 32134,
+    "displayName": "岐阜テレビ",
+    "remoconNumber": 2,
+    "regions": [
+      "岐阜"
+    ]
+  },
+  {
+    "siteId": "2_40960_32112",
+    "channelType": 2,
+    "channelId": 40960,
+    "networkId": 32112,
+    "displayName": "NHK大阪総合",
+    "remoconNumber": 1,
+    "regions": [
+      "大阪"
+    ]
+  },
+  {
+    "siteId": "2_41008_32118",
+    "channelType": 2,
+    "channelId": 41008,
+    "networkId": 32118,
+    "displayName": "テレビ大阪",
+    "remoconNumber": 7,
+    "regions": [
+      "大阪"
+    ]
+  },
+  {
+    "siteId": "2_4112_32690",
+    "channelType": 2,
+    "channelId": 4112,
+    "networkId": 32690,
+    "displayName": "HBC",
+    "remoconNumber": 3,
+    "regions": [
+      "北海道（札幌）"
+    ]
+  },
+  {
+    "siteId": "2_4120_32691",
+    "channelType": 2,
+    "channelId": 4120,
+    "networkId": 32691,
+    "displayName": "札幌テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "北海道（札幌）"
+    ]
+  },
+  {
+    "siteId": "2_4128_32692",
+    "channelType": 2,
+    "channelId": 4128,
+    "networkId": 32692,
+    "displayName": "北海道テレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "北海道（札幌）"
+    ]
+  },
+  {
+    "siteId": "2_4136_32693",
+    "channelType": 2,
+    "channelId": 4136,
+    "networkId": 32693,
+    "displayName": "北海道文化放送",
+    "remoconNumber": 6,
+    "regions": [
+      "北海道（札幌）"
+    ]
+  },
+  {
+    "siteId": "2_4144_32694",
+    "channelType": 2,
+    "channelId": 4144,
+    "networkId": 32694,
+    "displayName": "テレビ北海道",
+    "remoconNumber": 7,
+    "regions": [
+      "北海道（札幌）"
+    ]
+  },
+  {
+    "siteId": "2_41984_32096",
+    "channelType": 2,
+    "channelId": 41984,
+    "networkId": 32096,
+    "displayName": "NHK京都総合",
+    "remoconNumber": 1,
+    "regions": [
+      "京都"
+    ]
+  },
+  {
+    "siteId": "2_42032_32102",
+    "channelType": 2,
+    "channelId": 42032,
+    "networkId": 32102,
+    "displayName": "KBS京都",
+    "remoconNumber": 2,
+    "regions": [
+      "京都"
+    ]
+  },
+  {
+    "siteId": "2_43008_32080",
+    "channelType": 2,
+    "channelId": 43008,
+    "networkId": 32080,
+    "displayName": "NHK神戸総合",
+    "remoconNumber": 1,
+    "regions": [
+      "兵庫"
+    ]
+  },
+  {
+    "siteId": "2_43056_32086",
+    "channelType": 2,
+    "channelId": 43056,
+    "networkId": 32086,
+    "displayName": "サンテレビ",
+    "remoconNumber": 2,
+    "regions": [
+      "兵庫"
+    ]
+  },
+  {
+    "siteId": "2_44032_32064",
+    "channelType": 2,
+    "channelId": 44032,
+    "networkId": 32064,
+    "displayName": "NHK和歌山総合",
+    "remoconNumber": 1,
+    "regions": [
+      "和歌山"
+    ]
+  },
+  {
+    "siteId": "2_44080_32070",
+    "channelType": 2,
+    "channelId": 44080,
+    "networkId": 32070,
+    "displayName": "テレビ和歌山",
+    "remoconNumber": 2,
+    "regions": [
+      "和歌山"
+    ]
+  },
+  {
+    "siteId": "2_45056_32048",
+    "channelType": 2,
+    "channelId": 45056,
+    "networkId": 32048,
+    "displayName": "NHK総合・奈良",
+    "remoconNumber": 1,
+    "regions": [
+      "奈良"
+    ]
+  },
+  {
+    "siteId": "2_45104_32054",
+    "channelType": 2,
+    "channelId": 45104,
+    "networkId": 32054,
+    "displayName": "奈良テレビ",
+    "remoconNumber": 2,
+    "regions": [
+      "奈良"
+    ]
+  },
+  {
+    "siteId": "2_46080_32032",
+    "channelType": 2,
+    "channelId": 46080,
+    "networkId": 32032,
+    "displayName": "NHK総合・大津",
+    "remoconNumber": 1,
+    "regions": [
+      "滋賀"
+    ]
+  },
+  {
+    "siteId": "2_46128_32038",
+    "channelType": 2,
+    "channelId": 46128,
+    "networkId": 32038,
+    "displayName": "BBCびわ湖放送",
+    "remoconNumber": 2,
+    "regions": [
+      "滋賀"
+    ]
+  },
+  {
+    "siteId": "2_47104_32016",
+    "channelType": 2,
+    "channelId": 47104,
+    "networkId": 32016,
+    "displayName": "NHK総合・広島",
+    "remoconNumber": 1,
+    "regions": [
+      "広島"
+    ]
+  },
+  {
+    "siteId": "2_47112_32017",
+    "channelType": 2,
+    "channelId": 47112,
+    "networkId": 32017,
+    "displayName": "NHK Eテレ広島",
+    "remoconNumber": 2,
+    "regions": [
+      "広島"
+    ]
+  },
+  {
+    "siteId": "2_47120_32018",
+    "channelType": 2,
+    "channelId": 47120,
+    "networkId": 32018,
+    "displayName": "RCCテレビ",
+    "remoconNumber": 3,
+    "regions": [
+      "広島"
+    ]
+  },
+  {
+    "siteId": "2_47128_32019",
+    "channelType": 2,
+    "channelId": 47128,
+    "networkId": 32019,
+    "displayName": "広島テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "広島"
+    ]
+  },
+  {
+    "siteId": "2_47136_32020",
+    "channelType": 2,
+    "channelId": 47136,
+    "networkId": 32020,
+    "displayName": "広島ホームテレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "広島"
+    ]
+  },
+  {
+    "siteId": "2_47144_32021",
+    "channelType": 2,
+    "channelId": 47144,
+    "networkId": 32021,
+    "displayName": "TSS",
+    "remoconNumber": 6,
+    "regions": [
+      "広島"
+    ]
+  },
+  {
+    "siteId": "2_48128_32000",
+    "channelType": 2,
+    "channelId": 48128,
+    "networkId": 32000,
+    "displayName": "NHK総合・岡山",
+    "remoconNumber": 1,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_48136_32001",
+    "channelType": 2,
+    "channelId": 48136,
+    "networkId": 32001,
+    "displayName": "NHK Eテレ岡山",
+    "remoconNumber": 2,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_49152_31984",
+    "channelType": 2,
+    "channelId": 49152,
+    "networkId": 31984,
+    "displayName": "NHK総合・松江",
+    "remoconNumber": 1,
+    "regions": [
+      "島根・鳥取"
+    ]
+  },
+  {
+    "siteId": "2_49160_31985",
+    "channelType": 2,
+    "channelId": 49160,
+    "networkId": 31985,
+    "displayName": "NHK Eテレ松江",
+    "remoconNumber": 2,
+    "regions": [
+      "島根・鳥取"
+    ]
+  },
+  {
+    "siteId": "2_50176_31968",
+    "channelType": 2,
+    "channelId": 50176,
+    "networkId": 31968,
+    "displayName": "NHK総合・鳥取",
+    "remoconNumber": 3,
+    "regions": [
+      "島根・鳥取"
+    ]
+  },
+  {
+    "siteId": "2_50184_31969",
+    "channelType": 2,
+    "channelId": 50184,
+    "networkId": 31969,
+    "displayName": "NHK Eテレ鳥取",
+    "remoconNumber": 4,
+    "regions": [
+      "島根・鳥取"
+    ]
+  },
+  {
+    "siteId": "2_51200_31952",
+    "channelType": 2,
+    "channelId": 51200,
+    "networkId": 31952,
+    "displayName": "NHK山口総合",
+    "remoconNumber": 1,
+    "regions": [
+      "山口"
+    ]
+  },
+  {
+    "siteId": "2_51208_31953",
+    "channelType": 2,
+    "channelId": 51208,
+    "networkId": 31953,
+    "displayName": "NHK山口教育",
+    "remoconNumber": 2,
+    "regions": [
+      "山口"
+    ]
+  },
+  {
+    "siteId": "2_51216_31954",
+    "channelType": 2,
+    "channelId": 51216,
+    "networkId": 31954,
+    "displayName": "山口放送",
+    "remoconNumber": 3,
+    "regions": [
+      "山口"
+    ]
+  },
+  {
+    "siteId": "2_51224_31955",
+    "channelType": 2,
+    "channelId": 51224,
+    "networkId": 31955,
+    "displayName": "テレビ山口",
+    "remoconNumber": 4,
+    "regions": [
+      "山口"
+    ]
+  },
+  {
+    "siteId": "2_51232_31956",
+    "channelType": 2,
+    "channelId": 51232,
+    "networkId": 31956,
+    "displayName": "山口朝日放送",
+    "remoconNumber": 5,
+    "regions": [
+      "山口"
+    ]
+  },
+  {
+    "siteId": "2_5136_32674",
+    "channelType": 2,
+    "channelId": 5136,
+    "networkId": 32674,
+    "displayName": "RNC西日本放送",
+    "remoconNumber": 5,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_5144_32675",
+    "channelType": 2,
+    "channelId": 5144,
+    "networkId": 32675,
+    "displayName": "KSB瀬戸内海放送",
+    "remoconNumber": 6,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_5152_32676",
+    "channelType": 2,
+    "channelId": 5152,
+    "networkId": 32676,
+    "displayName": "RSKテレビ",
+    "remoconNumber": 7,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_5160_32677",
+    "channelType": 2,
+    "channelId": 5160,
+    "networkId": 32677,
+    "displayName": "テレビせとうち",
+    "remoconNumber": 8,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_5168_32678",
+    "channelType": 2,
+    "channelId": 5168,
+    "networkId": 32678,
+    "displayName": "OHKテレビ",
+    "remoconNumber": 9,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_52224_31936",
+    "channelType": 2,
+    "channelId": 52224,
+    "networkId": 31936,
+    "displayName": "NHK総合・松山",
+    "remoconNumber": 1,
+    "regions": [
+      "愛媛"
+    ]
+  },
+  {
+    "siteId": "2_52232_31937",
+    "channelType": 2,
+    "channelId": 52232,
+    "networkId": 31937,
+    "displayName": "NHK Eテレ松山",
+    "remoconNumber": 2,
+    "regions": [
+      "愛媛"
+    ]
+  },
+  {
+    "siteId": "2_52240_31938",
+    "channelType": 2,
+    "channelId": 52240,
+    "networkId": 31938,
+    "displayName": "南海放送",
+    "remoconNumber": 3,
+    "regions": [
+      "愛媛"
+    ]
+  },
+  {
+    "siteId": "2_52248_31939",
+    "channelType": 2,
+    "channelId": 52248,
+    "networkId": 31939,
+    "displayName": "愛媛朝日",
+    "remoconNumber": 4,
+    "regions": [
+      "愛媛"
+    ]
+  },
+  {
+    "siteId": "2_52256_31940",
+    "channelType": 2,
+    "channelId": 52256,
+    "networkId": 31940,
+    "displayName": "あいテレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "愛媛"
+    ]
+  },
+  {
+    "siteId": "2_52264_31941",
+    "channelType": 2,
+    "channelId": 52264,
+    "networkId": 31941,
+    "displayName": "テレビ愛媛",
+    "remoconNumber": 6,
+    "regions": [
+      "愛媛"
+    ]
+  },
+  {
+    "siteId": "2_53248_31920",
+    "channelType": 2,
+    "channelId": 53248,
+    "networkId": 31920,
+    "displayName": "NHK総合・高松",
+    "remoconNumber": 3,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_53256_31921",
+    "channelType": 2,
+    "channelId": 53256,
+    "networkId": 31921,
+    "displayName": "NHK Eテレ高松",
+    "remoconNumber": 4,
+    "regions": [
+      "岡山・香川"
+    ]
+  },
+  {
+    "siteId": "2_54272_31904",
+    "channelType": 2,
+    "channelId": 54272,
+    "networkId": 31904,
+    "displayName": "NHK総合・徳島",
+    "remoconNumber": 1,
+    "regions": [
+      "徳島"
+    ]
+  },
+  {
+    "siteId": "2_54280_31905",
+    "channelType": 2,
+    "channelId": 54280,
+    "networkId": 31905,
+    "displayName": "NHK Eテレ徳島",
+    "remoconNumber": 2,
+    "regions": [
+      "徳島"
+    ]
+  },
+  {
+    "siteId": "2_54288_31906",
+    "channelType": 2,
+    "channelId": 54288,
+    "networkId": 31906,
+    "displayName": "四国放送",
+    "remoconNumber": 3,
+    "regions": [
+      "徳島"
+    ]
+  },
+  {
+    "siteId": "2_55296_31888",
+    "channelType": 2,
+    "channelId": 55296,
+    "networkId": 31888,
+    "displayName": "NHK総合・高知",
+    "remoconNumber": 1,
+    "regions": [
+      "高知"
+    ]
+  },
+  {
+    "siteId": "2_55304_31889",
+    "channelType": 2,
+    "channelId": 55304,
+    "networkId": 31889,
+    "displayName": "NHK Eテレ高知",
+    "remoconNumber": 2,
+    "regions": [
+      "高知"
+    ]
+  },
+  {
+    "siteId": "2_55312_31890",
+    "channelType": 2,
+    "channelId": 55312,
+    "networkId": 31890,
+    "displayName": "高知放送",
+    "remoconNumber": 3,
+    "regions": [
+      "高知"
+    ]
+  },
+  {
+    "siteId": "2_55320_31891",
+    "channelType": 2,
+    "channelId": 55320,
+    "networkId": 31891,
+    "displayName": "テレビ高知",
+    "remoconNumber": 4,
+    "regions": [
+      "高知"
+    ]
+  },
+  {
+    "siteId": "2_55328_31892",
+    "channelType": 2,
+    "channelId": 55328,
+    "networkId": 31892,
+    "displayName": "さんさんテレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "高知"
+    ]
+  },
+  {
+    "siteId": "2_56320_31872",
+    "channelType": 2,
+    "channelId": 56320,
+    "networkId": 31872,
+    "displayName": "NHK福岡総合",
+    "remoconNumber": 1,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_56328_31873",
+    "channelType": 2,
+    "channelId": 56328,
+    "networkId": 31873,
+    "displayName": "NHK福岡教育",
+    "remoconNumber": 2,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_56336_31874",
+    "channelType": 2,
+    "channelId": 56336,
+    "networkId": 31874,
+    "displayName": "KBC九州朝日",
+    "remoconNumber": 3,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_56344_31875",
+    "channelType": 2,
+    "channelId": 56344,
+    "networkId": 31875,
+    "displayName": "RKB毎日",
+    "remoconNumber": 4,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_56352_31876",
+    "channelType": 2,
+    "channelId": 56352,
+    "networkId": 31876,
+    "displayName": "FBS福岡",
+    "remoconNumber": 5,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_56360_31877",
+    "channelType": 2,
+    "channelId": 56360,
+    "networkId": 31877,
+    "displayName": "TVQ九州放送",
+    "remoconNumber": 6,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_56368_31878",
+    "channelType": 2,
+    "channelId": 56368,
+    "networkId": 31878,
+    "displayName": "TNCテレビ西日本",
+    "remoconNumber": 7,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_56832_30848",
+    "channelType": 2,
+    "channelId": 56832,
+    "networkId": 30848,
+    "displayName": "NHK北九州総合",
+    "remoconNumber": 8,
+    "regions": [
+      "福岡"
+    ]
+  },
+  {
+    "siteId": "2_57344_31856",
+    "channelType": 2,
+    "channelId": 57344,
+    "networkId": 31856,
+    "displayName": "NHK総合・熊本",
+    "remoconNumber": 1,
+    "regions": [
+      "熊本"
+    ]
+  },
+  {
+    "siteId": "2_57352_31857",
+    "channelType": 2,
+    "channelId": 57352,
+    "networkId": 31857,
+    "displayName": "NHK Eテレ熊本",
+    "remoconNumber": 2,
+    "regions": [
+      "熊本"
+    ]
+  },
+  {
+    "siteId": "2_57360_31858",
+    "channelType": 2,
+    "channelId": 57360,
+    "networkId": 31858,
+    "displayName": "RKK熊本放送",
+    "remoconNumber": 3,
+    "regions": [
+      "熊本"
+    ]
+  },
+  {
+    "siteId": "2_57368_31859",
+    "channelType": 2,
+    "channelId": 57368,
+    "networkId": 31859,
+    "displayName": "TKUテレビ熊本",
+    "remoconNumber": 4,
+    "regions": [
+      "熊本"
+    ]
+  },
+  {
+    "siteId": "2_57376_31860",
+    "channelType": 2,
+    "channelId": 57376,
+    "networkId": 31860,
+    "displayName": "KKTくまもと県民TV",
+    "remoconNumber": 5,
+    "regions": [
+      "熊本"
+    ]
+  },
+  {
+    "siteId": "2_57384_31861",
+    "channelType": 2,
+    "channelId": 57384,
+    "networkId": 31861,
+    "displayName": "KAB熊本朝日放送",
+    "remoconNumber": 6,
+    "regions": [
+      "熊本"
+    ]
+  },
+  {
+    "siteId": "2_58368_31840",
+    "channelType": 2,
+    "channelId": 58368,
+    "networkId": 31840,
+    "displayName": "NHK総合・長崎",
+    "remoconNumber": 1,
+    "regions": [
+      "長崎"
+    ]
+  },
+  {
+    "siteId": "2_58376_31841",
+    "channelType": 2,
+    "channelId": 58376,
+    "networkId": 31841,
+    "displayName": "NHK Eテレ長崎",
+    "remoconNumber": 2,
+    "regions": [
+      "長崎"
+    ]
+  },
+  {
+    "siteId": "2_58384_31842",
+    "channelType": 2,
+    "channelId": 58384,
+    "networkId": 31842,
+    "displayName": "NBC長崎放送",
+    "remoconNumber": 3,
+    "regions": [
+      "長崎"
+    ]
+  },
+  {
+    "siteId": "2_58392_31843",
+    "channelType": 2,
+    "channelId": 58392,
+    "networkId": 31843,
+    "displayName": "KTNテレビ長崎",
+    "remoconNumber": 4,
+    "regions": [
+      "長崎"
+    ]
+  },
+  {
+    "siteId": "2_58400_31844",
+    "channelType": 2,
+    "channelId": 58400,
+    "networkId": 31844,
+    "displayName": "NCC長崎文化放送",
+    "remoconNumber": 5,
+    "regions": [
+      "長崎"
+    ]
+  },
+  {
+    "siteId": "2_58408_31845",
+    "channelType": 2,
+    "channelId": 58408,
+    "networkId": 31845,
+    "displayName": "NIB長崎国際テレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "長崎"
+    ]
+  },
+  {
+    "siteId": "2_59392_31824",
+    "channelType": 2,
+    "channelId": 59392,
+    "networkId": 31824,
+    "displayName": "NHK総合・鹿児島",
+    "remoconNumber": 1,
+    "regions": [
+      "鹿児島"
+    ]
+  },
+  {
+    "siteId": "2_59400_31825",
+    "channelType": 2,
+    "channelId": 59400,
+    "networkId": 31825,
+    "displayName": "NHK Eテレ鹿児島",
+    "remoconNumber": 2,
+    "regions": [
+      "鹿児島"
+    ]
+  },
+  {
+    "siteId": "2_59408_31826",
+    "channelType": 2,
+    "channelId": 59408,
+    "networkId": 31826,
+    "displayName": "MBC南日本放送",
+    "remoconNumber": 3,
+    "regions": [
+      "鹿児島"
+    ]
+  },
+  {
+    "siteId": "2_59416_31827",
+    "channelType": 2,
+    "channelId": 59416,
+    "networkId": 31827,
+    "displayName": "KTS鹿児島テレビ",
+    "remoconNumber": 4,
+    "regions": [
+      "鹿児島"
+    ]
+  },
+  {
+    "siteId": "2_59424_31828",
+    "channelType": 2,
+    "channelId": 59424,
+    "networkId": 31828,
+    "displayName": "KKB鹿児島放送",
+    "remoconNumber": 5,
+    "regions": [
+      "鹿児島"
+    ]
+  },
+  {
+    "siteId": "2_59432_31829",
+    "channelType": 2,
+    "channelId": 59432,
+    "networkId": 31829,
+    "displayName": "KYT鹿児島読売TV",
+    "remoconNumber": 6,
+    "regions": [
+      "鹿児島"
+    ]
+  },
+  {
+    "siteId": "2_60416_31808",
+    "channelType": 2,
+    "channelId": 60416,
+    "networkId": 31808,
+    "displayName": "NHK総合・宮崎",
+    "remoconNumber": 1,
+    "regions": [
+      "宮崎"
+    ]
+  },
+  {
+    "siteId": "2_60424_31809",
+    "channelType": 2,
+    "channelId": 60424,
+    "networkId": 31809,
+    "displayName": "NHK Eテレ宮崎",
+    "remoconNumber": 2,
+    "regions": [
+      "宮崎"
+    ]
+  },
+  {
+    "siteId": "2_60432_31810",
+    "channelType": 2,
+    "channelId": 60432,
+    "networkId": 31810,
+    "displayName": "MRT宮崎放送",
+    "remoconNumber": 3,
+    "regions": [
+      "宮崎"
+    ]
+  },
+  {
+    "siteId": "2_60440_31811",
+    "channelType": 2,
+    "channelId": 60440,
+    "networkId": 31811,
+    "displayName": "UMKテレビ宮崎",
+    "remoconNumber": 4,
+    "regions": [
+      "宮崎"
+    ]
+  },
+  {
+    "siteId": "2_61440_31792",
+    "channelType": 2,
+    "channelId": 61440,
+    "networkId": 31792,
+    "displayName": "NHK総合・大分",
+    "remoconNumber": 1,
+    "regions": [
+      "大分"
+    ]
+  },
+  {
+    "siteId": "2_61448_31793",
+    "channelType": 2,
+    "channelId": 61448,
+    "networkId": 31793,
+    "displayName": "NHK Eテレ大分",
+    "remoconNumber": 2,
+    "regions": [
+      "大分"
+    ]
+  },
+  {
+    "siteId": "2_61456_31794",
+    "channelType": 2,
+    "channelId": 61456,
+    "networkId": 31794,
+    "displayName": "OBS大分放送",
+    "remoconNumber": 3,
+    "regions": [
+      "大分"
+    ]
+  },
+  {
+    "siteId": "2_61464_31795",
+    "channelType": 2,
+    "channelId": 61464,
+    "networkId": 31795,
+    "displayName": "TOSテレビ大分",
+    "remoconNumber": 4,
+    "regions": [
+      "大分"
+    ]
+  },
+  {
+    "siteId": "2_61472_31796",
+    "channelType": 2,
+    "channelId": 61472,
+    "networkId": 31796,
+    "displayName": "OAB大分朝日放送",
+    "remoconNumber": 5,
+    "regions": [
+      "大分"
+    ]
+  },
+  {
+    "siteId": "2_6160_32658",
+    "channelType": 2,
+    "channelId": 6160,
+    "networkId": 32658,
+    "displayName": "さんいん中央テレビ",
+    "remoconNumber": 5,
+    "regions": [
+      "島根・鳥取"
+    ]
+  },
+  {
+    "siteId": "2_6168_32659",
+    "channelType": 2,
+    "channelId": 6168,
+    "networkId": 32659,
+    "displayName": "BSSテレビ",
+    "remoconNumber": 6,
+    "regions": [
+      "島根・鳥取"
+    ]
+  },
+  {
+    "siteId": "2_6176_32660",
+    "channelType": 2,
+    "channelId": 6176,
+    "networkId": 32660,
+    "displayName": "日本海テレビ",
+    "remoconNumber": 7,
+    "regions": [
+      "島根・鳥取"
+    ]
+  },
+  {
+    "siteId": "2_62464_31776",
+    "channelType": 2,
+    "channelId": 62464,
+    "networkId": 31776,
+    "displayName": "NHK総合・佐賀",
+    "remoconNumber": 1,
+    "regions": [
+      "佐賀"
+    ]
+  },
+  {
+    "siteId": "2_62472_31777",
+    "channelType": 2,
+    "channelId": 62472,
+    "networkId": 31777,
+    "displayName": "NHK Eテレ佐賀",
+    "remoconNumber": 2,
+    "regions": [
+      "佐賀"
+    ]
+  },
+  {
+    "siteId": "2_62480_31778",
+    "channelType": 2,
+    "channelId": 62480,
+    "networkId": 31778,
+    "displayName": "STSサガテレビ",
+    "remoconNumber": 3,
+    "regions": [
+      "佐賀"
+    ]
+  },
+  {
+    "siteId": "2_63488_31760",
+    "channelType": 2,
+    "channelId": 63488,
+    "networkId": 31760,
+    "displayName": "NHK総合・那覇",
+    "remoconNumber": 1,
+    "regions": [
+      "沖縄"
+    ]
+  },
+  {
+    "siteId": "2_63496_31761",
+    "channelType": 2,
+    "channelId": 63496,
+    "networkId": 31761,
+    "displayName": "NHK Eテレ沖縄",
+    "remoconNumber": 2,
+    "regions": [
+      "沖縄"
+    ]
+  },
+  {
+    "siteId": "2_63504_31762",
+    "channelType": 2,
+    "channelId": 63504,
+    "networkId": 31762,
+    "displayName": "RBCテレビ",
+    "remoconNumber": 3,
+    "regions": [
+      "沖縄"
+    ]
+  },
+  {
+    "siteId": "2_63520_31764",
+    "channelType": 2,
+    "channelId": 63520,
+    "networkId": 31764,
+    "displayName": "QAB琉球朝日放送",
+    "remoconNumber": 4,
+    "regions": [
+      "沖縄"
+    ]
+  },
+  {
+    "siteId": "2_63544_31767",
+    "channelType": 2,
+    "channelId": 63544,
+    "networkId": 31767,
+    "displayName": "沖縄テレビ（OTV）",
+    "remoconNumber": 5,
+    "regions": [
+      "沖縄"
+    ]
+  },
+  {
+    "siteId": "3_101_11",
+    "channelType": 3,
+    "channelId": 101,
+    "networkId": 11,
+    "displayName": "NHK BSP 4K",
+    "remoconNumber": 101,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_101_4",
+    "channelType": 3,
+    "channelId": 101,
+    "networkId": 4,
+    "displayName": "NHK BS",
+    "remoconNumber": 101,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_141_11",
+    "channelType": 3,
+    "channelId": 141,
+    "networkId": 11,
+    "displayName": "BS日テレ 4K",
+    "remoconNumber": 141,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_141_4",
+    "channelType": 3,
+    "channelId": 141,
+    "networkId": 4,
+    "displayName": "BS日テレ",
+    "remoconNumber": 141,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_151_4",
+    "channelType": 3,
+    "channelId": 151,
+    "networkId": 4,
+    "displayName": "BS朝日",
+    "remoconNumber": 151,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_161_11",
+    "channelType": 3,
+    "channelId": 161,
+    "networkId": 11,
+    "displayName": "BS-TBS 4K",
+    "remoconNumber": 161,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_161_4",
+    "channelType": 3,
+    "channelId": 161,
+    "networkId": 4,
+    "displayName": "BS-TBS",
+    "remoconNumber": 161,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_171_11",
+    "channelType": 3,
+    "channelId": 171,
+    "networkId": 11,
+    "displayName": "BSテレ東 4K",
+    "remoconNumber": 171,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_171_4",
+    "channelType": 3,
+    "channelId": 171,
+    "networkId": 4,
+    "displayName": "BSテレ東",
+    "remoconNumber": 171,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_181_11",
+    "channelType": 3,
+    "channelId": 181,
+    "networkId": 11,
+    "displayName": "BSフジ 4K",
+    "remoconNumber": 181,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_181_4",
+    "channelType": 3,
+    "channelId": 181,
+    "networkId": 4,
+    "displayName": "BSフジ",
+    "remoconNumber": 181,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_191_4",
+    "channelType": 3,
+    "channelId": 191,
+    "networkId": 4,
+    "displayName": "WOWOWプライム",
+    "remoconNumber": 191,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_192_4",
+    "channelType": 3,
+    "channelId": 192,
+    "networkId": 4,
+    "displayName": "WOWOWライブ",
+    "remoconNumber": 192,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_193_4",
+    "channelType": 3,
+    "channelId": 193,
+    "networkId": 4,
+    "displayName": "WOWOWシネマ",
+    "remoconNumber": 193,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_211_4",
+    "channelType": 3,
+    "channelId": 211,
+    "networkId": 4,
+    "displayName": "BS11 イレブン",
+    "remoconNumber": 211,
+    "regions": [
+      "BS"
+    ]
+  },
+  {
+    "siteId": "3_222_4",
+    "channelType": 3,
+    "channelId": 222,
+    "networkId": 4,
+    "displayName": "BS12 トゥエルビ",
+    "remoconNumber": 222,
+    "regions": [
+      "BS"
+    ]
+  }
+]

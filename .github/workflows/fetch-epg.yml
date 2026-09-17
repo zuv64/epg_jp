@@ -1,0 +1,37 @@
+name: Fetch J:COM EPG
+
+on:
+  schedule:
+    # JST 0:00, 2:00, 4:00, 6:00 (UTC 15:00, 17:00, 19:00, 21:00 前日)
+    - cron: '0 15,17,19,21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-epg
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch EPG batch
+        shell: pwsh
+        run: ./scripts/fetch-epg.ps1
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update EPG data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

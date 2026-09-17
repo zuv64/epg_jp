@@ -26,6 +26,16 @@ data/epg/<地域名>/<siteId>/<yyyyMMdd>.json
 
 各JSONファイルの中身は、その日・そのチャンネルの番組情報（番組ID・タイトル・開始/終了時刻・概要など）の配列です。
 
+### `siteId` の構造
+
+`siteId` は `<channelType>_<channelId>_<networkId>` の形式で、J:COMの公開EPG API（`getEpgInfo`の`channels`パラメータ）にそのまま渡せるチャンネル識別子です。
+
+- `channelType`: チャンネル種別。`2`=地上波、`3`=BS、`120`=CS
+- `channelId`: J:COM内部のチャンネルID。地上波の場合はレコーダー側`channelList`の`channel_id`とも一致する（例: 東京地区で日テレ=1040、TBS=1048など）
+- `networkId`: 放送ネットワークID
+
+例えば `2_1040_32738` なら「地上波・チャンネルID 1040（日本テレビ）・ネットワークID 32738」を表します。チャンネルごとの対応関係は [data/channels.json](data/channels.json) を参照してください。
+
 ## 実行の仕組み
 
 - [.github/workflows/fetch-epg.yml](.github/workflows/fetch-epg.yml) がGitHub Actions上で **2時間おき（1日12回、JST 0,2,4,…,22時）** に実行されます。

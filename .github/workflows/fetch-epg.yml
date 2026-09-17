@@ -33,5 +33,11 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update EPG data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
+            for i in 1 2 3 4 5; do
+              if git push; then
+                break
+              fi
+              echo "push rejected, retrying after rebase ($i)"
+              git pull --rebase origin main
+            done
           fi

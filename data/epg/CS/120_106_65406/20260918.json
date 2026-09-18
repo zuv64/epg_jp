@@ -15,7 +15,7 @@
     ],
     "sortGenre": "15",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260917/18468810/image/467f0de8fb27c78768e4ab0e4eed615c.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260917230000,
     "programEnd": 20260918010000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260918010000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 60,
     "end_time": "20260918040000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -75,7 +75,7 @@
     ],
     "sortGenre": "13",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260917/18468812/image/0f0ea7a45b90ac9f14d040e7cc52c391.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260918040000,
     "programEnd": 20260918063000,
@@ -86,7 +86,7 @@
     "top": 240,
     "end_time": "20260918063000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -105,7 +105,7 @@
     ],
     "sortGenre": "13",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18468813/image/461f2f51921e2c06c0f87bffb956c848.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260918063000,
     "programEnd": 20260918090000,
@@ -116,7 +116,7 @@
     "top": 390,
     "end_time": "20260918090000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -135,7 +135,7 @@
     ],
     "sortGenre": "2F",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18468814/image/763ec08c29061cff5d53c9c3d779b4af.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260918090000,
     "programEnd": 20260918093000,
@@ -146,7 +146,7 @@
     "top": 540,
     "end_time": "20260918093000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {

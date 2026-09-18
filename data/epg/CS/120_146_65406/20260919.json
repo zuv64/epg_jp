@@ -7,7 +7,7 @@
     "digitalNo": 402,
     "eventId": "40386",
     "title": "関西学生アメリカンフットボール2026＜第2節＞近畿大学vs神戸大学 #5",
-    "commentary": "9.12MKタクシーフィールドエキスポ▽関西学生リーグディビジョン1全試合放送！",
+    "commentary": "9.12MKタクシーフィールドエキスポ▽解説:中山一郎(近畿大学OB)、中井勇智(神戸大学OB)／実況:能政夕介",
     "attr": [
       "stereo",
       "hd",
@@ -15,7 +15,7 @@
     ],
     "sortGenre": "14",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450587/image/b063fbb4ac32758cb3d1c370bbb52cac.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919000000,
     "programEnd": 20260919023000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260919023000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -37,7 +37,7 @@
     "digitalNo": 402,
     "eventId": "40387",
     "title": "関西学生アメリカンフットボール2026＜第2節＞京都大学vs関西大学 #6",
-    "commentary": "9.12MKタクシーフィールドエキスポ▽関西学生リーグディビジョン1全試合放送！",
+    "commentary": "9.12MKタクシーフィールドエキスポ▽解説:和田淳(京都大学OB)、川西孝志(関西大学OB)／実況:能政夕介",
     "attr": [
       "stereo",
       "hd",
@@ -45,7 +45,7 @@
     ],
     "sortGenre": "14",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450588/image/b51454e08316919bd51af0216d0557a7.jpg",
+    "imgPath": "/monomedia/si/2026/20260918/18450588/image/9fe0b6f2ba600fd6639eda93fc9b1a9c.jpg",
     "isRecommended": null,
     "programStart": 20260919023000,
     "programEnd": 20260919050000,

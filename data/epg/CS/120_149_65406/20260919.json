@@ -15,7 +15,7 @@
     ],
     "sortGenre": "70",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450631/image/990318fd0e21f5674e7fabe4c7d0e699.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919000000,
     "programEnd": 20260919010000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260919010000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -45,7 +45,7 @@
     ],
     "sortGenre": "70",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450632/image/5f8c46b6869761e3940489b220d14d38.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919010000,
     "programEnd": 20260919020000,
@@ -56,7 +56,7 @@
     "top": 60,
     "end_time": "20260919020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -75,7 +75,7 @@
     ],
     "sortGenre": "70",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450633/image/8057120c94baf07429ec3a607057bdea.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919020000,
     "programEnd": 20260919030000,
@@ -86,7 +86,7 @@
     "top": 120,
     "end_time": "20260919030000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -105,7 +105,7 @@
     ],
     "sortGenre": "70",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450634/image/6ff6a41e3a2fbdf768c1eeb4a7642392.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919030000,
     "programEnd": 20260919033000,
@@ -116,7 +116,7 @@
     "top": 180,
     "end_time": "20260919033000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -135,7 +135,7 @@
     ],
     "sortGenre": "70",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450635/image/e88edda0f1cd69db205effe118c9e011.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919033000,
     "programEnd": 20260919043000,
@@ -146,7 +146,7 @@
     "top": 210,
     "end_time": "20260919043000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {

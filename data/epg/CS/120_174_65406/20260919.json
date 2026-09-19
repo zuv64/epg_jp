@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260919002000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 20,
     "end_time": "20260919020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 120,
     "end_time": "20260919032000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 200,
     "end_time": "20260919040000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 240,
     "end_time": "20260919064500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 405,
     "end_time": "20260919070000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 420,
     "end_time": "20260919092500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 565,
     "end_time": "20260919115000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 710,
     "end_time": "20260919143000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 870,
     "end_time": "20260919164000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 1000,
     "end_time": "20260919181500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 1095,
     "end_time": "20260919200000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 1200,
     "end_time": "20260919211500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {

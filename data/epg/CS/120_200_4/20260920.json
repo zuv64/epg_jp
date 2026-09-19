@@ -25,7 +25,7 @@
     "top": 0,
     "end_time": "20260920010000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -54,7 +54,7 @@
     "top": 60,
     "end_time": "20260920020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -83,7 +83,7 @@
     "top": 120,
     "end_time": "20260920030000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -112,7 +112,7 @@
     "top": 180,
     "end_time": "20260920040000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -141,7 +141,7 @@
     "top": 240,
     "end_time": "20260920050000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -170,7 +170,7 @@
     "top": 300,
     "end_time": "20260920060000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -616,7 +616,7 @@
     "channelName": "ＢＳ１０",
     "digitalNo": 200,
     "eventId": "14022",
-    "title": "ロングブレスで激変物語【俳優・大場久美子がロングブレスで腰痛改善】",
+    "title": "ロングブレスで激変物語【俳優・大場久美子がロングブレスで腰痛改善】[字]",
     "commentary": "「コメットさん」大場久美子がロングブレスで腰痛改善に挑戦!約2週間で驚きの変化!実践したのは美木良介考案”ロングブレス”",
     "attr": [
       "stereo",
@@ -703,7 +703,7 @@
     "channelName": "ＢＳ１０",
     "digitalNo": 200,
     "eventId": "14834",
-    "title": "加藤浩次&鈴木おさむのビジネスサバイブ〜挑戦者たちの本音会議〜　#23",
+    "title": "加藤浩次&鈴木おさむのビジネスサバイブ〜挑戦者たちの本音会議〜　#23[字]",
     "commentary": "世界で戦えるイノベーションを持つ企業の発掘・応援番組。MC加藤浩次、鈴木おさむや千葉功太郎が未来ある企業に本音でアドバイス&アイデア出しをして全力応援!",
     "attr": [
       "stereo",
@@ -761,7 +761,7 @@
     "channelName": "ＢＳ１０",
     "digitalNo": 200,
     "eventId": "13061",
-    "title": "GOLF JOKER　#195",
+    "title": "GOLF JOKER　#195[字]",
     "commentary": "第27回大会は、野球人JOKER和田一浩選手やリベンジJOKERキューピー関プロが参戦!準決勝第2試合　中村英美VSリベンジJOKERキューピー関!",
     "attr": [
       "stereo",
@@ -819,7 +819,7 @@
     "channelName": "ＢＳ１０",
     "digitalNo": 200,
     "eventId": "13063",
-    "title": "鈴木拓とマルコスの釣りわっしょい!　#180",
+    "title": "鈴木拓とマルコスの釣りわっしょい!　#180[字]",
     "commentary": "芸能界イチの釣り好きドランクドラゴン鈴木拓とYouTubeで話題の怪魚ハンター・マルコスの2人が全国各地で釣りまくる釣りドキュメント番組!",
     "attr": [
       "stereo",

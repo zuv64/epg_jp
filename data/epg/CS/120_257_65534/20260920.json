@@ -15,7 +15,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18456526/image/5c79c2c1432b0942eeeeae5e2d7765eb.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920000000,
     "programEnd": 20260920003000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920003000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -57,7 +57,7 @@
     "top": 30,
     "end_time": "20260920010000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -76,7 +76,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18456528/image/04089b802a84a45d2f49378dafec58cf.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920010000,
     "programEnd": 20260920020000,
@@ -87,7 +87,7 @@
     "top": 60,
     "end_time": "20260920020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -106,7 +106,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18456529/image/4bed99573999eada37c90ac4f56964fc.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920020000,
     "programEnd": 20260920023000,
@@ -117,7 +117,7 @@
     "top": 120,
     "end_time": "20260920023000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -148,7 +148,7 @@
     "top": 150,
     "end_time": "20260920030000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -167,7 +167,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18456531/image/d20cb69bbd77ee3877521a5baf91242d.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920030000,
     "programEnd": 20260920033000,
@@ -178,7 +178,7 @@
     "top": 180,
     "end_time": "20260920033000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -209,7 +209,7 @@
     "top": 210,
     "end_time": "20260920040000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -228,7 +228,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18456533/image/bb9204196cbf2b92ad640af6910ca7de.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920040000,
     "programEnd": 20260920043000,
@@ -239,7 +239,7 @@
     "top": 240,
     "end_time": "20260920043000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -270,7 +270,7 @@
     "top": 270,
     "end_time": "20260920050000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -289,7 +289,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456535/image/b7e26402b23c3375d295a64cf55830ca.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920050000,
     "programEnd": 20260920060000,
@@ -300,7 +300,7 @@
     "top": 300,
     "end_time": "20260920060000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -319,7 +319,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456536/image/4e365b40cae07f1a8d89c99066145c06.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920060000,
     "programEnd": 20260920070000,
@@ -330,7 +330,7 @@
     "top": 360,
     "end_time": "20260920070000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -349,7 +349,7 @@
     ],
     "sortGenre": "05",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456537/image/446ebad18ddaf572aa53213b0f7ebfc8.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920070000,
     "programEnd": 20260920073000,
@@ -360,7 +360,7 @@
     "top": 420,
     "end_time": "20260920073000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -492,10 +492,10 @@
     "channelName": "BBCニュース",
     "digitalNo": 306,
     "eventId": "40987",
-    "title": "世界がドリーを愛した理由(再)",
+    "title": "[字][英]世界がドリーを愛した理由(再)",
     "commentary": "ドリー・パートンの死後、世界中に彼女への愛があふれた。番組は彼女が多くの人にとって大きな存在であった理由を探る。",
     "attr": [
-      "mono",
+      "stereo",
       "sd",
       "cp1",
       "rep"
@@ -919,10 +919,10 @@
     "channelName": "BBCニュース",
     "digitalNo": 306,
     "eventId": "41001",
-    "title": "世界がドリーを愛した理由(再)",
+    "title": "[字][英]世界がドリーを愛した理由(再)",
     "commentary": "ドリー・パートンの死後、世界中に彼女への愛があふれた。番組は彼女が多くの人にとって大きな存在であった理由を探る。",
     "attr": [
-      "mono",
+      "stereo",
       "sd",
       "cp1",
       "rep"
@@ -1618,10 +1618,10 @@
     "channelName": "BBCニュース",
     "digitalNo": 306,
     "eventId": "41024",
-    "title": "世界がドリーを愛した理由(再)",
+    "title": "[字][英]世界がドリーを愛した理由(再)",
     "commentary": "ドリー・パートンの死後、世界中に彼女への愛があふれた。番組は彼女が多くの人にとって大きな存在であった理由を探る。",
     "attr": [
-      "mono",
+      "stereo",
       "sd",
       "cp1",
       "rep"

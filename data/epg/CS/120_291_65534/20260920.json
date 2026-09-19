@@ -27,7 +27,7 @@
     "top": 0,
     "end_time": "20260920013000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -58,7 +58,7 @@
     "top": 90,
     "end_time": "20260920040000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -89,7 +89,7 @@
     "top": 240,
     "end_time": "20260920043000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -120,7 +120,7 @@
     "top": 270,
     "end_time": "20260920070000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {

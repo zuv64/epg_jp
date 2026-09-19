@@ -15,7 +15,7 @@
     ],
     "sortGenre": "A4",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450756/image/da6b94e936fbf8c904a5a495d66f32a1.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919000000,
     "programEnd": 20260919010000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260919010000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -45,7 +45,7 @@
     ],
     "sortGenre": "A4",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450757/image/60b5516851a6f203f315c6d771a57663.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919010000,
     "programEnd": 20260919020000,
@@ -56,7 +56,7 @@
     "top": 60,
     "end_time": "20260919020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -75,7 +75,7 @@
     ],
     "sortGenre": "A0",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450758/image/ed556c20802af4f2ad347e38c3096d44.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919020000,
     "programEnd": 20260919030000,
@@ -86,7 +86,7 @@
     "top": 120,
     "end_time": "20260919030000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -105,7 +105,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450759/image/69163adcf17bc626ca1acb27555e80ff.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919030000,
     "programEnd": 20260919050000,
@@ -116,7 +116,7 @@
     "top": 180,
     "end_time": "20260919050000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -135,7 +135,7 @@
     ],
     "sortGenre": "A4",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450760/image/da4f0291b9472f38ba13ab39216e9a1a.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919050000,
     "programEnd": 20260919063000,
@@ -146,7 +146,7 @@
     "top": 300,
     "end_time": "20260919063000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -165,7 +165,7 @@
     ],
     "sortGenre": "A4",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450761/image/8c48141b5ff85937af666def7533a4d5.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919063000,
     "programEnd": 20260919073000,
@@ -176,7 +176,7 @@
     "top": 390,
     "end_time": "20260919073000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -195,7 +195,7 @@
     ],
     "sortGenre": "A4",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450762/image/d1dbaa336841b82ef7221395b6d76ac8.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919073000,
     "programEnd": 20260919083000,
@@ -206,7 +206,7 @@
     "top": 450,
     "end_time": "20260919083000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -225,7 +225,7 @@
     ],
     "sortGenre": "54",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450763/image/46f39a308f647a5ab0f5595b9c6cf61d.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919083000,
     "programEnd": 20260919090000,
@@ -236,7 +236,7 @@
     "top": 510,
     "end_time": "20260919090000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -255,7 +255,7 @@
     ],
     "sortGenre": "8F",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450764/image/91fd6a99cac81e935603baebc0402ee3.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919090000,
     "programEnd": 20260919093000,
@@ -266,7 +266,7 @@
     "top": 540,
     "end_time": "20260919093000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {

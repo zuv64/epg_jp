@@ -15,7 +15,7 @@
     ],
     "sortGenre": "14",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450825/image/036671300e09117291be490b6cf10e60.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919000000,
     "programEnd": 20260919020000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260919020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -45,7 +45,7 @@
     ],
     "sortGenre": "18",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260918/18450826/image/c90a7bbd3f7637384fbcc61400a26b39.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919020000,
     "programEnd": 20260919050000,
@@ -56,7 +56,7 @@
     "top": 120,
     "end_time": "20260919050000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -75,7 +75,7 @@
     ],
     "sortGenre": "1F",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450827/image/812f2f8188cfab6e4e9f7850754001be.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919050000,
     "programEnd": 20260919052500,
@@ -86,7 +86,7 @@
     "top": 300,
     "end_time": "20260919052500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -105,7 +105,7 @@
     ],
     "sortGenre": "19",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450828/image/3988c2daa075252751de27b7672110a8.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919052500,
     "programEnd": 20260919074000,
@@ -116,7 +116,7 @@
     "top": 325,
     "end_time": "20260919074000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -135,7 +135,7 @@
     ],
     "sortGenre": "11",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18450829/image/822f640de4c4ea0cbf1ef5ca7380d0f9.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919074000,
     "programEnd": 20260919094000,
@@ -146,7 +146,7 @@
     "top": 460,
     "end_time": "20260919094000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 580,
     "end_time": "20260919100000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -194,7 +194,7 @@
       "cp1"
     ],
     "sortGenre": "11",
-    "hasImage": 0,
+    "hasImage": 1,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919100000,
@@ -206,7 +206,7 @@
     "top": 600,
     "end_time": "20260919103000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -224,7 +224,7 @@
       "cp1"
     ],
     "sortGenre": "14",
-    "hasImage": 0,
+    "hasImage": 1,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919103000,
@@ -236,7 +236,7 @@
     "top": 630,
     "end_time": "20260919123000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -254,7 +254,7 @@
       "cp1"
     ],
     "sortGenre": "14",
-    "hasImage": 0,
+    "hasImage": 1,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919123000,
@@ -266,7 +266,7 @@
     "top": 750,
     "end_time": "20260919150000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -284,7 +284,7 @@
       "cp1"
     ],
     "sortGenre": "12",
-    "hasImage": 0,
+    "hasImage": 1,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919150000,
@@ -296,7 +296,7 @@
     "top": 900,
     "end_time": "20260919153000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -314,7 +314,7 @@
       "cp1"
     ],
     "sortGenre": "1F",
-    "hasImage": 0,
+    "hasImage": 1,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919153000,
@@ -326,7 +326,7 @@
     "top": 930,
     "end_time": "20260919153500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -344,7 +344,7 @@
       "cp1"
     ],
     "sortGenre": "1F",
-    "hasImage": 0,
+    "hasImage": 1,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919153500,
@@ -356,7 +356,7 @@
     "top": 935,
     "end_time": "20260919163500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -374,8 +374,8 @@
       "cp1"
     ],
     "sortGenre": "14",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/si/2026/20260919/18618939/image/3a03b9e68bbab09d910cc09d82512744.jpg",
     "isRecommended": null,
     "programStart": 20260919163500,
     "programEnd": 20260919183500,
@@ -397,7 +397,7 @@
     "digitalNo": 405,
     "eventId": "63783",
     "title": "[生]ラグビー パシフィックネーションズカップ2026 日本×フィジー(9/19)",
-    "commentary": "＜ラグビー アサヒスーパードライ パシフィックネーションズカップ 2026＞\n\n現地解説：藤井雄一郎、田邉淳、村上晃一\n現地実況：矢野武",
+    "commentary": "＜ラグビー アサヒスーパードライ パシフィックネーションズカップ 2026＞\n決勝\n日本 vs. フィジー",
     "attr": [
       "mono",
       "hd",
@@ -405,8 +405,8 @@
       "live"
     ],
     "sortGenre": "14",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/si/2026/20260919/18493905/image/209cf290dd49280e06891c52d91d4fa6.jpg",
     "isRecommended": null,
     "programStart": 20260919183500,
     "programEnd": 20260919214500,
@@ -495,8 +495,8 @@
       "cp1"
     ],
     "sortGenre": "14",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/si/2026/20260919/18499161/image/01b652835177085d8324e859e6250c3c.jpg",
     "isRecommended": null,
     "programStart": 20260920041500,
     "programEnd": 20260920060000,

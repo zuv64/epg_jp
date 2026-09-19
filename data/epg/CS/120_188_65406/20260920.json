@@ -15,7 +15,7 @@
     ],
     "sortGenre": "24",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18489032/image/5be3631a1cc5542f9bc6c65af920c679.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920000000,
     "programEnd": 20260920003000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920003000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {

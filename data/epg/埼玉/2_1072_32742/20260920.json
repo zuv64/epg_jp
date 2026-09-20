@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920001500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 15,
     "end_time": "20260920004000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -74,8 +74,8 @@
       "cp1"
     ],
     "sortGenre": "53",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473584/image/1ab43190f3797585b2aedf0716fc9ad8.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920004000,
     "programEnd": 20260920011000,
@@ -86,7 +86,7 @@
     "top": 40,
     "end_time": "20260920011000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 70,
     "end_time": "20260920014000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 100,
     "end_time": "20260920022500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 145,
     "end_time": "20260920025000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 170,
     "end_time": "20260920032000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 200,
     "end_time": "20260920034200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 235,
     "end_time": "20260920052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 320,
     "end_time": "20260920053000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 330,
     "end_time": "20260920060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 360,
     "end_time": "20260920063000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -387,7 +387,7 @@
     "top": 390,
     "end_time": "20260920070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -417,7 +417,7 @@
     "top": 420,
     "end_time": "20260920073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 450,
     "end_time": "20260920083000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -477,7 +477,7 @@
     "top": 510,
     "end_time": "20260920090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -508,7 +508,7 @@
     "top": 540,
     "end_time": "20260920091500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -539,7 +539,7 @@
     "top": 555,
     "end_time": "20260920093000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -569,7 +569,7 @@
     "top": 570,
     "end_time": "20260920100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -579,8 +579,8 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "3445",
-    "title": "武井壮のゴルフバッグ担いでください[字]",
-    "commentary": "ゴルフの技術ではなく「戦略＝マネジメント」を学んでスコア向上を目指す！武井壮がプロキャディから一流のコースマネジメント術を伝授してもらう新感覚ゴルフ番組",
+    "title": "武井壮のゴルフバッグ担いでください▽進化イケメン鈴木伸之が距離を捨てたワケとは[字]",
+    "commentary": "「戦略＝マネジメント」でスコア向上を目指す新感覚ゴルフ番組！▽飛ばし屋だった鈴木伸之がイメチェン！？▽武井壮のスイング改造を美人ティーチングプロが徹底解説!",
     "attr": [
       "stereo",
       "hd",
@@ -599,7 +599,7 @@
     "top": 600,
     "end_time": "20260920103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -629,7 +629,7 @@
     "top": 630,
     "end_time": "20260920110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -659,7 +659,7 @@
     "top": 660,
     "end_time": "20260920113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -689,7 +689,7 @@
     "top": 690,
     "end_time": "20260920120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -719,7 +719,7 @@
     "top": 720,
     "end_time": "20260920125400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -750,7 +750,7 @@
     "top": 774,
     "end_time": "20260920140000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -782,7 +782,7 @@
     "top": 840,
     "end_time": "20260920160000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -800,8 +800,8 @@
       "cp1"
     ],
     "sortGenre": "30",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474007/image/04bb071589769aefe60c302048e211b3.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920160000,
     "programEnd": 20260920162000,
@@ -812,7 +812,7 @@
     "top": 960,
     "end_time": "20260920162000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -842,7 +842,7 @@
     "top": 980,
     "end_time": "20260920171500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -872,7 +872,7 @@
     "top": 1035,
     "end_time": "20260920172000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -903,7 +903,7 @@
     "top": 1040,
     "end_time": "20260920173000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -934,7 +934,7 @@
     "top": 1050,
     "end_time": "20260920180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -964,7 +964,7 @@
     "top": 1080,
     "end_time": "20260920183000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -982,8 +982,8 @@
       "cp1"
     ],
     "sortGenre": "53",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474075/image/a3a327d423a9581d3fa3fee2dc0b5c12.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920183000,
     "programEnd": 20260920220900,
@@ -994,7 +994,7 @@
     "top": 1110,
     "end_time": "20260920220900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1024,7 +1024,7 @@
     "top": 1329,
     "end_time": "20260920221500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1034,16 +1034,16 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "3461",
-    "title": "有吉ぃぃeeeee!【24時間桃鉄】感動のフィナーレ！過酷なドロドロ長期戦を制すのは?[字]",
-    "commentary": "▼24時間の長期戦!遂にラストスパート▼圧倒的1位タカチームを皆でぶっ飛ばせ〜恐ろしい復讐劇が開幕・・・？▼赤ちゃんの生歌「サライ」感動フィナーレなるか?",
+    "title": "有吉ぃぃeeeee!【24時間桃鉄】衝撃フィナーレ！過酷なドロドロ長期戦を制すのは?[字]",
+    "commentary": "▼24時間の戦い…ついに決着▼”僕たちは本当に眠いんです”22時間プレイし続ける井口＆丹生に有吉が…▼これはヤバい！全員驚がくミラクルプレイ連発で大どんでん返し!?",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "51",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473554/image/a88e8212eebebe0b6803ab10877276f0.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920221500,
     "programEnd": 20260920230300,
@@ -1054,7 +1054,7 @@
     "top": 1335,
     "end_time": "20260920230300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1084,7 +1084,7 @@
     "top": 1383,
     "end_time": "20260920230900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1094,8 +1094,8 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "3463",
-    "title": "スポーツリアライブ",
-    "commentary": "“アスリートやその試合に秘められた「Real」を伝え、スポーツの「Live」が体感できる番組”をコンセプトに、野球・サッカー・五輪種目などを独自目線でお届けします!",
+    "title": "スポーツリアライブ▽大谷翔平最新情報▽巨人・優勝のカギ！坂本勇人と松本剛に迫る",
+    "commentary": "大谷翔平の最新情報は？日本人メジャーリーガーの活躍＆激しい順位争いをお届け▽巨人＆阪神！首位争いの行方？巨人・優勝の鍵を握る坂本勇人と松本剛の知られざる絆に迫る",
     "attr": [
       "stereo",
       "hd",
@@ -1114,7 +1114,7 @@
     "top": 1389,
     "end_time": "20260920233500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1184,8 +1184,8 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "3466",
-    "title": "乃木坂工事中[字]",
-    "commentary": "乃木坂工事中は、乃木坂４６の魅力いっぱいのバラエティー番組!",
+    "title": "乃木坂工事中【爆笑！全国ツアーの裏側公開 ハプニング映像も続出】[字]",
+    "commentary": "今週の乃木坂工事中はメンバーが撮影した全国ツアーの裏側を一挙大公開！「裏でも表でもこんなことありました2026」後半戦",
     "attr": [
       "stereo",
       "hd",

@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920003000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 30,
     "end_time": "20260920010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 60,
     "end_time": "20260920013000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 90,
     "end_time": "20260920020000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 120,
     "end_time": "20260920023000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 150,
     "end_time": "20260920030000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 180,
     "end_time": "20260920033000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 210,
     "end_time": "20260920040000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 240,
     "end_time": "20260920040500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 245,
     "end_time": "20260920050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 300,
     "end_time": "20260920052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 320,
     "end_time": "20260920055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -368,7 +368,7 @@
     "digitalNo": 5,
     "eventId": "13317",
     "title": "グッド!モーニング[デ][字]",
-    "commentary": "けさ知っておきたいニュースを独自目線でわかりやすく伝えます。「お天気検定」、「ニュース検定」、「エンタメ検定」にも挑戦しよう!",
+    "commentary": "台風25号接近、秋雨前線刺激し大雨の恐れも、連休中の行楽地は?▽timelesz猪俣周杜容疑者を逮捕、女性を殴ってけがをさせた疑い▽サルの大群が各地で出没し被害相次ぐ",
     "attr": [
       "stereo",
       "hd",
@@ -387,7 +387,7 @@
     "top": 350,
     "end_time": "20260920080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -417,7 +417,7 @@
     "top": 480,
     "end_time": "20260920080100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 481,
     "end_time": "20260920083000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -477,7 +477,7 @@
     "top": 510,
     "end_time": "20260920090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -507,7 +507,7 @@
     "top": 540,
     "end_time": "20260920093000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -537,7 +537,7 @@
     "top": 570,
     "end_time": "20260920100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -567,7 +567,7 @@
     "top": 600,
     "end_time": "20260920114500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -597,7 +597,7 @@
     "top": 705,
     "end_time": "20260920115000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -627,7 +627,7 @@
     "top": 710,
     "end_time": "20260920120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -637,8 +637,8 @@
     "channelName": "テレビ朝日",
     "digitalNo": 5,
     "eventId": "13326",
-    "title": "ビートたけしのTVタックル[字]",
-    "commentary": "ビートたけしが日曜昼に現代社会を斬る!政治・経済から流行まで…話題のニュースを導入しそこから考えなければならない「日本の問題点」を語り合う!オトナの為の討論番組",
+    "title": "ビートたけしのTVタックル　年金+10万円で豊かに暮らす!昭和と令和のシニアは!?[字]",
+    "commentary": "定年後の働き方…収入&年金…賢いシニア大調査!昭和と令和の高齢者は何が違う?日本の社会保障問題の変遷は?単身高齢者の新生活…シェアハウス&若い世代とホームシェア",
     "attr": [
       "stereo",
       "hd",
@@ -657,7 +657,7 @@
     "top": 720,
     "end_time": "20260920125500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -687,7 +687,7 @@
     "top": 775,
     "end_time": "20260920132500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -717,7 +717,7 @@
     "top": 805,
     "end_time": "20260920135500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -747,7 +747,7 @@
     "top": 835,
     "end_time": "20260920152000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -757,8 +757,8 @@
     "channelName": "テレビ朝日",
     "digitalNo": 5,
     "eventId": "13360",
-    "title": "路線バスで寄り道&お買い物の旅[字]",
-    "commentary": "日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス\"。今回、目指すのは…。",
+    "title": "路線バスで寄り道&お買い物の旅　【大宮八幡宮&中野商店街&四谷三丁目野球居酒屋】[字]",
+    "commentary": "日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス\"。世田谷〜中野〜四谷で松村邦洋さんゆかりの地を巡る旅!",
     "attr": [
       "stereo",
       "hd",
@@ -777,7 +777,7 @@
     "top": 920,
     "end_time": "20260920163000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -787,8 +787,8 @@
     "channelName": "テレビ朝日",
     "digitalNo": 5,
     "eventId": "13333",
-    "title": "日曜マイチョイス[字]",
-    "commentary": "50代以上のアクティブシニアの方々に向けて、人生100年時代の後半戦を豊かに楽しく生きるための“マイチョイス\"を提案!",
+    "title": "日曜マイチョイス　旬のフルーツ狩り食べまくりの旅!ブドウ・梨・桃・メロンを満喫[字]",
+    "commentary": "果物王国・山梨を満喫の日帰り旅!5種類のブドウ食べ比べ&濃厚ジェラート&今が食べ頃の梨狩り&桃づくし季節限定スイーツ&美味しいメロンを探せ!山梨産フルーツ(秘)料理",
     "attr": [
       "stereo",
       "hd",
@@ -807,7 +807,7 @@
     "top": 990,
     "end_time": "20260920172500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -837,7 +837,7 @@
     "top": 1045,
     "end_time": "20260920173000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -848,7 +848,7 @@
     "digitalNo": 5,
     "eventId": "13335",
     "title": "ANNスーパーJチャンネル[字]",
-    "commentary": "正確なニュース・情報をいち早くお伝えするANNニュース!テレビ朝日系列の放送局26局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。",
+    "commentary": "台風25号が連休を直撃…最新情報(他)",
     "attr": [
       "stereo",
       "hd",
@@ -867,7 +867,7 @@
     "top": 1050,
     "end_time": "20260920180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -897,7 +897,7 @@
     "top": 1080,
     "end_time": "20260920185600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -927,7 +927,7 @@
     "top": 1136,
     "end_time": "20260920195000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -957,7 +957,7 @@
     "top": 1190,
     "end_time": "20260920195400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -987,7 +987,7 @@
     "top": 1194,
     "end_time": "20260920205600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -998,7 +998,7 @@
     "digitalNo": 5,
     "eventId": "13340",
     "title": "有働Times[字]",
-    "commentary": "日曜夜、有働由美子が視聴者をおもてなし!ニュースのナゼを独自視点で徹底深掘り▽千々岩官邸キャップ解説▽週末スポーツを超速報!▽片岡信和“ピアノ弾き語り天気\"",
+    "commentary": "台風25号が関東直撃へ“千葉豪雨\"超えの恐れも…最新進路を詳しく解説▽連休の大型イベント開催は?交通機関に影響も▽首位・阪神とゲーム差「0」…巨人首位奪還なるか",
     "attr": [
       "stereo",
       "hd",
@@ -1017,7 +1017,7 @@
     "top": 1256,
     "end_time": "20260920221500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1047,7 +1047,7 @@
     "top": 1335,
     "end_time": "20260920230900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1077,7 +1077,7 @@
     "top": 1389,
     "end_time": "20260920231500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1238,7 +1238,7 @@
     "digitalNo": 5,
     "eventId": "13349",
     "title": "Get　Sports",
-    "commentary": "Get Sportsは数々のアスリート達の激白や徹底した取材から導き出される戦術分析を通じて、スポーツ競技の裏側にあるドラマを描くスポーツドキュメンタリーです!",
+    "commentary": "【水泳】インカレ水泳〜松下知之、村佐達也ら世界と戦った日本代表スイマー集結!\n【WRC】第12戦チリ〜トヨタが6連覇の偉業を達成!",
     "attr": [
       "stereo",
       "hd",
@@ -1359,7 +1359,7 @@
     "digitalNo": 5,
     "eventId": "13574",
     "title": "グッド!モーニング[デ][字]",
-    "commentary": "けさ知っておきたいニュースを独自目線でわかりやすく伝えます。依田さんの「お天気検定」、「ニュース検定」、「エンタメ検定」にも挑戦しよう!",
+    "commentary": "台風25号が関東接近へ長時間大雨と暴風警戒▽内閣広報費10倍要求高市政権のねらいは▽もらい火被害の居酒屋火事跡地で奇跡の復活",
     "attr": [
       "stereo",
       "hd",

@@ -36,8 +36,8 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "3466",
-    "title": "乃木坂工事中[字]",
-    "commentary": "乃木坂工事中は、乃木坂４６の魅力いっぱいのバラエティー番組!",
+    "title": "乃木坂工事中【爆笑！全国ツアーの裏側公開 ハプニング映像も続出】[字]",
+    "commentary": "今週の乃木坂工事中はメンバーが撮影した全国ツアーの裏側を一挙大公開！「裏でも表でもこんなことありました2026」後半戦",
     "attr": [
       "stereo",
       "hd",
@@ -489,7 +489,7 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "5640",
-    "title": "アリーナ革新MAP!Bリーグ開幕ＳＰバスケットボールＢリーグ26シーズン開幕特番[字]",
+    "title": "アリーナ革新MAP!Bリーグ開幕ＳＰバスケットボールＢリーグ開幕特番[字]",
     "commentary": "Ｂ革新を掲げ１１年目の開幕を迎えるＢリーグ！試合会場となる地域のアリーナに注目、生観戦の魅力を伝える！２日連続の初回放送はアルバルク東京、富山グラウジーズを特集",
     "attr": [
       "stereo",
@@ -558,8 +558,8 @@
       "cp1"
     ],
     "sortGenre": "30",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474008/image/7fa01fa67727929933d860a8267687b1.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921113000,
     "programEnd": 20260921115000,
@@ -701,7 +701,7 @@
     "digitalNo": 7,
     "eventId": "4339",
     "title": "ウイニング競馬 特別中継",
-    "commentary": "【中山】11RJRAアニバーサリーS\n【阪神】10R2016メモリアルキタサンブラックC\n   11R神戸新聞杯(GII)",
+    "commentary": "【中山】開催中止\n【阪神】10R2016メモリアルキタサンブラックC\n   11R神戸新聞杯(GII)",
     "attr": [
       "stereo",
       "hd",
@@ -1095,7 +1095,7 @@
     "digitalNo": 7,
     "eventId": "3539",
     "title": "Hello! Music Lab。",
-    "commentary": "ハロー！プロジェクトの楽曲に焦点を当てた音楽番組",
+    "commentary": "ハロー！プロジェクトの楽曲に焦点を当てた音楽番組\n▼Juice=Juice「結論から言ってちょうだい」作詞作曲の中島卓偉登場！石山考案ライブ煽りでスタジオ爆笑",
     "attr": [
       "stereo",
       "hd",
@@ -1156,14 +1156,14 @@
     "digitalNo": 7,
     "eventId": "3541",
     "title": "ブチ切れ令嬢は報復を誓いました。 〜魔導書の力で祖国を叩き潰します〜[終]",
-    "commentary": "私を裏切った祖国の皆さま、覚悟はよろしくて?",
+    "commentary": "第12話「ブチ切れ令嬢の報復は終わらない」\nエリーの仕掛けた罠が王国の者たちを次々と破滅させていく。加速するエリーの報復。行き着く先はーー",
     "attr": [
       "stereo",
       "hd",
       "cp1",
       "fin"
     ],
-    "sortGenre": "70",
+    "sortGenre": "",
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
@@ -1216,8 +1216,8 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "3543",
-    "title": "推しエンタTV",
-    "commentary": "テレビ東京が手掛けるアニメ・イベントのあらゆるジャンルの最新エンターテインメント情報をお届けします!!",
+    "title": "推しエンタTV「ゼロワングランドスラム2026」",
+    "commentary": "いよいよ小学生のプログラミング大会「ゼロワングランドスラム」の決勝大会が27日の日曜日に開催!\n日本一を目指すプログラマーたちの、ここまでの歩みを、ご紹介!\n",
     "attr": [
       "stereo",
       "hd",
@@ -1246,8 +1246,8 @@
     "channelName": "テレ東",
     "digitalNo": 7,
     "eventId": "3544",
-    "title": "プレミアMelodiX!",
-    "commentary": "【ナビゲーター】南海キャンディーズ",
+    "title": "プレミアMelodiX!MON7A初登場&恋リア話題曲披露★とき宣最新曲★SHE’S",
+    "commentary": "MON7A初登場!恋リア話題曲「僕のかわい子ちゃん」披露！今だから話せる高校時代裏話も\n▼超ときめき宣伝部「大盛りハッピー」\n▼RealRomantic/SHE’S/プッシュプルポット",
     "attr": [
       "stereo",
       "hd",

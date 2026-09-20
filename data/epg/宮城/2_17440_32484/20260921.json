@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921002500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -36,7 +36,7 @@
     "channelName": "ミヤギテレビ",
     "digitalNo": 4,
     "eventId": "16952",
-    "title": "Going![字]メジャー&プロ野球優勝争いを詳しく▼世界が注目!MotoGP小椋藍",
+    "title": "Going![字]巨人か阪神か!激戦の優勝争い▼22年ぶり快挙!MotoGP小椋藍",
     "commentary": "▼プロ野球、熾烈な優勝争い!残り約10試合、抜け出すのは阪神か巨人か!?▼世界が注目する日本選手SP!日本最速ライダー小椋藍&五輪新競技の日本初プロ選手密着!",
     "attr": [
       "stereo",
@@ -56,7 +56,7 @@
     "top": 25,
     "end_time": "20260921012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 85,
     "end_time": "20260921015500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 115,
     "end_time": "20260921020000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 120,
     "end_time": "20260921023000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 150,
     "end_time": "20260921030000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 180,
     "end_time": "20260921033000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 210,
     "end_time": "20260921033400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 214,
     "end_time": "20260921052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 320,
     "end_time": "20260921055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -306,8 +306,8 @@
     "channelName": "ミヤギテレビ",
     "digitalNo": 4,
     "eventId": "17016",
-    "title": "ZIP!",
-    "commentary": "▽最新のニュース、エンタメ、トレンドなど「時事性のある情報」に加え、ZIP!独自の「オリジナルコンテンツ」も多数用意し、日本の朝に「見たい」をお届けします!",
+    "title": "ZIP!台風25号雨量は千葉豪雨に匹敵▼各地のイベント休止も▼大型連休の最新天気",
+    "commentary": "月曜ZIP!は瀬戸朝香▼シルバーウイーク連休各地のイベント休止も高速道路渋滞ピークは\n▼宮崎土砂崩れ女性死亡▼クマが漁船に乗り込む▼相模原少年4人再逮捕",
     "attr": [
       "stereo",
       "hd",
@@ -336,8 +336,8 @@
     "channelName": "ミヤギテレビ",
     "digitalNo": 4,
     "eventId": "17002",
-    "title": "DayDay.【MCは武田真一と山里亮太!情報&エンタメ&おしゃべり】[字]",
-    "commentary": "MCは武田&山里!爽快・情報エンタメトークショー▽身近な話題や共感ネタを深ぼり▽視聴者とリアルタイムでつながる即興アンケート!▽最新の天気",
+    "title": "DayDay.最大瞬間風速50m予想も!台風25号最新情報▼片付け達人(秘)収納術[字]",
+    "commentary": "台風25号の影響で各地イベント中止も!暴風や記録的大雨にも警戒　交通への影響は? ▼物を捨てずにスッキリ!片付けの達人の(秘)収納術",
     "attr": [
       "stereo",
       "hd",
@@ -456,8 +456,8 @@
     "channelName": "ミヤギテレビ",
     "digitalNo": 4,
     "eventId": "17007",
-    "title": "ヒルナンデス![デ]",
-    "commentary": "日本のお昼はヒルナンデス!「ニッポンの今が見える」旬な情報・出来事を芸能人が体感!「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。",
+    "title": "ヒルナンデス!温泉女将に聞くメディアお初グルメ&豪華クルーズ船飛鳥III北海道の旅[デ]",
+    "commentary": "高地優吾&柳沢慎吾が湯河原の温泉女将にメディアお初の厳選グルメを聞いて回る!湯河原を知り尽くす女将のお薦めグルメとは?▼小島奈津子が母とクルーズ船で北海道へ",
     "attr": [
       "stereo",
       "hd",
@@ -516,12 +516,13 @@
     "channelName": "ミヤギテレビ",
     "digitalNo": 4,
     "eventId": "16988",
-    "title": "OH!バンデス(第1部)",
-    "commentary": "▽月曜日はエッグいもの探し!爆笑!「エバースの卵」▽旬に迫る!「バンデス記者」▽生中継は今日はどこへ?▽夕刊バンデス▽早バンevery.▽天気(他)",
+    "title": "[生]OH!バンデス【チャンスは2回!ハイ&ロー秋の収穫祭SP】",
+    "commentary": "▽月曜日はエッグいもの探し!爆笑!「エバースの卵」▽バンデス記者▽生中継は今日はどこへ?▽夕刊バンデス▽早バンevery.▽超豪華賞品ハイ&ローSP▽天気(他)",
     "attr": [
       "stereo",
       "hd",
-      "cp1"
+      "cp1",
+      "live"
     ],
     "sortGenre": "22",
     "hasImage": 0,
@@ -546,12 +547,13 @@
     "channelName": "ミヤギテレビ",
     "digitalNo": 4,
     "eventId": "16998",
-    "title": "OH!バンデス(第2部)",
-    "commentary": "▽月曜日は宮城のサッカーを全力応援!「KICK OFF!MIYAGI」▽郵便で〜す「宗さんポスト」▽豪華賞品ハイ&ロー▽最新天気(他)",
+    "title": "[生]OH!バンデス【超豪華賞品GET!ハイ&ロー秋の収穫祭SP】",
+    "commentary": "▽月曜日は宮城のサッカーを全力応援!「KICK OFF!MIYAGI」▽郵便で〜す「宗さんポスト」▽超豪華賞品ハイ&ローSP▽最新天気(他)",
     "attr": [
       "stereo",
       "hd",
-      "cp1"
+      "cp1",
+      "live"
     ],
     "sortGenre": "22",
     "hasImage": 0,
@@ -606,12 +608,13 @@
     "channelName": "ミヤギテレビ",
     "digitalNo": 4,
     "eventId": "17015",
-    "title": "OH!バンデス(第4部)[字]",
+    "title": "[生]OH!バンデス(第4部)[字]",
     "commentary": "ミヤギテレビのニュース番組はひと味違う!全国の、そして宮城県内のニュースを早く正確に伝えるのはあたりまえ。独自の視点をまじえて面白くわかりやすくお伝えします。",
     "attr": [
       "stereo",
       "hd",
-      "cp1"
+      "cp1",
+      "live"
     ],
     "sortGenre": "22",
     "hasImage": 0,
@@ -637,7 +640,7 @@
     "digitalNo": 4,
     "eventId": "17020",
     "title": "高校生クイズ▼全国5984校の頂点をかけたクイズの甲子園!ひと夏の青春大冒険![字]",
-    "commentary": "3人1組高校生たちがクイズにかける青春ドキュメント!壮絶どろんこ○×クイズ。・絶景タイマンダッシュ・襷を繋ぐ絆リレー!クイズNo.1の座を目指し全国を大冒険!",
+    "commentary": "3人1組高校生たちがクイズにかける超青春ドキュメント!壮絶どろんこ○×クイズ。・絶景タイマンダッシュ・襷を繋ぐ絆リレー!クイズNo.1の座を目指し全国を大冒険!",
     "attr": [
       "stereo",
       "hd",
@@ -704,8 +707,8 @@
       "cp1"
     ],
     "sortGenre": "52",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473489/image/b65db9068c12d142f9ef920e95028009.jpg",
     "isRecommended": null,
     "programStart": 20260921220000,
     "programEnd": 20260921230000,

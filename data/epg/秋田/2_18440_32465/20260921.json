@@ -28,7 +28,7 @@
     "top": 0,
     "end_time": "20260921004500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -38,7 +38,7 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18761",
-    "title": "きょうの健康　がんに備える　最新情報「治療と生活　うまく進めるためには」[解][字]",
+    "title": "きょうの健康 がんに備える 最新情報「治療と生活 うまく進めるためには」[解][字]",
     "commentary": "がんと診断されると治療や生活についてさまざまな心配ごとが生じてくる。実際にどう対処したらいいのか、どのような考え方で病気と向き合えばいいのか専門家がアドバイス。",
     "attr": [
       "stereo",
@@ -58,7 +58,7 @@
     "top": 45,
     "end_time": "20260921010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -68,7 +68,7 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18762",
-    "title": "きょうの健康　がんに備える　最新情報「ひとり暮らしの“がん”処方せん」[解][字]",
+    "title": "きょうの健康 がんに備える 最新情報「ひとり暮らしの“がん”処方せん」[解][字]",
     "commentary": "高齢のがん患者が多いことや、年齢を問わず一人暮らしの人が増えていることから、相談する家族がいない中でがんの闘病をする人が少なくない。さまざまな相談にお答えする。",
     "attr": [
       "stereo",
@@ -88,7 +88,7 @@
     "top": 60,
     "end_time": "20260921011500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -118,7 +118,7 @@
     "top": 75,
     "end_time": "20260921053000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -128,7 +128,7 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18771",
-    "title": "しあわせ気分のイタリア語（24）お別れ会を楽しく過ごす",
+    "title": "しあわせ気分のイタリア語(24)お別れ会を楽しく過ごす",
     "commentary": "使うとしあわせな気分になれるイタリア語の表現を楽しく学べる講座。美しいトスカーナの映像や文化特集が盛りだくさんです。",
     "attr": [
       "stereo",
@@ -148,7 +148,7 @@
     "top": 330,
     "end_time": "20260921055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -158,7 +158,7 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18772",
-    "title": "浮世絵EDO−LIFE　中秋の名月　「月見の宴」　その陰で…女同士の戦いが？[字]",
+    "title": "浮世絵EDO-LIFE 中秋の名月 「月見の宴」 その陰で…女同士の戦いが?[字]",
     "commentary": "中秋の名月にちなみ、今回は、月をめでながら海辺の座敷で繰り広げられた、色っぽい男女の世界をのぞいてみよう。笑顔の裏の女の戦いや男女の心模様を、満月が照らし出す。",
     "attr": [
       "stereo",
@@ -178,7 +178,7 @@
     "top": 350,
     "end_time": "20260921055500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -188,8 +188,8 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18773",
-    "title": "美の壺　選「万福の果実　ぶどう」[字]",
-    "commentary": "秋の味覚「ぶどう」はおいしさはもちろん、古くからさまざまな芸術作品に登場してきた。おいしさの秘密から、国宝の仏像の台座、染色、山ぶどうの籠（かご）までご紹介！",
+    "title": "美の壺 選「万福の果実 ぶどう」[字]",
+    "commentary": "秋の味覚「ぶどう」はおいしさはもちろん、古くからさまざまな芸術作品に登場してきた。おいしさの秘密から、国宝の仏像の台座、染色、山ぶどうの籠（かご）までご紹介!",
     "attr": [
       "stereo",
       "hd",
@@ -208,7 +208,7 @@
     "top": 355,
     "end_time": "20260921062500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -219,7 +219,7 @@
     "digitalNo": 2,
     "eventId": "18776",
     "title": "テレビ体操[字]",
-    "commentary": "【出演】岡本美佳，吉江晴菜，福島波奈，新井庸太，森山雅斗，【ピアノ】能條貴大",
+    "commentary": "【出演】岡本美佳,吉江晴菜,福島波奈,新井庸太,森山雅斗,【ピアノ】能條貴大",
     "attr": [
       "stereo",
       "hd",
@@ -238,7 +238,7 @@
     "top": 385,
     "end_time": "20260921063500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -248,8 +248,8 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18777",
-    "title": "みんなのうた「はじめての僕デス」／「passion」",
-    "commentary": "放送開始65年企画！「はじめての僕デス」うた：宮本浩次（1976年）／「passion」うた：宮本浩次（2021年）",
+    "title": "みんなのうた「はじめての僕デス」/「passion」",
+    "commentary": "放送開始６５年企画！「はじめての僕デス」うた:宮本浩次(1976年)/「passion」うた:宮本浩次(2021年)",
     "attr": [
       "stereo",
       "hd",
@@ -268,7 +268,7 @@
     "top": 395,
     "end_time": "20260921064000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -278,8 +278,8 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18778",
-    "title": "プチプチ・アニメ　ニャッキ！「雪だるま」",
-    "commentary": "マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな？",
+    "title": "プチプチ・アニメ ニャッキ！「雪だるま」",
+    "commentary": "マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな?",
     "attr": [
       "stereo",
       "hd",
@@ -298,7 +298,7 @@
     "top": 400,
     "end_time": "20260921064500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -309,7 +309,7 @@
     "digitalNo": 2,
     "eventId": "18779",
     "title": "ピタゴラスイッチ▽どうぶつがいろいろでてきますSP2[字]",
-    "commentary": "「どうぶつがいろいろでてきますSP2」です。「どうぶつのプログラム」「ぴきひきびきのうた」他。",
+    "commentary": "「どうぶつがいろいろでてきますＳＰ２」です。「どうぶつのプログラム」「ぴきひきびきのうた」他。",
     "attr": [
       "stereo",
       "hd",
@@ -328,7 +328,7 @@
     "top": 405,
     "end_time": "20260921065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -338,8 +338,8 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18780",
-    "title": "Eテレ0655　月曜日[字]",
-    "commentary": "1日のはじまりをつくる5分番組『0655』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します",
+    "title": "Ｅテレ0655 月曜日[字]",
+    "commentary": "１日のはじまりをつくる5分番組『0655』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します",
     "attr": [
       "stereo",
       "hd",
@@ -744,7 +744,7 @@
     "programStart": 20260921101500,
     "programEnd": 20260921103000,
     "programDate": 20260921,
-    "programId": -1,
+    "programId": 12861,
     "start_time": "15",
     "duration": 15,
     "top": 615,
@@ -761,7 +761,7 @@
     "digitalNo": 2,
     "eventId": "25819",
     "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "commentary": "10月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ　Season2」の見どころを紹介！",
     "attr": [
       "stereo",
       "hd",
@@ -804,7 +804,7 @@
     "programStart": 20260921103500,
     "programEnd": 20260921104000,
     "programDate": 20260921,
-    "programId": -1,
+    "programId": 4691,
     "start_time": "35",
     "duration": 5,
     "top": 635,
@@ -1120,8 +1120,8 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "18807",
-    "title": "視点・論点[字]",
-    "commentary": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
+    "title": "視点・論点　軽度認知障害・MCIに気づくために[字]",
+    "commentary": "認知症の高齢者は約443万人。そんな中、軽度認知障害・MCIが注目されています。正常な状態に戻る人も少なくないMCI。どうすれば変化に気づけるのか考えます",
     "attr": [
       "stereo",
       "hd",
@@ -1181,8 +1181,8 @@
     "channelName": "ＮＨＫＥテレ秋田",
     "digitalNo": 2,
     "eventId": "20692",
-    "title": "LIVE！　NHK　Classic　Fes．[SS]",
-    "commentary": " ",
+    "title": "LIVE！　NHK　Classic　Fes．2026[SS]",
+    "commentary": "NHKホールからお送りする音楽の祭典！反田恭平をはじめ世界的に活躍するクラシックの演奏家が集結！ウエンツ瑛士と甲斐翔真のミュージカルも！多彩な音楽をお届けします",
     "attr": [
       "5.1",
       "hd",

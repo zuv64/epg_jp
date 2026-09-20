@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921002500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -36,7 +36,7 @@
     "channelName": "ＡＢＳ秋田放送",
     "digitalNo": 4,
     "eventId": "15842",
-    "title": "Going![字]メジャー&プロ野球優勝争いを詳しく▼世界が注目!MotoGP小椋藍",
+    "title": "Going![字]巨人か阪神か!激戦の優勝争い▼22年ぶり快挙!MotoGP小椋藍",
     "commentary": "▼プロ野球、熾烈な優勝争い!残り約10試合、抜け出すのは阪神か巨人か!?▼世界が注目する日本選手SP!日本最速ライダー小椋藍&五輪新競技の日本初プロ選手密着!",
     "attr": [
       "stereo",
@@ -56,7 +56,7 @@
     "top": 25,
     "end_time": "20260921012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 85,
     "end_time": "20260921015500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 115,
     "end_time": "20260921020500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 125,
     "end_time": "20260921021000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 130,
     "end_time": "20260921021600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 136,
     "end_time": "20260921040000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 240,
     "end_time": "20260921044500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 285,
     "end_time": "20260921051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 315,
     "end_time": "20260921052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -307,8 +307,8 @@
     "channelName": "ＡＢＳ秋田放送",
     "digitalNo": 4,
     "eventId": "15894",
-    "title": "Oha!4　NEWS　LIVE",
-    "commentary": "あなたにつながるニュースをお届け!▽最新ニュースや気象情報を\"どこよりも早く\"詳しく!スポーツ・カルチャーもたっぷり!「自分のニュースに、変わるあさ。」",
+    "title": "Oha!4　▽台風25号接近へ。大雨などに警戒",
+    "commentary": "▽東国原英夫氏を名誉毀損の疑いで書類送検▽KO1KEYZを取材!来月に日韓同時デビューする思いは…▽市川團十郎&市川ぼたん&市川新之助",
     "attr": [
       "stereo",
       "hd",
@@ -327,7 +327,7 @@
     "top": 320,
     "end_time": "20260921055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -337,8 +337,8 @@
     "channelName": "ＡＢＳ秋田放送",
     "digitalNo": 4,
     "eventId": "15877",
-    "title": "ZIP!",
-    "commentary": "▽最新のニュース、エンタメ、トレンドなど「時事性のある情報」に加え、ZIP!独自の「オリジナルコンテンツ」も多数用意し、日本の朝に「見たい」をお届けします!",
+    "title": "ZIP!台風25号雨量は千葉豪雨に匹敵▼各地のイベント休止も▼大型連休の最新天気",
+    "commentary": "月曜ZIP!は瀬戸朝香▼シルバーウイーク連休各地のイベント休止も高速道路渋滞ピークは\n▼宮崎土砂崩れ女性死亡▼クマが漁船に乗り込む▼相模原少年4人再逮捕",
     "attr": [
       "stereo",
       "hd",
@@ -367,8 +367,8 @@
     "channelName": "ＡＢＳ秋田放送",
     "digitalNo": 4,
     "eventId": "15890",
-    "title": "DayDay.【MCは武田真一と山里亮太!情報&エンタメ&おしゃべり】[字]",
-    "commentary": "MCは武田&山里!爽快・情報エンタメトークショー▽身近な話題や共感ネタを深ぼり▽視聴者とリアルタイムでつながる即興アンケート!▽最新の天気",
+    "title": "DayDay.最大瞬間風速50m予想も!台風25号最新情報▼片付け達人(秘)収納術[字]",
+    "commentary": "台風25号の影響で各地イベント中止も!暴風や記録的大雨にも警戒　交通への影響は? ▼物を捨てずにスッキリ!片付けの達人の(秘)収納術",
     "attr": [
       "stereo",
       "hd",
@@ -547,8 +547,8 @@
     "channelName": "ＡＢＳ秋田放送",
     "digitalNo": 4,
     "eventId": "15876",
-    "title": "ヒルナンデス![デ]",
-    "commentary": "日本のお昼はヒルナンデス!「ニッポンの今が見える」旬な情報・出来事を芸能人が体感!「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。",
+    "title": "ヒルナンデス!温泉女将に聞くメディアお初グルメ&豪華クルーズ船飛鳥III北海道の旅[デ]",
+    "commentary": "高地優吾&柳沢慎吾が湯河原の温泉女将にメディアお初の厳選グルメを聞いて回る!湯河原を知り尽くす女将のお薦めグルメとは?▼小島奈津子が母とクルーズ船で北海道へ",
     "attr": [
       "stereo",
       "hd",
@@ -608,7 +608,7 @@
     "digitalNo": 4,
     "eventId": "15902",
     "title": "高校生クイズ全国最終予選▼全国強豪40校から本戦への16校をかけてクイズバトル[字]",
-    "commentary": " ",
+    "commentary": "今夜7時からは第46回高校生クイズの前に本戦出場をかけた最終予選の模様をお届け!高校生たちがクイズに捧げる超青春ドキュメント!クイズNo.1の座を目指し全国を大冒険",
     "attr": [
       "stereo",
       "hd",
@@ -667,8 +667,8 @@
     "channelName": "ＡＢＳ秋田放送",
     "digitalNo": 4,
     "eventId": "15900",
-    "title": "ABS　news　every.",
-    "commentary": "最新ニュースに旬の話題もわかりやすく正確に!秋田のいまを全力発信",
+    "title": "ABS　news　every.男鹿に墜落したB29…副機長の遺族が初訪問(他)",
+    "commentary": "男鹿に墜落したB29…副機長の遺族が初訪問 慰霊続ける住民と交流▽建具職人の力作集合▽最新ニュースに旬の話題もわかりやすく正確に!秋田のいまを全力発信",
     "attr": [
       "stereo",
       "hd",
@@ -698,15 +698,15 @@
     "digitalNo": 4,
     "eventId": "15903",
     "title": "高校生クイズ▼全国5984校の頂点をかけたクイズの甲子園!ひと夏の青春大冒険![字]",
-    "commentary": "3人1組高校生たちがクイズにかける青春ドキュメント!壮絶どろんこ○×クイズ。・絶景タイマンダッシュ・襷を繋ぐ絆リレー!クイズNo.1の座を目指し全国を大冒険!",
+    "commentary": "3人1組高校生たちがクイズにかける超青春ドキュメント!壮絶どろんこ○×クイズ。・絶景タイマンダッシュ・襷を繋ぐ絆リレー!クイズNo.1の座を目指し全国を大冒険!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "50",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473487/image/b22f5a71e92a0e797a1fa41be6344309.jpg",
     "isRecommended": null,
     "programStart": 20260921190000,
     "programEnd": 20260921215400,
@@ -795,8 +795,8 @@
       "cp1"
     ],
     "sortGenre": "52",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473489/image/b65db9068c12d142f9ef920e95028009.jpg",
     "isRecommended": null,
     "programStart": 20260921220000,
     "programEnd": 20260921230000,

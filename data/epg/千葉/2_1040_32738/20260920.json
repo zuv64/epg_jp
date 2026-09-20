@@ -6,7 +6,7 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9287",
-    "title": "Going![字]逆転Vへ!巨人・松本剛×由伸▼陸上五刀流の新星!17歳・後藤大樹",
+    "title": "Going![字]新星“二刀流”柴田獅子が初HR▼ラグビー日本代表が環太平洋王者に!",
     "commentary": "▼ラグビー日本代表が強豪フィジーと決勝▼プロ野球Ｖ争いも佳境！巨人キーマン松本剛を由伸が直撃▼陸上400mH「U18世界最速」後藤大樹なぜ強い？練習潜入",
     "attr": [
       "stereo",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920005500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 55,
     "end_time": "20260920012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 85,
     "end_time": "20260920013000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 90,
     "end_time": "20260920023000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 150,
     "end_time": "20260920033000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -178,7 +178,7 @@
     "top": 210,
     "end_time": "20260920034000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -209,7 +209,7 @@
     "top": 220,
     "end_time": "20260920041000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -239,7 +239,7 @@
     "top": 250,
     "end_time": "20260920044000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -269,7 +269,7 @@
     "top": 280,
     "end_time": "20260920051000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -300,7 +300,7 @@
     "top": 310,
     "end_time": "20260920051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -331,7 +331,7 @@
     "top": 315,
     "end_time": "20260920052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -362,7 +362,7 @@
     "top": 320,
     "end_time": "20260920052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -392,7 +392,7 @@
     "top": 325,
     "end_time": "20260920055500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -422,7 +422,7 @@
     "top": 355,
     "end_time": "20260920061500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -453,7 +453,7 @@
     "top": 375,
     "end_time": "20260920063000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -483,7 +483,7 @@
     "top": 390,
     "end_time": "20260920070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -513,7 +513,7 @@
     "top": 420,
     "end_time": "20260920073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -523,8 +523,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9306",
-    "title": "シューイチ[字][デ]福山雅治のプライベート深掘り▽秋山＆平子が富山でコラボ体格メシ試作",
-    "commentary": "ニュース・ショービズ・スポーツ・トレンド・グルメ・天気…１週間の気になる話題を詳しく紹介。明るく楽しく真面目に日本の今が学べる新型情報エンターテインメント番組。",
+    "title": "シューイチ[字][デ]台風25号 関東接近へ▼AI歌詞分析で福山雅治の内面に迫る",
+    "commentary": "シルバーウィークに台風直撃か…大雨に厳重警戒▼全国名店集まるグルメフェス▼体格ブラザーズ秋山＆平子が富山で体格祭！名産品満載コラボ飯作り▽工場夜景ドライブ旅",
     "attr": [
       "stereo",
       "hd",
@@ -543,7 +543,7 @@
     "top": 450,
     "end_time": "20260920102500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -553,7 +553,7 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9307",
-    "title": "一茂×かまいたちゲンバ▼和栗スイーツの専門店&スマートフェンシング！秋のゲンバ[字]",
+    "title": "一茂×かまいたちゲンバ▼一茂絶賛！和栗スイーツ専門店「栗の粒」ってナニ?[字]",
     "commentary": "▼全国から栗好き達が集まる和栗スイーツ専門店へ▼栗好き一茂絶賛！極上モンブランとは!?▼今話題のフェンシングで超真剣勝負！▼前代未聞!?罰ゲームは番組Pのお手伝い?",
     "attr": [
       "stereo",
@@ -573,7 +573,7 @@
     "top": 625,
     "end_time": "20260920112500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -603,7 +603,7 @@
     "top": 685,
     "end_time": "20260920113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -633,7 +633,7 @@
     "top": 690,
     "end_time": "20260920114500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -643,8 +643,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9310",
-    "title": "スクール革命![字]",
-    "commentary": "舞台は内村光良先生が担任の３年Ｊ組の教室。ゲスト先生が教えてくれる特別授業＆クイズ企画で日曜お昼に楽しい60分をお届けします!",
+    "title": "スクール革命！５人協力「スクラム５」極上お肉を懸けて大激突＆番組からのお知らせ[字]",
+    "commentary": "5人で協力!「スクラム５」▼内村チームと若林チームが極上ご褒美を懸けてガチンコ対決▼バラバラお絵描き５」で八乙女の絵に一同困惑!?▼山田が卓球スキルを発揮!",
     "attr": [
       "stereo",
       "hd",
@@ -663,7 +663,7 @@
     "top": 705,
     "end_time": "20260920124500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -693,7 +693,7 @@
     "top": 765,
     "end_time": "20260920140000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -703,8 +703,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9312",
-    "title": "timeleszファミリア【今、変われる「あか抜け術」手持ちの服で印象が激変】[字]",
-    "commentary": "▼timeleszとファッションに詳しいゲストたちが「あか抜けに迷う男女」５名を１時間でチェンジ！秋のトレンド＆手持ちの服でもできる「最強着こなし術」が丸わかり",
+    "title": "timeleszファミリア【新たな趣味の世界と出会えるロケＳＰ】武田双雲と書道[字]",
+    "commentary": "timeleszが様々なものとファミリア＝仲間になるドキュメントバラエティ。今回は新たな趣味の世界に触れたロケを一挙公開。書道、コーヒー、ゴスペルの世界を深掘り",
     "attr": [
       "stereo",
       "hd",
@@ -723,7 +723,7 @@
     "top": 840,
     "end_time": "20260920150000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -753,7 +753,7 @@
     "top": 900,
     "end_time": "20260920162500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -783,7 +783,7 @@
     "top": 985,
     "end_time": "20260920165500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -793,8 +793,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9315",
-    "title": "サンデーPUSHスポーツ[字]",
-    "commentary": "川島明がMCの新感覚スポーツ番組!今イチオシ(=PUSH)アスリートの取材VTRを見ながら、「気になるシーン」があればストップ！どんどん掘り下げちゃいます!",
+    "title": "サンデーPUSHスポーツ[字]世界最高峰バイクレース！小椋藍に密着＆川島スタジオ試乗",
+    "commentary": "世界最高峰のバイクレース「MotoGP」で日本人として22年ぶりの優勝を果たした逸材・小椋藍を大特集！新幹線より速い最高時速350km超の神業に迫る",
     "attr": [
       "stereo",
       "hd",
@@ -813,7 +813,7 @@
     "top": 1015,
     "end_time": "20260920172500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -843,7 +843,7 @@
     "top": 1045,
     "end_time": "20260920173000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -853,8 +853,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9317",
-    "title": "笑点[解][字][デ]",
-    "commentary": "老舗のお笑い演芸バラエティー。",
+    "title": "笑点[解][字][デ]昇太に歌丸が降臨！？秘蔵映像…昇太→木久扇→好楽→小遊三の連携プレー！",
+    "commentary": "一之輔、地元での評判は！？昇太に降りてきた歌丸が懐かしいセリフ。秘蔵映像は、奇跡の連携プレー！昇太→木久扇→好楽→小遊三から歌丸へ！真打披露口上で好楽が大暴走!",
     "attr": [
       "stereo",
       "hd",
@@ -873,7 +873,7 @@
     "top": 1050,
     "end_time": "20260920180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -883,8 +883,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9318",
-    "title": "真相報道バンキシャ！[字]桝太一＆石川みなみが１週間の出来事を詳しく",
-    "commentary": "バンキシャ！は毎週、注目されている事件・出来事について、他にない切り口で検証を加える番組です。今週もご期待ください!",
+    "title": "真相報道バンキシャ！[字]災害級大雨恐れ「台風２５号」関東接近へ交通影響は？最新情報",
+    "commentary": "千葉豪雨で浸水「修理７３０万円」再び大雨…市民の不安と決断▽計画運休も…“連休直撃”大雨ピークは？徹底解説▽台風２５号に“突入”上空で見えた「危険な特徴」とは",
     "attr": [
       "stereo",
       "hd",
@@ -903,7 +903,7 @@
     "top": 1080,
     "end_time": "20260920185500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -933,7 +933,7 @@
     "top": 1135,
     "end_time": "20260920190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -952,7 +952,7 @@
     ],
     "sortGenre": "5F",
     "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473467/image/0718d99b1d8a990ee4722c350871a64d.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920190000,
     "programEnd": 20260920195800,
@@ -963,7 +963,7 @@
     "top": 1140,
     "end_time": "20260920195800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -982,7 +982,7 @@
     ],
     "sortGenre": "5F",
     "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473473/image/ccefb69097b6ba3c6fdcdb6fdacf1366.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920195800,
     "programEnd": 20260920205400,
@@ -1033,8 +1033,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9323",
-    "title": "ゴールデンストーンズ[字]",
-    "commentary": " ",
+    "title": "ゴールデンストーンズ▽玉木宏＆高橋成美＆世界的ガールズグループ緊急参戦SP[字]",
+    "commentary": "玉木宏＆高橋成美が超快感ピッタリQ『サイズの晩餐』で大暴れ!!さらにSPサイズ姉さん”aespa”も初登場!!『マッチョガイ探し』で柔術家・玉木の意外な弱点が発覚!?",
     "attr": [
       "stereo",
       "hd",
@@ -1063,8 +1063,8 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9324",
-    "title": "日テレ＋「明日は高校生クイズ」[字]",
-    "commentary": " ",
+    "title": "明日よる7時は高校生クイズ▼全国5984校の頂点をかけたクイズの甲子園[字]",
+    "commentary": "3人1組高校生たちがクイズにかける青春ドキュメント！壮絶どろんこ○×クイズ。・絶景タイマンダッシュ・襷を繋ぐ絆リレー！クイズNo.1の座を目指し全国を大冒険!",
     "attr": [
       "stereo",
       "hd",
@@ -1101,8 +1101,8 @@
       "cp1"
     ],
     "sortGenre": "52",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473450/image/6260f732498228675d46ce28b90b88af.jpg",
     "isRecommended": null,
     "programStart": 20260920220000,
     "programEnd": 20260920230000,
@@ -1183,7 +1183,7 @@
     "channelName": "日本テレビ",
     "digitalNo": 4,
     "eventId": "9328",
-    "title": "Going![字]メジャー&プロ野球優勝争いを詳しく▼世界が注目!MotoGP小椋藍",
+    "title": "Going![字]巨人か阪神か!激戦の優勝争い▼22年ぶり快挙!MotoGP小椋藍",
     "commentary": "▼プロ野球、熾烈な優勝争い！残り約10試合、抜け出すのは阪神か巨人か!?▼世界が注目する日本選手SP!日本最速ライダー小椋藍&五輪新競技の日本初プロ選手密着!",
     "attr": [
       "stereo",

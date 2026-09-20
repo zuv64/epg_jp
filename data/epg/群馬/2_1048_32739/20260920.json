@@ -6,16 +6,16 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48443",
-    "title": "S☆1[字]週末のスポーツ情報番組。世界で活躍するアスリートを熱く厚くお届けします!",
-    "commentary": "MLBや世界陸上など世界最高峰の舞台に挑む日本選手はもちろん、世界のトップアスリートまで　豊富な取材力とわかりやすい解説で丁寧にお伝えします。",
+    "title": "S☆1[字]MLB詳報&アジア大会開会式&二宮和也が直撃!池江璃花子・村竹ラシッド",
+    "commentary": "MLB詳報!\n必見!アジア大会開会式!\nTBSスペシャルアンバサダー二宮和也が直撃!\n▼「池江璃花子」&「村竹ラシッド」\n速報!海外サッカー",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "10",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473856/image/2e12e26f04390c63bb3e7a1342ea422a.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920000000,
     "programEnd": 20260920002800,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920002800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -36,8 +36,8 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48444",
-    "title": "IMP.の「できません」は言いません[字]",
-    "commentary": "▼IMP.による地上波初の冠番組!\n",
+    "title": "IMP.の「できません」は言いません　トランポリン3番勝負![字]",
+    "commentary": "▼IMP.による地上波初の冠番組!\n▼IMP.の知名度UPを目指し全国各地で番組のアイコンである名刺を交換、世のため、人のために汗をかきまくる!",
     "attr": [
       "stereo",
       "hd",
@@ -56,7 +56,7 @@
     "top": 28,
     "end_time": "20260920005800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 58,
     "end_time": "20260920012800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 88,
     "end_time": "20260920015800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 118,
     "end_time": "20260920040000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 240,
     "end_time": "20260920050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 300,
     "end_time": "20260920053000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 330,
     "end_time": "20260920060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 360,
     "end_time": "20260920064500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 405,
     "end_time": "20260920070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 420,
     "end_time": "20260920073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 450,
     "end_time": "20260920080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -367,8 +367,8 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48456",
-    "title": "サンデーモーニング[字]",
-    "commentary": "一週間の見逃せないニュース&スポーツをサンデーモーニングならではの視点でお送りします!",
+    "title": "サンデーモーニング[字]台風最新情報▽“連休直撃\"物価高の行方▽高市改造内閣狙いは?",
+    "commentary": "AIで「人類滅亡」シナリオ▽沖縄県知事選と軍事的合理性▽自民党人事で見えた高市政権“国会戦略\"と次期総裁選“構図\"▽「物価の番人」利上げ加速も…なぜまた円安に?",
     "attr": [
       "stereo",
       "hd",
@@ -387,7 +387,7 @@
     "top": 480,
     "end_time": "20260920095400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -397,16 +397,16 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48458",
-    "title": "サンデー・ジャポン",
-    "commentary": "1週間のニュースを総まとめ!爆笑問題&超辛口パネラーに旬なゲスト加え、独自取材と激アツトークでお送りする嵐のような90分!唯一無二のジャーナリズムバラエティ!",
+    "title": "サンデー・ジャポン　最新…台風情報▽「内閣改造」ウラ側!自民党“TT兄弟\"の本音",
+    "commentary": "連休に台風接近…関東で“警報級大雨\"?▽timeleszメンバー逮捕▽「内閣改造」ウラ側!自民党“TT兄弟\"ホンネ▽緊急生出演!「VIVANT」チョッキー&ブルーウォーカー!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "20",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473852/image/b37c301fa06b9b14c1370f996a5575be.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920095400,
     "programEnd": 20260920113500,
@@ -417,7 +417,7 @@
     "top": 594,
     "end_time": "20260920113500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -427,8 +427,8 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48459",
-    "title": "上田晋也のサンデーQ[字]",
-    "commentary": "ニュースのQに、A(あ)っと驚く発見が!MC上田晋也が送る、日本で一番ハードルの低い、でも一番ためになる“日曜お昼の井戸端ニュース会議\"!\n",
+    "title": "上田晋也のサンデーQ[字]マネー白井に聞け!日米が異例の同時利上げで物価は?円安は?",
+    "commentary": "佐野晶哉に大久保佳代子らが専門家にとことん質問!内閣改造で日本の経済は?▼カプセルトイブーム過熱!60年の進化▼「鼻」の新常識“忘れ鼻\"▼SNS中毒「ドパガキ」増加",
     "attr": [
       "stereo",
       "hd",
@@ -447,7 +447,7 @@
     "top": 695,
     "end_time": "20260920125400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -457,8 +457,8 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48460",
-    "title": "ゆたかな食の未来をさがして[解][字]",
-    "commentary": "日本各地の食材が織りなす、さまざまな物語をさがし歩けば、ゆたかな食の未来が見えてくる。\n◆ナレーション:長濱ねる",
+    "title": "ゆたかな食の未来をさがして【北海道・羅臼町「羅臼昆布」】[解][字]",
+    "commentary": "日本各地の食材が織りなす、さまざまな物語をさがし歩けば、ゆたかな食の未来が見えてくる◆幾重の工程で熟成させる「羅臼昆布」◆ナレーション:長濱ねる",
     "attr": [
       "stereo",
       "hd",
@@ -477,7 +477,7 @@
     "top": 774,
     "end_time": "20260920125700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -507,7 +507,7 @@
     "top": 777,
     "end_time": "20260920130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -525,8 +525,8 @@
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473842/image/adf8c136e33771badd473b98983595c6.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920130000,
     "programEnd": 20260920160000,
@@ -537,7 +537,7 @@
     "top": 780,
     "end_time": "20260920160000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -547,16 +547,16 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48466",
-    "title": "アジア大会　愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　愛知・名古屋　卓球・競泳ほか[字][デ]",
+    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n卓球女子団体 史上最強JAPANが60年ぶりの金メダルを目指し出陣!\n競泳・トビウオジャパン もメダルラッシュへ!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473833/image/0da7638b30c09fbc6021af055c1ea1ee.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920160000,
     "programEnd": 20260920185900,
@@ -567,7 +567,7 @@
     "top": 960,
     "end_time": "20260920185900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -577,16 +577,16 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48473",
-    "title": "アジア大会　愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　愛知・名古屋 バスケットボール男子決勝ほか[字][デ]",
+    "commentary": "バスケットボール男子 64年ぶり日韓戦での決勝戦! 史上初の金メダル獲得にむけ大一番に挑む!準決勝 最多得点 金近・キャプテン 小川らが予選で敗北した韓国に挑む",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473834/image/15f0e6fb21d767eb909badc9bd339baf.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920185900,
     "programEnd": 20260920190000,
@@ -597,7 +597,7 @@
     "top": 1139,
     "end_time": "20260920190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -607,8 +607,8 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48475",
-    "title": "アジア大会　愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　愛知・名古屋 バスケ男子 決勝・サッカー男子 予選 ほか[字][デ]",
+    "commentary": "日本男子バスケット64年ぶりの決勝戦! そして史上初の金メダルへ!運命の日韓頂上決戦!男子サッカーは決勝トーナメント進出をかけキルギス戦に挑む",
     "attr": [
       "stereo",
       "hd",
@@ -728,8 +728,8 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48485",
-    "title": "S☆1[字]週末のスポーツ情報番組。世界で活躍するアスリートを熱く厚くお届けします!",
-    "commentary": "MLBや世界陸上など世界最高峰の舞台に挑む日本選手はもちろん、世界のトップアスリートまで　豊富な取材力とわかりやすい解説で丁寧にお伝えします。",
+    "title": "S☆1[字]アジア大会メダル第1号は? 競泳メダルラッシュへ!五輪世代男子サッカー",
+    "commentary": "熱戦!アジア大会メダル第1号は!?\n競泳メダルラッシュなるか!?\nバレー&バスケ&五輪世代男子サッカー\nMLB&海外サッカー\n白熱!プロ野球セ首位争い",
     "attr": [
       "stereo",
       "hd",
@@ -758,8 +758,8 @@
     "channelName": "TBS",
     "digitalNo": 6,
     "eventId": "48486",
-    "title": "KICK　OFF!J ≪新たな視点で紐解く、新たなサッカーLIFE≫[字]",
-    "commentary": "《☆テーマは新たな発見★》関東Jチームを中心に日本代表や高校女子サッカーなど、日本サッカーの魅力を新たな視点でお伝えします!!",
+    "title": "KICK OFF!J#148 ≪速報!日本開催のアジア大会キルギス戦たっぷり≫[字]",
+    "commentary": "男子サッカー16年ぶりの金メダルへ…日曜よるのアジア大会第2戦を速報で!!◆浦野アナ!浦和のチャンバラ合戦を盛り上げろ!!◆キクJ独自映像でシルバーウィークのJ",
     "attr": [
       "stereo",
       "hd",
@@ -802,7 +802,7 @@
     "programStart": 20260921012800,
     "programEnd": 20260921022800,
     "programDate": 20260920,
-    "programId": -1,
+    "programId": 1008070,
     "start_time": "28",
     "duration": 60,
     "top": 1528,

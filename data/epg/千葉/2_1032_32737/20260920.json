@@ -27,7 +27,7 @@
     "top": 0,
     "end_time": "20260920003000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -57,7 +57,7 @@
     "top": 30,
     "end_time": "20260920004000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -87,7 +87,7 @@
     "top": 40,
     "end_time": "20260920005500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 55,
     "end_time": "20260920011000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 70,
     "end_time": "20260920045500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 295,
     "end_time": "20260920045800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 298,
     "end_time": "20260920050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -238,7 +238,7 @@
     "top": 300,
     "end_time": "20260920060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -268,7 +268,7 @@
     "top": 360,
     "end_time": "20260920062500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -298,7 +298,7 @@
     "top": 385,
     "end_time": "20260920063500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -328,7 +328,7 @@
     "top": 395,
     "end_time": "20260920070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -358,7 +358,7 @@
     "top": 420,
     "end_time": "20260920073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -389,7 +389,7 @@
     "top": 450,
     "end_time": "20260920080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -419,7 +419,7 @@
     "top": 480,
     "end_time": "20260920082500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -449,7 +449,7 @@
     "top": 505,
     "end_time": "20260920083000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -479,7 +479,7 @@
     "top": 510,
     "end_time": "20260920085500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -509,7 +509,7 @@
     "top": 535,
     "end_time": "20260920090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -539,7 +539,7 @@
     "top": 540,
     "end_time": "20260920094500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -569,7 +569,7 @@
     "top": 585,
     "end_time": "20260920100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -599,7 +599,7 @@
     "top": 600,
     "end_time": "20260920103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -629,7 +629,7 @@
     "top": 630,
     "end_time": "20260920120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -659,7 +659,7 @@
     "top": 720,
     "end_time": "20260920123000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -689,7 +689,7 @@
     "top": 750,
     "end_time": "20260920140000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -699,7 +699,7 @@
     "channelName": "NHK東京　教育",
     "digitalNo": 2,
     "eventId": "18251",
-    "title": "日本の話芸 桂塩鯛 落語「天狗裁き」[解][字]",
+    "title": "日本の話芸 桂塩鯛 落語「天狗裁き」[字]",
     "commentary": "桂塩鯛さんの落語「天狗裁き」をお送りします(令和8年6月4日(木)NHK大阪ホールで収録)",
     "attr": [
       "stereo",
@@ -719,7 +719,7 @@
     "top": 840,
     "end_time": "20260920143000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -749,7 +749,7 @@
     "top": 870,
     "end_time": "20260920153000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -779,7 +779,7 @@
     "top": 930,
     "end_time": "20260920170700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -790,7 +790,7 @@
     "digitalNo": 2,
     "eventId": "24283",
     "title": "アニメまとめPR 10月スタート!注目の4番組[字]",
-    "commentary": " ",
+    "commentary": "１０月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ Season2」の見どころを紹介!",
     "attr": [
       "stereo",
       "hd",
@@ -809,7 +809,7 @@
     "top": 1027,
     "end_time": "20260920171200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -839,7 +839,7 @@
     "top": 1032,
     "end_time": "20260920171700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -869,7 +869,7 @@
     "top": 1037,
     "end_time": "20260920172500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -900,7 +900,7 @@
     "top": 1045,
     "end_time": "20260920175000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -931,7 +931,7 @@
     "top": 1070,
     "end_time": "20260920180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -962,7 +962,7 @@
     "top": 1080,
     "end_time": "20260920183000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -993,7 +993,7 @@
     "top": 1110,
     "end_time": "20260920190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1023,7 +1023,7 @@
     "top": 1140,
     "end_time": "20260920194500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1053,7 +1053,7 @@
     "top": 1185,
     "end_time": "20260920195000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1083,7 +1083,7 @@
     "top": 1190,
     "end_time": "20260920195500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1114,7 +1114,7 @@
     "top": 1195,
     "end_time": "20260920200000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {

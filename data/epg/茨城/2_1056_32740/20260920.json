@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920000500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 5,
     "end_time": "20260920010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 60,
     "end_time": "20260920011000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 70,
     "end_time": "20260920014000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -127,7 +127,7 @@
     "digitalNo": 8,
     "eventId": "63883",
     "title": "うまレボ!",
-    "commentary": "DAIGOとゆうちゃみが競馬にまつわる様々な事に体当たり取材!競馬界に新たな風を吹き込みレボリューションを起こす…新感覚の競馬バラエティ番組!",
+    "commentary": "今村聖奈騎手&小林美駒騎手お祝い企画!新大久保超弾丸ツアー▼韓国式プリクラ“人生4カット\"に挑戦&映える絶品“かき氷\"を堪能▼オールカマー注目馬情報",
     "attr": [
       "stereo",
       "hd",
@@ -146,7 +146,7 @@
     "top": 100,
     "end_time": "20260920021000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 130,
     "end_time": "20260920024000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 160,
     "end_time": "20260920034000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 220,
     "end_time": "20260920041000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 250,
     "end_time": "20260920044000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 280,
     "end_time": "20260920044500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 285,
     "end_time": "20260920054000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 340,
     "end_time": "20260920054500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -387,7 +387,7 @@
     "top": 345,
     "end_time": "20260920060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -417,7 +417,7 @@
     "top": 360,
     "end_time": "20260920061500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 375,
     "end_time": "20260920070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -457,8 +457,8 @@
     "channelName": "フジテレビ",
     "digitalNo": 8,
     "eventId": "63921",
-    "title": "SUNDAYブレイク.[字][多][デ]",
-    "commentary": "「月曜日につながる」がコンセプトのニュース情報番組。ニュース・スポーツ・エンタメ・特集…一週間を振り返るだけでなく次の週への発見や気づきになる情報満載でお届け!",
+    "title": "SUNDAYブレイク.　USJハロウィーン伊藤&かなで&小林直己が徹底調査[字][多][デ]",
+    "commentary": "“大人でも楽しめる\"USJハロウィーン伊藤&かなで&小林直己が徹底調査!▽庄司智春が人間ドック前に救急搬送…本人直撃▽セカスト銀座に初のブランド専門店",
     "attr": [
       "stereo",
       "hd",
@@ -478,7 +478,7 @@
     "top": 420,
     "end_time": "20260920085500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -508,7 +508,7 @@
     "top": 535,
     "end_time": "20260920090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -538,7 +538,7 @@
     "top": 540,
     "end_time": "20260920093000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -568,7 +568,7 @@
     "top": 570,
     "end_time": "20260920100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -598,7 +598,7 @@
     "top": 600,
     "end_time": "20260920111500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -628,7 +628,7 @@
     "top": 675,
     "end_time": "20260920114500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -658,7 +658,7 @@
     "top": 705,
     "end_time": "20260920115000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -688,7 +688,7 @@
     "top": 710,
     "end_time": "20260920120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -718,7 +718,7 @@
     "top": 720,
     "end_time": "20260920140000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -748,7 +748,7 @@
     "top": 840,
     "end_time": "20260920145500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -778,7 +778,7 @@
     "top": 895,
     "end_time": "20260920150000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -788,8 +788,8 @@
     "channelName": "フジテレビ",
     "digitalNo": 8,
     "eventId": "63932",
-    "title": "みんなのKEIBA",
-    "commentary": "競馬の楽しさ・魅力をたっぷりと伝えます!▽井崎脩五郎・細江純子・毎週異なるゲストがそれぞれ自腹で購入する「みんなの夢馬券」で回収率100%超えを目指す",
+    "title": "みんなのKEIBA　オールカマー▼女王・レガレイラ牝馬初の連覇なるか▼山本昌",
+    "commentary": "天皇賞(秋)の前哨戦「オールカマー」▼現役最後の秋に臨む女王レガレイラは牝馬初の連覇達成なるか!?▼秋のGI戦線「主役候補」を語りつくす!▼山本昌",
     "attr": [
       "stereo",
       "hd",
@@ -808,7 +808,7 @@
     "top": 900,
     "end_time": "20260920160000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -838,7 +838,7 @@
     "top": 960,
     "end_time": "20260920160500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -856,8 +856,8 @@
       "cp1"
     ],
     "sortGenre": "13",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474047/image/f7b8444d0bd0274453760658efa24067.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920160500,
     "programEnd": 20260920173500,
@@ -868,7 +868,7 @@
     "top": 965,
     "end_time": "20260920173500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -898,7 +898,7 @@
     "top": 1055,
     "end_time": "20260920174000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -909,7 +909,7 @@
     "digitalNo": 8,
     "eventId": "63935",
     "title": "Live　News　イット![字]",
-    "commentary": "週末に国内外で起きたニュース&スポーツを一挙紹介。最新天気も合わせてどこよりも早く正確な内容でお届けします。",
+    "commentary": "台風25号あす関東・伊豆諸島に接近へ…災害級の大雨に厳重警戒▼交通機関への影響は?▼北朝鮮が“弾道ミサイル\"発射▼大谷翔平が負傷者リスト入り後初グラウンドで練習",
     "attr": [
       "stereo",
       "hd",
@@ -928,7 +928,7 @@
     "top": 1060,
     "end_time": "20260920180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -958,7 +958,7 @@
     "top": 1080,
     "end_time": "20260920183000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -976,8 +976,8 @@
       "cp1"
     ],
     "sortGenre": "70",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473676/image/cf9022e5bebb8354aadd0dbd199390a1.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920183000,
     "programEnd": 20260920190000,
@@ -988,7 +988,7 @@
     "top": 1110,
     "end_time": "20260920190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1029,7 +1029,7 @@
     "digitalNo": 8,
     "eventId": "63941",
     "title": "Mr.サンデー[字][デ]",
-    "commentary": "日曜夜の情報LIVEショー▼1週間の話題総ざらい!速報&スクープ&物語徹底取材▼再現ドラマで描く心温まる感動物語▼宮根&小室&旬のゲストがぶっちゃける",
+    "commentary": "台風25号関東接近へシルバーウィーク直撃警報級大雨いつどこで▽水害のコスト徹底調査▽タカイチノミクス行方▽人気の割れない皿赤字工場の逆転物語▽石投げ近隣トラブル",
     "attr": [
       "stereo",
       "hd",
@@ -1118,8 +1118,8 @@
     "channelName": "フジテレビ",
     "digitalNo": 8,
     "eventId": "63944",
-    "title": "すぽると![字]",
-    "commentary": "キャプテンは元高校球児のバカリズム!モットーは独自目線×独自取材▼週末スポーツをバカリズム独自の切り口で楽しく詳しく分かりやすく!新時代スポーツショー",
+    "title": "すぽると!　ここだけの本音連発!森保一監督にバカリズムが直撃&田中碧に独占密着[字]",
+    "commentary": "森保監督が語る半年契約の真実&4年後のW杯へ未来を託したい選手とは!?▼ブラジル戦の涙から…田中碧「再起の道のり」▼村上宗隆30号につながった特殊能力!",
     "attr": [
       "stereo",
       "hd",
@@ -1239,7 +1239,7 @@
     "digitalNo": 8,
     "eventId": "63948",
     "title": "エンタメサーチバラエティ　プレミアの巣窟",
-    "commentary": "天野ひろゆき&国本梨紗がイベントの魅力を独自の目線で紹介!ゲストを交えた制作秘話など盛り沢山でお届けします!フジテレビオンデマンドでも見逃し配信中!",
+    "commentary": "トップダンサー直伝!セクシーダンスをくにりさが披露▼世界で100万人を動員した展覧会「ティム・バートンのラビリンス」▼性をテーマにした特別展「生きものたちの性」",
     "attr": [
       "stereo",
       "hd",

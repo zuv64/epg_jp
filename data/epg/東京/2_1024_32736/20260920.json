@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920001000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -57,7 +57,7 @@
     "top": 10,
     "end_time": "20260920012300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -87,7 +87,7 @@
     "top": 83,
     "end_time": "20260920012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 85,
     "end_time": "20260920021400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 134,
     "end_time": "20260920021500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 135,
     "end_time": "20260920031500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 195,
     "end_time": "20260920034500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 225,
     "end_time": "20260920034800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 228,
     "end_time": "20260920035000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 230,
     "end_time": "20260920041500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -328,7 +328,7 @@
     "top": 255,
     "end_time": "20260920042000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -359,7 +359,7 @@
     "top": 260,
     "end_time": "20260920042500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -389,7 +389,7 @@
     "top": 265,
     "end_time": "20260920043000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -419,7 +419,7 @@
     "top": 270,
     "end_time": "20260920045700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -449,7 +449,7 @@
     "top": 297,
     "end_time": "20260920045900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -479,7 +479,7 @@
     "top": 299,
     "end_time": "20260920050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -509,7 +509,7 @@
     "top": 300,
     "end_time": "20260920051000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -539,7 +539,7 @@
     "top": 310,
     "end_time": "20260920051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -569,7 +569,7 @@
     "top": 315,
     "end_time": "20260920052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -599,7 +599,7 @@
     "top": 320,
     "end_time": "20260920055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -629,7 +629,7 @@
     "top": 350,
     "end_time": "20260920060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -659,7 +659,7 @@
     "top": 360,
     "end_time": "20260920061000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -689,7 +689,7 @@
     "top": 370,
     "end_time": "20260920065300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -719,7 +719,7 @@
     "top": 413,
     "end_time": "20260920065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -749,7 +749,7 @@
     "top": 415,
     "end_time": "20260920070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -759,8 +759,8 @@
     "channelName": "NHK東京　総合",
     "digitalNo": 1,
     "eventId": "18101",
-    "title": "NHKニュース おはよう日本[字]",
-    "commentary": "国内外の最新ニュースをわかりやすくコンパクトに。気になる現場からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょうの気象情報も詳しくお伝えします。",
+    "title": "NHKニュース おはよう日本 9月20日(日)[字]",
+    "commentary": "▼台風２５号接近 大雨に警戒▼秋の大型連休初日の各地は▼がん治療の最前線「治験」の現場に迫る▼デフ柔道を広めたい 佐藤選手の思い",
     "attr": [
       "stereo",
       "hd",
@@ -779,7 +779,7 @@
     "top": 420,
     "end_time": "20260920074000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -809,7 +809,7 @@
     "top": 460,
     "end_time": "20260920074500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -839,7 +839,7 @@
     "top": 465,
     "end_time": "20260920080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -869,7 +869,7 @@
     "top": 480,
     "end_time": "20260920082500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -899,7 +899,7 @@
     "top": 505,
     "end_time": "20260920085000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -929,7 +929,7 @@
     "top": 530,
     "end_time": "20260920085700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -959,7 +959,7 @@
     "top": 537,
     "end_time": "20260920090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -969,8 +969,8 @@
     "channelName": "NHK東京　総合",
     "digitalNo": 1,
     "eventId": "18118",
-    "title": "日曜討論",
-    "commentary": "政治はどう動く？経済の先行きは？社会や国際問題の深層は？▽政党や各界の論客をゲストに討論やインタビュー▽「より身近に」「より分かりやすく」皆さんの関心に応えます",
+    "title": "日曜討論 第２次高市改造内閣 新閣僚に問う",
+    "commentary": "高市改造内閣は何を目指すのか？新閣僚に問う▽物価高への対応は？「強い経済」をどう実現？▽暮らしの安心・安全をどう守る？人口減少・地方は…▽成長投資をどう進める?",
     "attr": [
       "stereo",
       "hd",
@@ -989,7 +989,7 @@
     "top": 540,
     "end_time": "20260920100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1019,7 +1019,7 @@
     "top": 600,
     "end_time": "20260920100500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1049,7 +1049,7 @@
     "top": 605,
     "end_time": "20260920103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1079,7 +1079,7 @@
     "top": 630,
     "end_time": "20260920103500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1109,7 +1109,7 @@
     "top": 635,
     "end_time": "20260920110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1139,7 +1139,7 @@
     "top": 660,
     "end_time": "20260920110500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1170,7 +1170,7 @@
     "top": 665,
     "end_time": "20260920115100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1200,7 +1200,7 @@
     "top": 711,
     "end_time": "20260920115200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1230,7 +1230,7 @@
     "top": 712,
     "end_time": "20260920115300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1260,7 +1260,7 @@
     "top": 713,
     "end_time": "20260920115400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1290,7 +1290,7 @@
     "top": 714,
     "end_time": "20260920120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1320,7 +1320,7 @@
     "top": 720,
     "end_time": "20260920121000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1350,7 +1350,7 @@
     "top": 730,
     "end_time": "20260920121500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1380,7 +1380,7 @@
     "top": 735,
     "end_time": "20260920130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1410,7 +1410,7 @@
     "top": 780,
     "end_time": "20260920130500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1440,7 +1440,7 @@
     "top": 785,
     "end_time": "20260920133500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1470,7 +1470,7 @@
     "top": 815,
     "end_time": "20260920134500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1500,7 +1500,7 @@
     "top": 825,
     "end_time": "20260920135000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1531,7 +1531,7 @@
     "top": 830,
     "end_time": "20260920143300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1561,7 +1561,7 @@
     "top": 873,
     "end_time": "20260920150000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1591,7 +1591,7 @@
     "top": 900,
     "end_time": "20260920150500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1632,7 +1632,7 @@
     "digitalNo": 1,
     "eventId": "18161",
     "title": "大相撲(2026年)秋場所 八日目 大相撲 技の細部に迫る![二][字]",
-    "commentary": " ",
+    "commentary": "７日目を終え一敗力士は２人に▽横綱・大の里は隆の勝と結びの一番▽大関・琴櫻は新小結の伯乃富士と対戦▽横綱目指す二敗の霧島は美ノ海と▽大関目指す熱海富士は琴栄峰と",
     "attr": [
       "stereo",
       "hd",
@@ -1906,15 +1906,15 @@
     "digitalNo": 1,
     "eventId": "18194",
     "title": "NHKスペシャル 病への挑戦 がん治療最前線 がんが消えた！克服の道 [字]",
-    "commentary": "がんが消えた！？最新科学で病の正体に迫り、克服への道を探る新シリーズ。第１集は４０年以上日本人の死因の第１位のがん。新たな治療のカギを握る免疫やＡＩの力とは",
+    "commentary": "がんが消えた！？最新科学で病の正体に迫り、克服への道を探る新シリーズ。第１集は４０年以上日本人の死因の第１位のがん。新たな治療のカギを握る免疫やＡＩの力とは。",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "80",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/80050000/80050679/image/0a968d23b26683a65204e99036e8e7fc.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920210000,
     "programEnd": 20260920215000,

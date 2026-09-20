@@ -16,7 +16,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18451178/image/f2cf058c79a08d1f6edbd0e24cf10f8a.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260919234500,
     "programEnd": 20260920020000,
@@ -27,7 +27,7 @@
     "top": 0,
     "end_time": "20260920020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -47,7 +47,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18456505/image/5f8b3953856c8503d514943f2161f20d.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920020000,
     "programEnd": 20260920040000,
@@ -58,7 +58,7 @@
     "top": 120,
     "end_time": "20260920040000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -78,7 +78,7 @@
     ],
     "sortGenre": "32",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260919/18456506/image/329f905b2669369b97fbb175eb41e33f.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920040000,
     "programEnd": 20260920054500,
@@ -89,7 +89,7 @@
     "top": 240,
     "end_time": "20260920054500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -109,7 +109,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456507/image/40c0747e8bf8404859ed346b7d78eee8.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920054500,
     "programEnd": 20260920060000,
@@ -120,7 +120,7 @@
     "top": 345,
     "end_time": "20260920060000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -140,7 +140,7 @@
     ],
     "sortGenre": "32",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456508/image/5092df1b3e210ee64f8bd5584e4b4cc3.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920060000,
     "programEnd": 20260920080000,
@@ -151,7 +151,7 @@
     "top": 360,
     "end_time": "20260920080000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -171,7 +171,7 @@
     ],
     "sortGenre": "32",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456509/image/ff5356b0e8ddbce2803e3ef75d7d26e7.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920080000,
     "programEnd": 20260920094500,
@@ -182,7 +182,7 @@
     "top": 480,
     "end_time": "20260920094500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -202,7 +202,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456510/image/9329b20d156bbb7b542dc27e48a7543b.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920094500,
     "programEnd": 20260920100000,
@@ -213,7 +213,7 @@
     "top": 585,
     "end_time": "20260920100000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -233,7 +233,7 @@
     ],
     "sortGenre": "32",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456511/image/7e4e5bdf1039ded142f236f864fde487.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920100000,
     "programEnd": 20260920110000,
@@ -244,7 +244,7 @@
     "top": 600,
     "end_time": "20260920110000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -264,7 +264,7 @@
     ],
     "sortGenre": "32",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456512/image/fb0bcf986e5bb94c0831606547b24214.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920110000,
     "programEnd": 20260920120000,
@@ -275,7 +275,7 @@
     "top": 660,
     "end_time": "20260920120000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -295,7 +295,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456513/image/a3f8bd6c06f34026be951b6b8d123eef.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920120000,
     "programEnd": 20260920121500,
@@ -306,7 +306,7 @@
     "top": 720,
     "end_time": "20260920121500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -326,7 +326,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456514/image/3907f8f9dfab544e5e778cf369ac4728.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920121500,
     "programEnd": 20260920123000,
@@ -337,7 +337,7 @@
     "top": 735,
     "end_time": "20260920123000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -357,7 +357,7 @@
     ],
     "sortGenre": "32",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456515/image/bd6b2a93701f63c66e344492aec9f415.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920123000,
     "programEnd": 20260920141500,
@@ -368,7 +368,7 @@
     "top": 750,
     "end_time": "20260920141500",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -388,7 +388,7 @@
     ],
     "sortGenre": "61",
     "hasImage": 1,
-    "imgPath": "/monomedia/si/2026/20260920/18456516/image/8edd49257df343acc293e1b8b9f84c9a.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260920141500,
     "programEnd": 20260920143000,
@@ -399,7 +399,7 @@
     "top": 855,
     "end_time": "20260920143000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {

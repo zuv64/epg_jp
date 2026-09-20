@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260920010000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -56,7 +56,7 @@
     "top": 60,
     "end_time": "20260920020000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -86,7 +86,7 @@
     "top": 120,
     "end_time": "20260920030000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -116,7 +116,7 @@
     "top": 180,
     "end_time": "20260920040000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -146,7 +146,7 @@
     "top": 240,
     "end_time": "20260920050000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -176,7 +176,7 @@
     "top": 300,
     "end_time": "20260920060000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -206,7 +206,7 @@
     "top": 360,
     "end_time": "20260920070000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -236,7 +236,7 @@
     "top": 420,
     "end_time": "20260920080000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -266,7 +266,7 @@
     "top": 480,
     "end_time": "20260920090000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -296,7 +296,7 @@
     "top": 540,
     "end_time": "20260920100000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -326,7 +326,7 @@
     "top": 600,
     "end_time": "20260920110000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -356,7 +356,7 @@
     "top": 660,
     "end_time": "20260920120000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -386,7 +386,7 @@
     "top": 720,
     "end_time": "20260920130000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -416,7 +416,7 @@
     "top": 780,
     "end_time": "20260920140000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {
@@ -446,7 +446,7 @@
     "top": 840,
     "end_time": "20260920150000",
     "channel_type": "120",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": false
   },
   {

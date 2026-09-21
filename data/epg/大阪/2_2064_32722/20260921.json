@@ -6,16 +6,16 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42248",
-    "title": "Ｓ☆１[字]週末のスポーツ情報番組。世界で活躍するアスリートを熱く厚くお届けします！",
-    "commentary": "MLBや世界陸上など世界最高峰の舞台に挑む日本選手はもちろん、世界のトップアスリートまで 豊富な取材力とわかりやすい解説で丁寧にお伝えします。",
+    "title": "Ｓ☆１[字]アジア大会メダル第１号は？ 競泳メダルラッシュへ！五輪世代男子サッカー",
+    "commentary": "熱戦！アジア大会メダル第１号は！？競泳メダルラッシュなるか！？バレー＆バスケ＆五輪世代男子サッカーMLB&海外サッカー白熱!プロ野球セ首位争い",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "10",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473857/image/ed10327fb880d760d98acdde3de81fa6.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921000000,
     "programEnd": 20260921005000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921005000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -37,7 +37,7 @@
     "digitalNo": 4,
     "eventId": "42249",
     "title": "KICK OFF! KANSAI【セレッソ大阪・横山選手を特集★加地亮が解説】",
-    "commentary": "『サッカーを地域から盛り上げよう！』★ガンバ大阪、セレッソ大阪、ヴィッセル神戸、京都サンガF.C.、FC大阪、奈良クラブのクラブの情報を中心にお届けします。",
+    "commentary": "速報アジア大会!!柿谷曜一朗のリアルタイム解説★浦和チャンバラに浦野アナ参戦★川崎Ｆ伊藤達哉がモドリッチ!?★ＦＣ東京俵積田晃太が７０ｍ独走ゴラッソ",
     "attr": [
       "stereo",
       "hd",
@@ -56,7 +56,7 @@
     "top": 50,
     "end_time": "20260921012000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 80,
     "end_time": "20260921015000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 110,
     "end_time": "20260921022000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 140,
     "end_time": "20260921025000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 170,
     "end_time": "20260921030000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 180,
     "end_time": "20260921043000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 270,
     "end_time": "20260921050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 300,
     "end_time": "20260921052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -276,8 +276,8 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42257",
-    "title": "THE TIME,[字][デ]",
-    "commentary": "安住紳一郎が明るく楽しく丁寧に、そして正直にお伝えします!",
+    "title": "THE TIME,[字][デ]アジア大会×VIVANT竜星涼&チョッキー役オームに大歓声",
+    "commentary": "台風25号が関東最接近!連休直撃で交通影響は?▽アジア大会開幕初日からメダルラッシュ▽連休中にインフル流行どこで診察▽timeleszに激震▽手帳に何書く？大調査",
     "attr": [
       "stereo",
       "hd",
@@ -296,7 +296,7 @@
     "top": 320,
     "end_time": "20260921080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -306,8 +306,8 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42260",
-    "title": "ラヴィット！ 日本でいちばん明るい朝番組[字]",
-    "commentary": "今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼MC川島明(麒麟)&田村真子(TBSアナウンサー) ",
+    "title": "ラヴィット!VIVANTチョッキー参戦！ドミノ・ピザTOP10&新ちゃんっていうゲーム[字]",
+    "commentary": "▼チョッキーの演技で、どのシチュエーションのセリフか見極めろ「新ちゃんっていうゲーム」▼ドミノ・ピザ ヒットチャート１０▼ビリビリ!カプセルトイ ドボンクイズ",
     "attr": [
       "stereo",
       "hd",
@@ -326,7 +326,7 @@
     "top": 480,
     "end_time": "20260921095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 595,
     "end_time": "20260921105000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 650,
     "end_time": "20260921105500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -416,7 +416,7 @@
     "top": 655,
     "end_time": "20260921110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 660,
     "end_time": "20260921113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -477,7 +477,7 @@
     "top": 690,
     "end_time": "20260921115500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -487,8 +487,8 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42266",
-    "title": "ひるおび[字]",
-    "commentary": "その日一番の気になるニュースをかみ砕いて解説 生放送ならではの筋書きのない展開で恵俊彰があなたの“知りたい”に全力で応えます!!",
+    "title": "ひるおび[字]【台風25号関東接近へ 連休直撃…交通機関に影響は▽アジア大会現地中継】",
+    "commentary": "▽台風２５号関東接近へ 連休直撃…交通機関に影響は？道路冠水のおそれも 各地の雨風ピークいつ？今後の台風進路は▽熱戦！アジア大会 現地から生中継",
     "attr": [
       "stereo",
       "hd",
@@ -507,7 +507,7 @@
     "top": 715,
     "end_time": "20260921123000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -517,8 +517,8 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42267",
-    "title": "アジア大会 愛知・名古屋[字][デ]",
-    "commentary": "３２年ぶりの日本開催「アジア大会 愛知・名古屋」日本のトップアスリートたちが地元の大声援を受け、アジア４８億人の頂点へ!",
+    "title": "アジア大会 愛知・名古屋 体操男子個人総合決勝・競泳ほか[字][デ]",
+    "commentary": "体操男子個人総合に日本が世界に誇る２大エース橋本・岡が登場！いざアジア制覇へ！水泳界に現れた“北島康介２世”１７歳大橋信、初のアジア制覇へ！いざ出陣!",
     "attr": [
       "stereo",
       "hd",
@@ -537,7 +537,7 @@
     "top": 750,
     "end_time": "20260921143000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -547,16 +547,16 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "43593",
-    "title": "アジア大会 愛知・名古屋[字][デ]",
-    "commentary": "３２年ぶりの日本開催「アジア大会 愛知・名古屋」日本のトップアスリートたちが地元の大声援を受け、アジア４８億人の頂点へ!",
+    "title": "アジア大会 愛知・名古屋 体操男子個人総合決勝・競泳ほか[字][デ]",
+    "commentary": "体操男子個人総合に日本が世界に誇る２大エース橋本・岡が登場！いざアジア制覇へ！水泳界に現れた“北島康介２世”１７歳大橋信、初のアジア制覇へ！いざ出陣!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473836/image/e0877b3db6b0610193a7ee7dfbe16d98.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921143000,
     "programEnd": 20260921170000,
@@ -567,7 +567,7 @@
     "top": 870,
     "end_time": "20260921170000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -577,8 +577,8 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "43594",
-    "title": "アジア大会 愛知・名古屋[字][デ]",
-    "commentary": "３２年ぶりの日本開催「アジア大会 愛知・名古屋」日本のトップアスリートたちが地元の大声援を受け、アジア４８億人の頂点へ!",
+    "title": "アジア大会 愛知・名古屋 体操男子個人総合決勝・競泳ほか[字][デ]",
+    "commentary": "体操男子個人総合に日本が世界に誇る２大エース橋本・岡が登場！いざアジア制覇へ！水泳界に現れた“北島康介２世”１７歳大橋信、初のアジア制覇へ！いざ出陣!",
     "attr": [
       "stereo",
       "hd",
@@ -597,7 +597,7 @@
     "top": 1020,
     "end_time": "20260921190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -607,7 +607,7 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42268",
-    "title": "アジア大会 愛知・名古屋 サッカー女子予選ほか[字][デ]",
+    "title": "アジア大会 愛知・名古屋 [字][デ]",
     "commentary": "３２年ぶりの日本開催「アジア大会 愛知・名古屋」日本のトップアスリートたちが地元の大声援を受け、アジア４８億人の頂点へ!",
     "attr": [
       "stereo",
@@ -615,8 +615,8 @@
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473837/image/7ca98872c9237ff79c42affccfbaf133.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921190000,
     "programEnd": 20260921232700,
@@ -847,8 +847,8 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42276",
-    "title": "透明な夜に駆ける君と、目に見えない恋をした。 #12[終][解]",
-    "commentary": "▽これは、光を探すふたりが紡いだ、淡い恋の物語。",
+    "title": "透明な夜に駆ける君と、目に見えない恋をした。 ＃１２「一生の想い出」[終][解]",
+    "commentary": "冬月に直接想いを伝えた空野。すべてを諦めないと覚悟を決めた空野はまっすぐに冬月と向き合う。そんな空野の想いが届き、冬月も再び上を向く。お互いを想う気持ちがーー。",
     "attr": [
       "stereo",
       "hd",
@@ -878,8 +878,8 @@
     "channelName": "毎日テレビ",
     "digitalNo": 4,
     "eventId": "42277",
-    "title": "MM-TV【最新の音楽と映画を紹介します♪】",
-    "commentary": "音楽シーンの“今いちばん見たいもの”をお送りするデイリープログラム！最新の音楽と映画を紹介します♪ミュージックビデオやアーティストインタビューも!!",
+    "title": "MM-TV【押尾コータロー◆Mel◆花耶】",
+    "commentary": "【ARTIST COMMENT】押尾コータロー【MUSIC】Mel、花耶【ENDING】押尾コータロー★最新の音楽の情報をお届けします♪",
     "attr": [
       "stereo",
       "hd",

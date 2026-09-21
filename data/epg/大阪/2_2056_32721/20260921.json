@@ -28,7 +28,7 @@
     "top": 0,
     "end_time": "20260921004500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -38,7 +38,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18761",
-    "title": "きょうの健康　がんに備える　最新情報「治療と生活　うまく進めるためには」[解][字]",
+    "title": "きょうの健康 がんに備える 最新情報「治療と生活 うまく進めるためには」[解][字]",
     "commentary": "がんと診断されると治療や生活についてさまざまな心配ごとが生じてくる。実際にどう対処したらいいのか、どのような考え方で病気と向き合えばいいのか専門家がアドバイス。",
     "attr": [
       "stereo",
@@ -58,7 +58,7 @@
     "top": 45,
     "end_time": "20260921010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -68,7 +68,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18762",
-    "title": "きょうの健康　がんに備える　最新情報「ひとり暮らしの“がん”処方せん」[解][字]",
+    "title": "きょうの健康 がんに備える 最新情報「ひとり暮らしの“がん”処方せん」[解][字]",
     "commentary": "高齢のがん患者が多いことや、年齢を問わず一人暮らしの人が増えていることから、相談する家族がいない中でがんの闘病をする人が少なくない。さまざまな相談にお答えする。",
     "attr": [
       "stereo",
@@ -88,7 +88,7 @@
     "top": 60,
     "end_time": "20260921011500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -118,7 +118,7 @@
     "top": 75,
     "end_time": "20260921053000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -128,7 +128,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18771",
-    "title": "しあわせ気分のイタリア語（24）お別れ会を楽しく過ごす",
+    "title": "しあわせ気分のイタリア語(24)お別れ会を楽しく過ごす",
     "commentary": "使うとしあわせな気分になれるイタリア語の表現を楽しく学べる講座。美しいトスカーナの映像や文化特集が盛りだくさんです。",
     "attr": [
       "stereo",
@@ -148,7 +148,7 @@
     "top": 330,
     "end_time": "20260921055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -158,7 +158,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18772",
-    "title": "浮世絵EDO−LIFE　中秋の名月　「月見の宴」　その陰で…女同士の戦いが？[字]",
+    "title": "浮世絵EDO-LIFE 中秋の名月 「月見の宴」 その陰で…女同士の戦いが?[字]",
     "commentary": "中秋の名月にちなみ、今回は、月をめでながら海辺の座敷で繰り広げられた、色っぽい男女の世界をのぞいてみよう。笑顔の裏の女の戦いや男女の心模様を、満月が照らし出す。",
     "attr": [
       "stereo",
@@ -178,7 +178,7 @@
     "top": 350,
     "end_time": "20260921055500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -188,8 +188,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18773",
-    "title": "美の壺　選「万福の果実　ぶどう」[字]",
-    "commentary": "秋の味覚「ぶどう」はおいしさはもちろん、古くからさまざまな芸術作品に登場してきた。おいしさの秘密から、国宝の仏像の台座、染色、山ぶどうの籠（かご）までご紹介！",
+    "title": "美の壺 選「万福の果実 ぶどう」[字]",
+    "commentary": "秋の味覚「ぶどう」はおいしさはもちろん、古くからさまざまな芸術作品に登場してきた。おいしさの秘密から、国宝の仏像の台座、染色、山ぶどうの籠（かご）までご紹介!",
     "attr": [
       "stereo",
       "hd",
@@ -208,7 +208,7 @@
     "top": 355,
     "end_time": "20260921062500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -219,7 +219,7 @@
     "digitalNo": 2,
     "eventId": "18776",
     "title": "テレビ体操[字]",
-    "commentary": "【出演】岡本美佳，吉江晴菜，福島波奈，新井庸太，森山雅斗，【ピアノ】能條貴大",
+    "commentary": "【出演】岡本美佳,吉江晴菜,福島波奈,新井庸太,森山雅斗,【ピアノ】能條貴大",
     "attr": [
       "stereo",
       "hd",
@@ -238,7 +238,7 @@
     "top": 385,
     "end_time": "20260921063500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -248,8 +248,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18777",
-    "title": "みんなのうた「はじめての僕デス」／「passion」",
-    "commentary": "放送開始65年企画！「はじめての僕デス」うた：宮本浩次（1976年）／「passion」うた：宮本浩次（2021年）",
+    "title": "みんなのうた「はじめての僕デス」/「passion」",
+    "commentary": "放送開始６５年企画！「はじめての僕デス」うた:宮本浩次(1976年)/「passion」うた:宮本浩次(2021年)",
     "attr": [
       "stereo",
       "hd",
@@ -268,7 +268,7 @@
     "top": 395,
     "end_time": "20260921064000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -278,8 +278,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18778",
-    "title": "プチプチ・アニメ　ニャッキ！「雪だるま」",
-    "commentary": "マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな？",
+    "title": "プチプチ・アニメ ニャッキ！「雪だるま」",
+    "commentary": "マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな?",
     "attr": [
       "stereo",
       "hd",
@@ -298,7 +298,7 @@
     "top": 400,
     "end_time": "20260921064500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -309,7 +309,7 @@
     "digitalNo": 2,
     "eventId": "18779",
     "title": "ピタゴラスイッチ▽どうぶつがいろいろでてきますSP2[字]",
-    "commentary": "「どうぶつがいろいろでてきますSP2」です。「どうぶつのプログラム」「ぴきひきびきのうた」他。",
+    "commentary": "「どうぶつがいろいろでてきますＳＰ２」です。「どうぶつのプログラム」「ぴきひきびきのうた」他。",
     "attr": [
       "stereo",
       "hd",
@@ -328,7 +328,7 @@
     "top": 405,
     "end_time": "20260921065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -338,8 +338,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18780",
-    "title": "Eテレ0655　月曜日[字]",
-    "commentary": "1日のはじまりをつくる5分番組『0655』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します",
+    "title": "Ｅテレ0655 月曜日[字]",
+    "commentary": "１日のはじまりをつくる5分番組『0655』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します",
     "attr": [
       "stereo",
       "hd",
@@ -358,7 +358,7 @@
     "top": 415,
     "end_time": "20260921070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -368,8 +368,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18781",
-    "title": "The　Wakey　Show　ベストセレクション[字]",
-    "commentary": "全国のこどもたちに向け、DJウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ！",
+    "title": "The Wakey Show ベストセレクション[字]",
+    "commentary": "全国のこどもたちに向け、ＤＪウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ!",
     "attr": [
       "stereo",
       "hd",
@@ -388,7 +388,7 @@
     "top": 420,
     "end_time": "20260921072000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -398,8 +398,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18782",
-    "title": "アニメ　はなかっぱ「つねなりのライバル」「もっとちょーだい、はなかっぱ」[字][デ]",
-    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！",
+    "title": "アニメ はなかっぱ「つねなりのライバル」「もっとちょーだい、はなかっぱ」[字][デ]",
+    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ!",
     "attr": [
       "stereo",
       "hd",
@@ -418,7 +418,7 @@
     "top": 440,
     "end_time": "20260921073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -428,8 +428,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18783",
-    "title": "みいつけた！　月曜日[字]",
-    "commentary": "4歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
+    "title": "みいつけた！ 月曜日[字]",
+    "commentary": "４歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
     "attr": [
       "stereo",
       "hd",
@@ -448,7 +448,7 @@
     "top": 450,
     "end_time": "20260921074500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -458,8 +458,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18784",
-    "title": "おかあさんといっしょ　月曜日[字]",
-    "commentary": "2歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
+    "title": "おかあさんといっしょ 月曜日[字]",
+    "commentary": "２歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
     "attr": [
       "stereo",
       "hd",
@@ -478,7 +478,7 @@
     "top": 465,
     "end_time": "20260921081000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -488,8 +488,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18787",
-    "title": "いないいないばあっ！　月曜日[字]",
-    "commentary": "楽しい音がたくさん。たいこ、木琴・・・。パクパクさんのコンサートにパクこさん大興奮。でも、アンコールを待たずに、別のコンサートへ！？▼ピカピカブ〜！ほか。",
+    "title": "いないいないばあっ！ 月曜日[字]",
+    "commentary": "楽しい音がたくさん。たいこ、木琴・・・。パクパクさんのコンサートにパクこさん大興奮。でも、アンコールを待たずに、別のコンサートへ！？▼ピカピカブ〜!ほか。",
     "attr": [
       "stereo",
       "hd",
@@ -508,7 +508,7 @@
     "top": 490,
     "end_time": "20260921082500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -518,8 +518,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18788",
-    "title": "アニメ　おじゃる丸「電ボ　プリンを落とす」[字]",
-    "commentary": "千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。",
+    "title": "アニメ おじゃる丸「電ボ プリンを落とす」[字]",
+    "commentary": "千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動(そうどう)をまきおこします。",
     "attr": [
       "stereo",
       "hd",
@@ -538,7 +538,7 @@
     "top": 505,
     "end_time": "20260921083500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -568,7 +568,7 @@
     "top": 515,
     "end_time": "20260921084500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -578,7 +578,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18790",
-    "title": "ミニアニメ　チキップダンサーズ「ばいばい　ほねチキン」",
+    "title": "ミニアニメ チキップダンサーズ「ばいばい ほねチキン」",
     "commentary": "箱におくりものをつめるつむぎちゃん。その中で遊ぶほねチキン。やがてふたが閉じられ、ほねチキンが入ったま運び出されていきます。長い移動のすえ、箱から出るとそこは…",
     "attr": [
       "stereo",
@@ -598,7 +598,7 @@
     "top": 525,
     "end_time": "20260921085000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -628,7 +628,7 @@
     "top": 530,
     "end_time": "20260921085500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -638,8 +638,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18792",
-    "title": "みんなのうた「Umm」／「あっ！」",
-    "commentary": "「Umm」うた：sumika、アニメ：かずきおえかき／「あっ！」うた：YONA　YONA　WEEKENDERS、アニメ：いよりさき",
+    "title": "みんなのうた「Umm」/「あっ!」",
+    "commentary": "「Umm」うた:sumika、アニメ:かずきおえかき/「あっ!」うた:YONA YONA WEEKENDERS、アニメ:いよりさき",
     "attr": [
       "stereo",
       "hd",
@@ -658,7 +658,7 @@
     "top": 535,
     "end_time": "20260921090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -668,7 +668,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "19739",
-    "title": "映画　おしりたんてい　カレーなるじけん[字]",
+    "title": "映画 おしりたんてい カレーなるじけん[字]",
     "commentary": "エクセレントな推理と必殺技で、どんな事件もププッと解決！「おしりたんてい」劇場版第一弾。消えたカレーのスパイスの謎を、かれいに解き明かす。",
     "attr": [
       "stereo",
@@ -688,7 +688,7 @@
     "top": 540,
     "end_time": "20260921093000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -698,8 +698,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "22293",
-    "title": "みんな集まれ！こどもうたまつり　敬老の日スペシャル[字][再]",
-    "commentary": "Eテレのキャラクター・出演者が大集合する特集番組「こどもうたまつり」。今回は敬老の日スペシャル。おじいさん、おばあさんだけでなくみんなに感謝をこめて歌をお届け！",
+    "title": "みんな集まれ！こどもうたまつり 敬老の日スペシャル[字][再]",
+    "commentary": "Ｅテレのキャラクター・出演者が大集合する特集番組「こどもうたまつり」。今回は敬老の日スペシャル。おじいさん、おばあさんだけでなくみんなに感謝をこめて歌をお届け!",
     "attr": [
       "stereo",
       "hd",
@@ -719,7 +719,7 @@
     "top": 570,
     "end_time": "20260921101500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -729,8 +729,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "24965",
-    "title": "いないいないばあっ！　けいろうの日スペシャル[字][再]",
-    "commentary": "ワンワンたちが、「わんじい」を招いて楽しい時間を過ごします。▼うた「うちのおじいさんおばあさん」、「かんぱーい！！」、「ほめられちゃった」など。",
+    "title": "いないいないばあっ！ けいろうの日スペシャル[字][再]",
+    "commentary": "ワンワンたちが、「わんじい」を招いて楽しい時間を過ごします。▼うた「うちのおじいさんおばあさん」、「かんぱーい!!」、「ほめられちゃった」など。",
     "attr": [
       "stereo",
       "hd",
@@ -744,13 +744,13 @@
     "programStart": 20260921101500,
     "programEnd": 20260921103000,
     "programDate": 20260921,
-    "programId": -1,
+    "programId": 12861,
     "start_time": "15",
     "duration": 15,
     "top": 615,
     "end_time": "20260921103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -760,8 +760,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "25819",
-    "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "title": "アニメまとめPR 10月スタート!注目の4番組[字]",
+    "commentary": "１０月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ Season2」の見どころを紹介!",
     "attr": [
       "stereo",
       "hd",
@@ -780,7 +780,7 @@
     "top": 630,
     "end_time": "20260921103500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -804,13 +804,13 @@
     "programStart": 20260921103500,
     "programEnd": 20260921104000,
     "programDate": 20260921,
-    "programId": -1,
+    "programId": 4691,
     "start_time": "35",
     "duration": 5,
     "top": 635,
     "end_time": "20260921104000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -820,8 +820,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "20764",
-    "title": "NHK高校講座　地理探究　世界と日本の人口問題[字]",
-    "commentary": "世界の地理を探究する番組！謎解きクリエイター松丸亮吾と一緒に「世界と日本の人口問題」を探究！25年後の日本の人口ピラミッドは？少子高齢化への世界の取り組みとは？",
+    "title": "ＮＨＫ高校講座 地理探究 世界と日本の人口問題[字]",
+    "commentary": "世界の地理を探究する番組！謎解きクリエイター松丸亮吾と一緒に「世界と日本の人口問題」を探究！２５年後の日本の人口ピラミッドは？少子高齢化への世界の取り組みとは?",
     "attr": [
       "stereo",
       "hd",
@@ -840,7 +840,7 @@
     "top": 640,
     "end_time": "20260921110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -850,8 +850,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "24307",
-    "title": "行くぞ！最果て！秘境×鉄道ミニ　マダガスカル・FCE鉄道（1）[字]",
-    "commentary": "積むわ積むわ！電気のない村でバナナ列車が疾走。グニャグニャ線路に1台しかない機関車、謎のレンタル列車も登場！超オンボロでも大丈夫、村人たちの究極の鉄道愛とは？",
+    "title": "行くぞ！最果て！秘境×鉄道ミニ マダガスカル・FCE鉄道(1)[字]",
+    "commentary": "積むわ積むわ！電気のない村でバナナ列車が疾走。グニャグニャ線路に１台しかない機関車、謎のレンタル列車も登場！超オンボロでも大丈夫、村人たちの究極の鉄道愛とは?",
     "attr": [
       "stereo",
       "hd",
@@ -870,7 +870,7 @@
     "top": 660,
     "end_time": "20260921111000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -880,7 +880,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18795",
-    "title": "会話が続く！リアル旅英語（67）ドライブツアー「どんな車があるか聞く」",
+    "title": "会話が続く！リアル旅英語(67)ドライブツアー「どんな車があるか聞く」",
     "commentary": "海外旅行で耳にする「リアルな英語」を聞き取るためのリスニング実践講座。アメリカのロサンゼルスを旅行するときに出会う、様々な会話の場面を紹介します。",
     "attr": [
       "stereo",
@@ -900,7 +900,7 @@
     "top": 670,
     "end_time": "20260921112000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -910,8 +910,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18796",
-    "title": "5分であさイチ　大人のひとり暮らし　生活の知恵！[字]",
-    "commentary": "平日朝に放送している「あさイチ」の中から暮らしに役立つ情報を5分でギュギュっとコンパクトにお伝えします。今回は、大人のひとり暮らしをする上での、生活の知恵！",
+    "title": "５分であさイチ 大人のひとり暮らし 生活の知恵![字]",
+    "commentary": "平日朝に放送している「あさイチ」の中から暮らしに役立つ情報を５分でギュギュっとコンパクトにお伝えします。今回は、大人のひとり暮らしをする上での、生活の知恵!",
     "attr": [
       "stereo",
       "hd",
@@ -930,7 +930,7 @@
     "top": 680,
     "end_time": "20260921112500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -940,7 +940,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18797",
-    "title": "きょうの料理ビギナーズ　とまらないおいしさ　魅惑の鶏肉[字]",
+    "title": "きょうの料理ビギナーズ とまらないおいしさ 魅惑の鶏肉[字]",
     "commentary": "甘辛味やチーズ味など、濃厚な味つけがくせになる鶏肉メニューが人気です。家でつくれば、油少なめ、野菜たっぷりにアレンジして楽しめます。",
     "attr": [
       "stereo",
@@ -960,7 +960,7 @@
     "top": 685,
     "end_time": "20260921113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -970,8 +970,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18798",
-    "title": "きょうの料理「栗原はるみのキッチン日和　スペシャル」[字]",
-    "commentary": "はるみさんの人気レシピを紹介するスペシャルな3日間。最終日はおやつをご紹介。「コツをつかめば絶対失敗しない」という、おいしさも太鼓判の2品です。",
+    "title": "きょうの料理「栗原はるみのキッチン日和 スペシャル」[字]",
+    "commentary": "はるみさんの人気レシピを紹介するスペシャルな３日間。最終日はおやつをご紹介。「コツをつかめば絶対失敗しない」という、おいしさも太鼓判の２品です。",
     "attr": [
       "stereo",
       "hd",
@@ -990,7 +990,7 @@
     "top": 690,
     "end_time": "20260921115500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1000,8 +1000,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18801",
-    "title": "365日の献立日記「お客さまの朝食」[字]",
-    "commentary": "毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが26年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。",
+    "title": "３６５日の献立日記「お客さまの朝食」[字]",
+    "commentary": "毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。",
     "attr": [
       "stereo",
       "hd",
@@ -1020,7 +1020,7 @@
     "top": 715,
     "end_time": "20260921120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1030,8 +1030,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18802",
-    "title": "きょうの健康　女性の病気「我慢しないで！月経前症候群（PMS）」[解][字]",
-    "commentary": "月経前の腹痛やむくみ、イライラなどの不調「月経前症候群（PMS）」。約70％の女性が感じているとされる。症状を改善させるためのセルフケア、薬物療法を解説する。",
+    "title": "きょうの健康 女性の病気「我慢しないで!月経前症候群(PMS)」[解][字]",
+    "commentary": "月経前の腹痛やむくみ、イライラなどの不調「月経前症候群(PMS)」。約70%の女性が感じているとされる。症状を改善させるためのセルフケア、薬物療法を解説する。",
     "attr": [
       "stereo",
       "hd",
@@ -1050,7 +1050,7 @@
     "top": 720,
     "end_time": "20260921121500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1060,7 +1060,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18803",
-    "title": "明日から使える　あかるい終活（7）“おひとりさま”は計画的に[解][字]",
+    "title": "明日から使える あかるい終活（７）“おひとりさま”は計画的に[解][字]",
     "commentary": "みなさん、終活ってやっていますか？終活は自分の生きてきた価値を正しく後世へ伝えるもの。終活をすることで、今を生きる幸せにもつながります。",
     "attr": [
       "stereo",
@@ -1080,7 +1080,7 @@
     "top": 735,
     "end_time": "20260921124500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1091,7 +1091,7 @@
     "digitalNo": 2,
     "eventId": "18806",
     "title": "みんなのうた「マスク・ド・カメロ」",
-    "commentary": "SPアンコール／「マスク・ド・カメロ」作詞：新藤晴一、作曲：岡野昭仁、編曲：立崎優介・田中ユウスケ・PORNOGRAFFITTI、うた：ポルノグラフィティ",
+    "commentary": "ＳＰアンコール／「マスク・ド・カメロ」作詞：新藤晴一、作曲：岡野昭仁、編曲：立崎優介・田中ユウスケ・PORNOGRAFFITTI、うた:ポルノグラフィティ",
     "attr": [
       "stereo",
       "hd",
@@ -1110,7 +1110,7 @@
     "top": 765,
     "end_time": "20260921125000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1120,8 +1120,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18807",
-    "title": "視点・論点[字]",
-    "commentary": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
+    "title": "視点・論点 軽度認知障害・MCIに気づくために[字]",
+    "commentary": "認知症の高齢者は約４４３万人。そんな中、軽度認知障害・MCIが注目されています。正常な状態に戻る人も少なくないＭＣＩ。どうすれば変化に気づけるのか考えます",
     "attr": [
       "stereo",
       "hd",
@@ -1140,7 +1140,7 @@
     "top": 770,
     "end_time": "20260921130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1171,7 +1171,7 @@
     "top": 780,
     "end_time": "20260921130500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1181,8 +1181,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "20692",
-    "title": "LIVE！　NHK　Classic　Fes．[SS]",
-    "commentary": " ",
+    "title": "LIVE! NHK Classic Fes.2026[SS]",
+    "commentary": "NHKホールからお送りする音楽の祭典！反田恭平をはじめ世界的に活躍するクラシックの演奏家が集結！ウエンツ瑛士と甲斐翔真のミュージカルも！多彩な音楽をお届けします",
     "attr": [
       "5.1",
       "hd",
@@ -1202,7 +1202,7 @@
     "top": 785,
     "end_time": "20260921143000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1212,8 +1212,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18810",
-    "title": "ハートネットTV　フクチッチ　老い　健康維持のヒケツとは？[解][字][再]",
-    "commentary": "“老い”ってなに？てれび戦士が老化のメカニズムを疑似体験！漫画界のレジェンド姉妹が挑む“フレイル予防”とは！？超高齢社会を元気に生きぬく健康維持のヒケツを探る！",
+    "title": "ハートネットＴＶ フクチッチ 老い 健康維持のヒケツとは?[解][字][再]",
+    "commentary": "“老い”ってなに？てれび戦士が老化のメカニズムを疑似体験！漫画界のレジェンド姉妹が挑む“フレイル予防”とは！？超高齢社会を元気に生きぬく健康維持のヒケツを探る!",
     "attr": [
       "stereo",
       "hd",
@@ -1233,7 +1233,7 @@
     "top": 870,
     "end_time": "20260921150000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1243,8 +1243,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18813",
-    "title": "はじめましての2人旅　パラ卓球選手×インフルエンサーin別府[解][字][再]",
-    "commentary": "78歳のパラ卓球選手・別所キミヱさんと、変身メイク動画が人気のインフルエンサー・西村健太さんが2泊3日の別府旅へ！年の差50歳、異色コンビが旅で得た気づきとは？",
+    "title": "はじめましての２人旅 パラ卓球選手×インフルエンサーｉｎ別府[解][字][再]",
+    "commentary": "７８歳のパラ卓球選手・別所キミヱさんと、変身メイク動画が人気のインフルエンサー・西村健太さんが２泊３日の別府旅へ！年の差５０歳、異色コンビが旅で得た気づきとは?",
     "attr": [
       "stereo",
       "hd",
@@ -1264,7 +1264,7 @@
     "top": 900,
     "end_time": "20260921153000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1274,7 +1274,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18816",
-    "title": "ゴー！ゴー！キッチン戦隊クックルン「ドミノ、よし行け！（2）」[字][デ][再]",
+    "title": "ゴー！ゴー！キッチン戦隊クックルン「ドミノ、よし行け!(2)」[字][デ][再]",
     "commentary": "アニメと実写が連動する食育エンターテインメント番組。ヨモギ・クリン・マメコは父の肉体を魔法使いに乗っ取られたうえ、地球侵攻作戦を進める宇宙怪人たちと戦うことに。",
     "attr": [
       "stereo",
@@ -1295,7 +1295,7 @@
     "top": 930,
     "end_time": "20260921155500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1305,7 +1305,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18817",
-    "title": "ミクロワールド　水中の小さな生産者　ケイソウ[字]",
+    "title": "ミクロワールド 水中の小さな生産者 ケイソウ[字]",
     "commentary": "顕微鏡を使って拡大していくと突然開ける意外な世界。今回は「ケイソウ」。ケイソウの殻は硬く、細胞が死んでも腐らず「けい藻土」などになる。",
     "attr": [
       "stereo",
@@ -1325,7 +1325,7 @@
     "top": 955,
     "end_time": "20260921160000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1335,7 +1335,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18818",
-    "title": "カラフル！〜世界の子どもたち〜　イタリア[解][字]",
+    "title": "カラフル！〜世界の子どもたち〜 イタリア[解][字]",
     "commentary": "僕ロレンツォ、動物が大好き。飼い主のいない猫の保護活動や野生動物救護センターでフクロウの世話をしてる。もうすぐフクロウを自然に帰すんだ。▼初回放送2025年",
     "attr": [
       "stereo",
@@ -1355,7 +1355,7 @@
     "top": 960,
     "end_time": "20260921161500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1365,8 +1365,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18819",
-    "title": "いないいないばあっ！　月曜日[字]",
-    "commentary": "楽しい音がたくさん。たいこ、木琴・・・。パクパクさんのコンサートにパクこさん大興奮。でも、アンコールを待たずに、別のコンサートへ！？▼ピカピカブ〜！ほか。",
+    "title": "いないいないばあっ！ 月曜日[字]",
+    "commentary": "楽しい音がたくさん。たいこ、木琴・・・。パクパクさんのコンサートにパクこさん大興奮。でも、アンコールを待たずに、別のコンサートへ！？▼ピカピカブ〜!ほか。",
     "attr": [
       "stereo",
       "hd",
@@ -1385,7 +1385,7 @@
     "top": 975,
     "end_time": "20260921163000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1395,8 +1395,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18820",
-    "title": "おとうさんといっしょ　選　「いそがしくなりたい」[字]",
-    "commentary": "蒸気機関車D103が自慢の「レオレオ駅」でシュッシュ・ポッポ・ゆめ・まさとも・パンタン駅長・どんぐーが歌ったり踊ったり大活躍！楽しいコーナーもたくさんあるよ！！",
+    "title": "おとうさんといっしょ 選 「いそがしくなりたい」[字]",
+    "commentary": "蒸気機関車D103が自慢の「レオレオ駅」でシュッシュ・ポッポ・ゆめ・まさとも・パンタン駅長・どんぐーが歌ったり踊ったり大活躍！楽しいコーナーもたくさんあるよ!!",
     "attr": [
       "stereo",
       "hd",
@@ -1415,7 +1415,7 @@
     "top": 990,
     "end_time": "20260921170000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1425,8 +1425,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18823",
-    "title": "アニメ　はなかっぱ「つねなりのライバル」「もっとちょーだい、はなかっぱ」[字][デ]",
-    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！",
+    "title": "アニメ はなかっぱ「つねなりのライバル」「もっとちょーだい、はなかっぱ」[字][デ]",
+    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ!",
     "attr": [
       "stereo",
       "hd",
@@ -1445,7 +1445,7 @@
     "top": 1020,
     "end_time": "20260921171000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1455,8 +1455,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18824",
-    "title": "The　Wakey　Show　ベストセレクション[字]",
-    "commentary": "全国のこどもたちに向け、DJウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ！",
+    "title": "The Wakey Show ベストセレクション[字]",
+    "commentary": "全国のこどもたちに向け、ＤＪウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ!",
     "attr": [
       "stereo",
       "hd",
@@ -1475,7 +1475,7 @@
     "top": 1030,
     "end_time": "20260921173000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1486,7 +1486,7 @@
     "digitalNo": 2,
     "eventId": "18825",
     "title": "天才てれびくんgrow▽名古屋港水族館でフォトビンゴ▽名もなきアレ[字][デ]",
-    "commentary": "▽愛知県の名古屋港水族館を舞台にてれび戦士が2チームにわかれ、写真を撮ってビンゴをめざす▽エレベーターの中の気まずい空気など名もなきアレに名前をつけよう▽ゲーム",
+    "commentary": "▽愛知県の名古屋港水族館を舞台にてれび戦士が２チームにわかれ、写真を撮ってビンゴをめざす▽エレベーターの中の気まずい空気など名もなきアレに名前をつけよう▽ゲーム",
     "attr": [
       "stereo",
       "hd",
@@ -1505,7 +1505,7 @@
     "top": 1050,
     "end_time": "20260921180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1515,8 +1515,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18828",
-    "title": "おかあさんといっしょ　月曜日[字]",
-    "commentary": "2歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
+    "title": "おかあさんといっしょ 月曜日[字]",
+    "commentary": "２歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
     "attr": [
       "stereo",
       "hd",
@@ -1535,7 +1535,7 @@
     "top": 1080,
     "end_time": "20260921182400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1545,8 +1545,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18829",
-    "title": "あおきいろ　1分版　ツバメ栃木バージョン",
-    "commentary": "こども向けSDGs番組「あおきいろ」のテーマソング「ツバメ」のダンスミュージックビデオの1分版。今回は栃木県のみなさんの「ツバメダンス」を紹介します。",
+    "title": "あおきいろ １分版 ツバメ栃木バージョン",
+    "commentary": "こども向けSDGs番組「あおきいろ」のテーマソング「ツバメ」のダンスミュージックビデオの１分版。今回は栃木県のみなさんの「ツバメダンス」を紹介します。",
     "attr": [
       "stereo",
       "hd",
@@ -1565,7 +1565,7 @@
     "top": 1104,
     "end_time": "20260921182500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1575,8 +1575,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18830",
-    "title": "みいつけた！　月曜日[字]",
-    "commentary": "4歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
+    "title": "みいつけた！ 月曜日[字]",
+    "commentary": "４歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
     "attr": [
       "stereo",
       "hd",
@@ -1595,7 +1595,7 @@
     "top": 1105,
     "end_time": "20260921184000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1605,7 +1605,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18831",
-    "title": "ピタゴラスイッチ▽ピタゴラ的工作　つくってみたい！　つくってみよう！[字]",
+    "title": "ピタゴラスイッチ▽ピタゴラ的工作 つくってみたい! つくってみよう![字]",
     "commentary": "つくってみたい！つくってみよう！「ピタゴラ的こうさく！」。「まぶたとじたろう」「紙コップコップ暗号」「ビー玉加速器」など、色々な楽しい工作を紹介。",
     "attr": [
       "stereo",
@@ -1625,7 +1625,7 @@
     "top": 1120,
     "end_time": "20260921185000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1635,7 +1635,7 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18832",
-    "title": "アニメ　忍たま乱太郎「安藤先生の娘の段」[字]",
+    "title": "アニメ 忍たま乱太郎「安藤先生の娘の段」[字]",
     "commentary": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
     "attr": [
       "stereo",
@@ -1655,7 +1655,7 @@
     "top": 1130,
     "end_time": "20260921190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1665,16 +1665,16 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18833",
-    "title": "ROU（老）伝説の若者番組YOUが老いて復活！木梨憲武と語る老いのホンネ[字]",
-    "commentary": "伝説の若者番組「YOU」が約40年の時を超え、「ROU（老）」となって復活！かつての若者は今、60代。木梨憲武と車座になり、お金、恋愛、見た目を巡って何を語る？",
+    "title": "ROU(老)伝説の若者番組YOUが老いて復活!木梨憲武と語る老いのホンネ[字]",
+    "commentary": "伝説の若者番組「ＹＯＵ」が約４０年の時を超え、「ROU(老)」となって復活！かつての若者は今、６０代。木梨憲武と車座になり、お金、恋愛、見た目を巡って何を語る?",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "52",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/80050000/80050694/image/1412f8927fc9338ccad4714080484ef6.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921190000,
     "programEnd": 20260921200000,
@@ -1695,8 +1695,8 @@
     "channelName": "NHK大阪　教育",
     "digitalNo": 2,
     "eventId": "18834",
-    "title": "ハートネットTV　フクチッチ　老い“生きがい”でワクワク！[解][字]",
-    "commentary": "年をとってもワクワク過ごしたい！人生後半から新たな挑戦！86歳スケーター＆91歳DJ▽世界が注目！「Ikigai」▽「100歳までワクワク」を目指す村のヒミツ",
+    "title": "ハートネットＴＶ フクチッチ 老い“生きがい”でワクワク![解][字]",
+    "commentary": "年をとってもワクワク過ごしたい！人生後半から新たな挑戦!86歳スケーター&91歳DJ▽世界が注目!「Ikigai」▽「100歳までワクワク」を目指す村のヒミツ",
     "attr": [
       "stereo",
       "hd",

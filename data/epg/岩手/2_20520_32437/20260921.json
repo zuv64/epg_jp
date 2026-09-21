@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921001000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 10,
     "end_time": "20260921004000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 40,
     "end_time": "20260921011000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 70,
     "end_time": "20260921012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 85,
     "end_time": "20260921014000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 100,
     "end_time": "20260921014600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 262,
     "end_time": "20260921042500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 265,
     "end_time": "20260921045500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 295,
     "end_time": "20260921055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -277,7 +277,7 @@
     "digitalNo": 5,
     "eventId": "11103",
     "title": "グッド！モーニング[デ][字]",
-    "commentary": "けさ知っておきたいニュースを独自目線でわかりやすく伝えます。依田さんの「お天気検定」、「ニュース検定」、「エンタメ検定」にも挑戦しよう!",
+    "commentary": "台風25号が関東接近へ長時間大雨と暴風警戒▽内閣広報費10倍要求高市政権のねらいは▽もらい火被害の居酒屋火事跡地で奇跡の復活",
     "attr": [
       "stereo",
       "hd",
@@ -296,7 +296,7 @@
     "top": 350,
     "end_time": "20260921080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -307,7 +307,7 @@
     "digitalNo": 5,
     "eventId": "11104",
     "title": "羽鳥慎一モーニングショー[字]",
-    "commentary": "羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。",
+    "commentary": "台風25号連休の列島へ強い勢力で関東直撃か千葉豪雨上回る大雨も交通影響は…最新情報▽台風を「制御」する減災目指す研究最前線",
     "attr": [
       "stereo",
       "hd",
@@ -326,7 +326,7 @@
     "top": 480,
     "end_time": "20260921095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 595,
     "end_time": "20260921101000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 610,
     "end_time": "20260921104000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -397,7 +397,7 @@
     "digitalNo": 5,
     "eventId": "11107",
     "title": "大下容子ワイド!スクランブル[字]",
-    "commentary": "スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説!",
+    "commentary": "きょう台風２５号が関東直撃 大雨＆暴風で交通影響 連休イベント中止も ▽超速報！ロシア下院選 選挙後に大規模動員？ ▽米中首脳会談の行方",
     "attr": [
       "stereo",
       "hd",
@@ -416,7 +416,7 @@
     "top": 640,
     "end_time": "20260921130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -426,8 +426,8 @@
     "channelName": "岩手朝日テレビ",
     "digitalNo": 5,
     "eventId": "11108",
-    "title": "徹子の部屋[字]",
-    "commentary": "司会の黒柳徹子さんが、各界の著名人はもちろん、時の人、話題の人をゲストに迎え、絶妙の話術を駆使してゲストの魅力に迫る、昭和５１年放送開始の長寿トーク番組です。",
+    "title": "徹子の部屋 新浜レオン[字]",
+    "commentary": "〜２年連続紅白出場！歌謡界の大先輩たちとの交流秘話〜新浜レオンさんが今日のゲストです。",
     "attr": [
       "stereo",
       "hd",
@@ -446,7 +446,7 @@
     "top": 780,
     "end_time": "20260921133000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -476,7 +476,7 @@
     "top": 810,
     "end_time": "20260921134500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -506,7 +506,7 @@
     "top": 825,
     "end_time": "20260921144000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -536,7 +536,7 @@
     "top": 880,
     "end_time": "20260921144500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -566,7 +566,7 @@
     "top": 885,
     "end_time": "20260921144900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -597,7 +597,7 @@
     "top": 889,
     "end_time": "20260921155000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -628,7 +628,7 @@
     "top": 950,
     "end_time": "20260921164800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -639,7 +639,7 @@
     "digitalNo": 5,
     "eventId": "11115",
     "title": "スーパーJチャンネル[字]",
-    "commentary": "メインキャスターにフレッシュな井澤健太朗×森山みなみ!\nどこよりも＜ハテナ＞と向き合い、どこよりも＜納得感＞のあるをテーマに掲げニュースを深掘りしていきます。",
+    "commentary": "台風２５号 関東に最接近へ…各地で線状降水帯発生の恐れ 雨＆台風の現在地は？いつどこで警戒？▽“千葉豪雨”上回る雨量への備え…冠水時歩行＆水没車からの脱出",
     "attr": [
       "stereo",
       "hd",
@@ -658,7 +658,7 @@
     "top": 1008,
     "end_time": "20260921181500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -668,8 +668,8 @@
     "channelName": "岩手朝日テレビ",
     "digitalNo": 5,
     "eventId": "11116",
-    "title": "スーパーJチャンネルいわて",
-    "commentary": "「きょう一日の岩手の出来事が分かるニュース」をモットーに、いま知りたいニュースを詳しく、丁寧に。「地域密着応援団」として、岩手の魅力をお伝えします。",
+    "title": "Ｊチャンいわて【中継・台風の影響は▽長寿祝う▽泣き相撲▽ビッグブルズＨＣ生出演】",
+    "commentary": "中継・台風25号が接近▽敬老の日〜長寿を祝う 県内最高齢は113歳▽一関で高校生のバスケットボール大会▽大槌まつり▽岩手ＢＢ新ヘッドコーチ",
     "attr": [
       "stereo",
       "hd",
@@ -688,7 +688,7 @@
     "top": 1095,
     "end_time": "20260921185500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -718,7 +718,7 @@
     "top": 1135,
     "end_time": "20260921190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -789,7 +789,7 @@
     "digitalNo": 5,
     "eventId": "11120",
     "title": "報道ステーション[字]",
-    "commentary": "「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。",
+    "commentary": "シルバーウイーク直撃…台風２５号、広範囲に影響▽借りる部屋がない…高齢者の賃貸住宅の今▽プレーオフ出場へ大詰め…どうなる？村上宗隆＆岡本和真▽セ・リーグ優勝争い",
     "attr": [
       "stereo",
       "hd",
@@ -879,7 +879,7 @@
     "digitalNo": 5,
     "eventId": "11123",
     "title": "くりぃむナンタラ モグライダー芝がヒコロヒーに生まれ変わる!?「THE M」後半戦[字]",
-    "commentary": "男芸人が女になってネタを披露!\nモグライダー芝がヒコロヒーに!?ともしげはあのお騒がせ芸人に変身!!\n豪快キャプテンがギャル化!!おいでやす小田は“叫び芸”女性版!",
+    "commentary": "男芸人が女性になってネタを披露！モグライダー芝がヒコロヒーに!? ともしげはあのお騒がせ芸人に変身!! 豪快キャプテンがギャル化!! おいでやす小田は“叫び芸”女性版!",
     "attr": [
       "stereo",
       "hd",

@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921001000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 10,
     "end_time": "20260921004000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 40,
     "end_time": "20260921011000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 70,
     "end_time": "20260921014500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 105,
     "end_time": "20260921020500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 125,
     "end_time": "20260921022000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 140,
     "end_time": "20260921023500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 155,
     "end_time": "20260921023700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 157,
     "end_time": "20260921024000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 160,
     "end_time": "20260921031000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 190,
     "end_time": "20260921032200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 202,
     "end_time": "20260921035500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 235,
     "end_time": "20260921042500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -416,7 +416,7 @@
     "top": 265,
     "end_time": "20260921043000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 270,
     "end_time": "20260921050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -457,8 +457,8 @@
     "channelName": "ABCテレビ",
     "digitalNo": 6,
     "eventId": "11083",
-    "title": "おはよう朝日です 祝日版[デ]",
-    "commentary": " ",
+    "title": "おはよう朝日です 祝日版[デ] USJホラーナイトを遊びつくす▽最新クイズ本に家族で挑戦",
+    "commentary": "家族で楽しむ＆学ぶ！最新クイズ本…スタジオ出演者が挑戦▽過去最大級の恐怖体験!? USJホラーナイト！ショーにゾンビに18禁ホラーに限定グルメも▽佐藤さんのお天気",
     "attr": [
       "stereo",
       "hd",
@@ -477,7 +477,7 @@
     "top": 300,
     "end_time": "20260921080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -488,7 +488,7 @@
     "digitalNo": 6,
     "eventId": "11084",
     "title": "羽鳥慎一モーニングショー[字]",
-    "commentary": "羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。",
+    "commentary": "台風25号連休の列島へ強い勢力で関東直撃か千葉豪雨上回る大雨も交通影響は…最新情報▽台風を「制御」する減災目指す研究最前線",
     "attr": [
       "stereo",
       "hd",
@@ -507,7 +507,7 @@
     "top": 480,
     "end_time": "20260921095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -537,7 +537,7 @@
     "top": 595,
     "end_time": "20260921102500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -567,7 +567,7 @@
     "top": 625,
     "end_time": "20260921104000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -578,7 +578,7 @@
     "digitalNo": 6,
     "eventId": "11087",
     "title": "大下容子ワイド!スクランブル[字]",
-    "commentary": "スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説!",
+    "commentary": "きょう台風２５号が関東直撃 大雨＆暴風で交通影響 連休イベント中止も ▽超速報！ロシア下院選 選挙後に大規模動員？ ▽米中首脳会談の行方",
     "attr": [
       "stereo",
       "hd",
@@ -597,7 +597,7 @@
     "top": 640,
     "end_time": "20260921130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -607,8 +607,8 @@
     "channelName": "ABCテレビ",
     "digitalNo": 6,
     "eventId": "11088",
-    "title": "徹子の部屋[字]",
-    "commentary": "司会の黒柳徹子さんが、各界の著名人はもちろん、時の人、話題の人をゲストに迎え、絶妙の話術を駆使してゲストの魅力に迫る、昭和５１年放送開始の長寿トーク番組です。",
+    "title": "徹子の部屋 新浜レオン[字]",
+    "commentary": "〜２年連続紅白出場！歌謡界の大先輩たちとの交流秘話〜新浜レオンさんが今日のゲストです。",
     "attr": [
       "stereo",
       "hd",
@@ -627,7 +627,7 @@
     "top": 780,
     "end_time": "20260921133000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -657,7 +657,7 @@
     "top": 810,
     "end_time": "20260921134500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -687,7 +687,7 @@
     "top": 825,
     "end_time": "20260921144200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -719,7 +719,7 @@
     "top": 882,
     "end_time": "20260921154000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -729,8 +729,8 @@
     "channelName": "ABCテレビ",
     "digitalNo": 6,
     "eventId": "11092",
-    "title": "news おかえり[デ]",
-    "commentary": "“共感と今日感”を大切に、関西の今を届ける情報ニュース番組。",
+    "title": "news おかえり[デ] 月曜日は大仁田アナが終着駅や終点の先へ!子どもたちと洞窟探検",
+    "commentary": "月曜日は大仁田アナが終着駅や終点の先へ！子どもたちと洞窟探検▽ライフのカツサンド▽ＳＷ家族でどこいく",
     "attr": [
       "stereo",
       "hd",
@@ -749,7 +749,7 @@
     "top": 940,
     "end_time": "20260921174700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -779,7 +779,7 @@
     "top": 1067,
     "end_time": "20260921175000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -809,7 +809,7 @@
     "top": 1070,
     "end_time": "20260921181500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -819,8 +819,8 @@
     "channelName": "ABCテレビ",
     "digitalNo": 6,
     "eventId": "11095",
-    "title": "news おかえり[デ][字]",
-    "commentary": "“共感と今日感”を大切に、関西の今を届ける情報ニュース番組。",
+    "title": "news おかえり[デ][字] 爆買い必至の大行列！道の駅を調査",
+    "commentary": "爆買い必至の大行列！道の駅を調査",
     "attr": [
       "stereo",
       "hd",
@@ -839,7 +839,7 @@
     "top": 1095,
     "end_time": "20260921190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -910,7 +910,7 @@
     "digitalNo": 6,
     "eventId": "11098",
     "title": "報道ステーション[字]",
-    "commentary": "「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察”と“平たい言葉”でお送りします。",
+    "commentary": "シルバーウイーク直撃…台風２５号、広範囲に影響▽借りる部屋がない…高齢者の賃貸住宅の今▽プレーオフ出場へ大詰め…どうなる？村上宗隆＆岡本和真▽セ・リーグ優勝争い",
     "attr": [
       "stereo",
       "hd",
@@ -1090,7 +1090,7 @@
     "digitalNo": 6,
     "eventId": "11104",
     "title": "くりぃむナンタラ モグライダー芝がヒコロヒーに生まれ変わる!?「THE M」後半戦[字]",
-    "commentary": "男芸人が女になってネタを披露!\nモグライダー芝がヒコロヒーに!?ともしげはあのお騒がせ芸人に変身!!\n豪快キャプテンがギャル化!!おいでやす小田は“叫び芸”女性版!",
+    "commentary": "男芸人が女性になってネタを披露！モグライダー芝がヒコロヒーに!? ともしげはあのお騒がせ芸人に変身!! 豪快キャプテンがギャル化!! おいでやす小田は“叫び芸”女性版!",
     "attr": [
       "stereo",
       "hd",

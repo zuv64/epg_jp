@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921001000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 10,
     "end_time": "20260921004000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 40,
     "end_time": "20260921011000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 70,
     "end_time": "20260921014000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 100,
     "end_time": "20260921015500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 115,
     "end_time": "20260921022500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 145,
     "end_time": "20260921023000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 150,
     "end_time": "20260921030000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 180,
     "end_time": "20260921033000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 210,
     "end_time": "20260921040000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,37 @@
     "top": 240,
     "end_time": "20260921040100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15822488",
+    "serviceCode": "19480_32451",
+    "channelName": "ＹＴＳ山形テレビ",
+    "digitalNo": 5,
+    "eventId": "46029",
+    "title": "放送休止",
+    "commentary": " ",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260921040100,
+    "programEnd": 20260921045000,
+    "programDate": 20260920,
+    "programId": -1,
+    "start_time": "01",
+    "duration": 49,
+    "top": 241,
+    "end_time": "20260921045000",
+    "channel_type": "2",
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +386,7 @@
     "top": 290,
     "end_time": "20260921045300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +416,7 @@
     "top": 293,
     "end_time": "20260921052300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -416,7 +446,7 @@
     "top": 323,
     "end_time": "20260921052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -446,7 +476,7 @@
     "top": 325,
     "end_time": "20260921055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -476,7 +506,7 @@
     "top": 350,
     "end_time": "20260921060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -506,7 +536,7 @@
     "top": 360,
     "end_time": "20260921080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -536,7 +566,7 @@
     "top": 480,
     "end_time": "20260921095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -566,7 +596,7 @@
     "top": 595,
     "end_time": "20260921102500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -596,7 +626,7 @@
     "top": 625,
     "end_time": "20260921104000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -626,7 +656,7 @@
     "top": 640,
     "end_time": "20260921104300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -656,7 +686,7 @@
     "top": 643,
     "end_time": "20260921104500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -667,7 +697,7 @@
     "digitalNo": 5,
     "eventId": "3191",
     "title": "大下容子ワイド!スクランブル[字]",
-    "commentary": "スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説!",
+    "commentary": "きょう台風25号が関東直撃　大雨&暴風で交通影響　連休イベント中止も　▽超速報!ロシア下院選　選挙後に大規模動員?　▽米中首脳会談の行方",
     "attr": [
       "stereo",
       "hd",
@@ -686,7 +716,7 @@
     "top": 645,
     "end_time": "20260921130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -696,8 +726,8 @@
     "channelName": "ＹＴＳ山形テレビ",
     "digitalNo": 5,
     "eventId": "3192",
-    "title": "徹子の部屋[字]",
-    "commentary": "司会の黒柳徹子さんが、各界の著名人はもちろん、時の人、話題の人をゲストに迎え、絶妙の話術を駆使してゲストの魅力に迫る、昭和51年放送開始の長寿トーク番組です。",
+    "title": "徹子の部屋　新浜レオン[字]",
+    "commentary": "〜2年連続紅白出場!歌謡界の大先輩たちとの交流秘話〜新浜レオンさんが今日のゲストです。",
     "attr": [
       "stereo",
       "hd",
@@ -716,7 +746,7 @@
     "top": 780,
     "end_time": "20260921133000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -746,7 +776,7 @@
     "top": 810,
     "end_time": "20260921134500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1028,8 +1058,8 @@
     "channelName": "ＹＴＳ山形テレビ",
     "digitalNo": 5,
     "eventId": "3203",
-    "title": "[生]スーパーJチャンネルYTSゴジダスIII",
-    "commentary": "視聴者が知りたい県内ニュース・情報を山形テレビアナウンサーがズバリお伝えします!",
+    "title": "[生]スーパーJチャンネルYTSゴジダスIII　▼連休の県内　にぎわいと台風影響は",
+    "commentary": "▼村山市・そば甲子園　高校生が料理の腕競う　▼モンテ富山戦の詳報",
     "attr": [
       "stereo",
       "hd",
@@ -1090,7 +1120,7 @@
     "digitalNo": 5,
     "eventId": "3205",
     "title": "報道ステーション[字]",
-    "commentary": "「深く、力強く、きょう色々。」大越健介キャスターが、きょう知りたいニュースを“深い洞察\"と“平たい言葉\"でお送りします。",
+    "commentary": "シルバーウイーク直撃…台風25号、広範囲に影響▽借りる部屋がない…高齢者の賃貸住宅の今▽プレーオフ出場へ大詰め…どうなる?村上宗隆&岡本和真▽セ・リーグ優勝争い",
     "attr": [
       "stereo",
       "hd",
@@ -1180,7 +1210,7 @@
     "digitalNo": 5,
     "eventId": "3208",
     "title": "くりぃむナンタラ　モグライダー芝がヒコロヒーに生まれ変わる!?「THE M」後半戦[字]",
-    "commentary": "男芸人が女になってネタを披露!\nモグライダー芝がヒコロヒーに!?ともしげはあのお騒がせ芸人に変身!!\n豪快キャプテンがギャル化!!おいでやす小田は“叫び芸\"女性版!",
+    "commentary": "男芸人が女性になってネタを披露!モグライダー芝がヒコロヒーに!? ともしげはあのお騒がせ芸人に変身!! 豪快キャプテンがギャル化!! おいでやす小田は“叫び芸\"女性版!",
     "attr": [
       "stereo",
       "hd",
@@ -1318,6 +1348,36 @@
     "duration": 1,
     "top": 1550,
     "end_time": "20260922015100",
+    "channel_type": "2",
+    "is_end": false,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15833553",
+    "serviceCode": "19480_32451",
+    "channelName": "ＹＴＳ山形テレビ",
+    "digitalNo": 5,
+    "eventId": "46030",
+    "title": "放送休止",
+    "commentary": " ",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260922015100,
+    "programEnd": 20260922045000,
+    "programDate": 20260921,
+    "programId": -1,
+    "start_time": "51",
+    "duration": 179,
+    "top": 1551,
+    "end_time": "20260922045000",
     "channel_type": "2",
     "is_end": false,
     "show_remoterec": true

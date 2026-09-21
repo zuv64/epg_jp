@@ -906,7 +906,7 @@
     "channelName": "さくらんぼテレビ",
     "digitalNo": 8,
     "eventId": "5025",
-    "title": "[終]Tokyo　middle　30　#10[字][解]",
+    "title": "[終]Tokyo　middle　30「それでも私たちはー」　#10[字][解]",
     "commentary": "35歳の超リアルな恋愛ヒューマンドラマ\n10話(最終回)「それでも私たちはー」",
     "attr": [
       "stereo",
@@ -915,8 +915,8 @@
       "fin"
     ],
     "sortGenre": "30",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474334/image/bd38a3e7f6a7225ebc6009526657c41d.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923220000,
     "programEnd": 20260923225400,

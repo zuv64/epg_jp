@@ -6,16 +6,16 @@
     "channelName": "ＩＢＣテレビ",
     "digitalNo": 6,
     "eventId": "11100",
-    "title": "S☆1[字]週末のスポーツ情報番組。世界で活躍するアスリートを熱く厚くお届けします!",
-    "commentary": "MLBや世界陸上など世界最高峰の舞台に挑む日本選手はもちろん、世界のトップアスリートまで　豊富な取材力とわかりやすい解説で丁寧にお伝えします。",
+    "title": "S☆1[字]アジア大会メダル第1号は? 競泳メダルラッシュへ!五輪世代男子サッカー",
+    "commentary": "熱戦!アジア大会メダル第1号は!?\n競泳メダルラッシュなるか!?\nバレー&バスケ&五輪世代男子サッカー\nMLB&海外サッカー\n白熱!プロ野球セ首位争い",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "10",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473857/image/ed10327fb880d760d98acdde3de81fa6.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921000000,
     "programEnd": 20260921005000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921005000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 50,
     "end_time": "20260921005700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 57,
     "end_time": "20260921010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 60,
     "end_time": "20260921015500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 115,
     "end_time": "20260921022500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 145,
     "end_time": "20260921025500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 175,
     "end_time": "20260921032500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 205,
     "end_time": "20260921032700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 252,
     "end_time": "20260921042000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 260,
     "end_time": "20260921045000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 290,
     "end_time": "20260921052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -337,8 +337,8 @@
     "channelName": "ＩＢＣテレビ",
     "digitalNo": 6,
     "eventId": "11244",
-    "title": "THE　TIME,[字][デ]",
-    "commentary": "安住紳一郎が明るく楽しく丁寧に、そして正直にお伝えします!",
+    "title": "THE　TIME,[字][デ]アジア大会×VIVANT竜星涼&チョッキー役オームに大歓声",
+    "commentary": "台風25号が関東最接近!連休直撃で交通影響は?▽アジア大会開幕初日からメダルラッシュ▽連休中にインフル流行どこで診察▽timeleszに激震▽手帳に何書く?大調査",
     "attr": [
       "stereo",
       "hd",
@@ -357,7 +357,7 @@
     "top": 320,
     "end_time": "20260921080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -367,8 +367,8 @@
     "channelName": "ＩＢＣテレビ",
     "digitalNo": 6,
     "eventId": "11228",
-    "title": "ラヴィット!　日本でいちばん明るい朝番組[字]",
-    "commentary": "今の暮らしが10倍楽しくなるライフアイデア発見バラエティ!すぐに手が届く“楽しい!\"をお届けします▼MC川島明(麒麟)&田村真子(TBSアナウンサー)",
+    "title": "ラヴィット!VIVANTチョッキー参戦!ドミノ・ピザTOP10&新ちゃんっていうゲーム[字]",
+    "commentary": "▼チョッキーの演技で、どのシチュエーションのセリフか見極めろ「新ちゃんっていうゲーム」\n▼ドミノ・ピザ ヒットチャート10\n▼ビリビリ!カプセルトイ ドボンクイズ",
     "attr": [
       "stereo",
       "hd",
@@ -387,7 +387,7 @@
     "top": 480,
     "end_time": "20260921095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -417,7 +417,7 @@
     "top": 595,
     "end_time": "20260921102500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 625,
     "end_time": "20260921112000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -477,7 +477,7 @@
     "top": 680,
     "end_time": "20260921113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -507,7 +507,7 @@
     "top": 690,
     "end_time": "20260921115500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -517,8 +517,8 @@
     "channelName": "ＩＢＣテレビ",
     "digitalNo": 6,
     "eventId": "11212",
-    "title": "ひるおび[字]",
-    "commentary": "その日一番の気になるニュースをかみ砕いて解説　生放送ならではの筋書きのない展開で恵俊彰があなたの“知りたい\"に全力で応えます!!",
+    "title": "ひるおび[字]【台風25号関東接近へ 連休直撃…交通機関に影響は▽アジア大会現地中継】",
+    "commentary": "▽台風25号関東接近へ 連休直撃…交通機関に影響は?道路冠水のおそれも 各地の雨風ピークいつ?今後の台風進路は▽熱戦!アジア大会 現地から生中継",
     "attr": [
       "stereo",
       "hd",
@@ -537,7 +537,7 @@
     "top": 715,
     "end_time": "20260921123000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -547,16 +547,16 @@
     "channelName": "ＩＢＣテレビ",
     "digitalNo": 6,
     "eventId": "11429",
-    "title": "アジア大会　愛知・名古屋[字][デ]",
-    "commentary": "日本のお家芸、体操男子個人総合に日本が世界に誇る2大エース橋本・岡登場!\n水泳界に現れた“北島康介2世\"17歳大橋信、初のアジア制覇へ!いざ出陣!",
+    "title": "アジア大会　愛知・名古屋   体操男子個人総合決勝・競泳ほか[字][デ]",
+    "commentary": "体操男子個人総合に日本が世界に誇る2大エース橋本・岡が登場!いざアジア制覇へ!水泳界に現れた“北島康介2世\"17歳大橋信、初のアジア制覇へ!いざ出陣!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473836/image/e0877b3db6b0610193a7ee7dfbe16d98.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921123000,
     "programEnd": 20260921190000,
@@ -577,16 +577,16 @@
     "channelName": "ＩＢＣテレビ",
     "digitalNo": 6,
     "eventId": "11264",
-    "title": "アジア大会　愛知・名古屋　バレーボール女子準決勝ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!\n",
+    "title": "アジア大会　愛知・名古屋 バレーボール女子 準決勝 日本vs韓国 ほか　[字][デ]",
+    "commentary": "勝てばメダル確定!バレーボール女子準決勝は運命の日韓戦!和田&佐藤Wエース率いる日本が永遠のライバル韓国との一戦に挑む!サッカー女子は予選1位通過へ",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473837/image/7ca98872c9237ff79c42affccfbaf133.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921190000,
     "programEnd": 20260921232700,
@@ -727,7 +727,7 @@
     "channelName": "ＩＢＣテレビ",
     "digitalNo": 6,
     "eventId": "11256",
-    "title": "ひらめけ!うんぴょこちゃんねる WEST.お兄さんが子どもの自由な発想を全力表現",
+    "title": "ひらめけ!うんぴょこちゃんねる▽15分転校生!天才大道芸小学生と皿回しスゴ技挑戦",
     "commentary": "こどもたちのう〜んと考えてぴょこっと出てくる、そんなうんぴょこな発想をWEST.が全力で表現する、こどもも大人も笑顔になれる完全投稿型バラエティー番組",
     "attr": [
       "stereo",

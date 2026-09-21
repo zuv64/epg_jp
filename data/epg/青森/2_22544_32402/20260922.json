@@ -7,7 +7,7 @@
     "digitalNo": 1,
     "eventId": "4521",
     "title": "「大悟の芸人領収書」＆ドラマもう１度夫婦になりますか？カモフラージュ夫婦#12[字]",
-    "commentary": "▼＜ドラマ＞ 運命の最終話。二人が描く再生とは！森迫永依・前田公輝",
+    "commentary": "＜芸人領収書＞おデブ芸人の食費SP!3人合計体重424キロ!驚異の食事量!7日で食費10万超?▼<ドラマ> 運命の最終話。二人が描く再生とは！森迫永依・前田公輝",
     "attr": [
       "stereo",
       "hd",
@@ -15,7 +15,7 @@
     ],
     "sortGenre": "52",
     "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473701/image/0913fcdec8fa69f87f78f6a7160bd091.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260921235900,
     "programEnd": 20260922005400,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260922005400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 54,
     "end_time": "20260922015400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 114,
     "end_time": "20260922022400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 144,
     "end_time": "20260922025400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 174,
     "end_time": "20260922032400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 204,
     "end_time": "20260922032900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 209,
     "end_time": "20260922034400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 224,
     "end_time": "20260922043700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 277,
     "end_time": "20260922044000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 280,
     "end_time": "20260922044500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 285,
     "end_time": "20260922051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 315,
     "end_time": "20260922052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -366,8 +366,8 @@
     "channelName": "ＲＡＢ青森放送",
     "digitalNo": 1,
     "eventId": "4546",
-    "title": "Oha!4 NEWS LIVE",
-    "commentary": "あなたにつながるニュースをお届け！▽最新ニュースや気象情報を”どこよりも早く”詳しく！スポーツ・カルチャーもたっぷり！「自分のニュースに、変わるあさ。」",
+    "title": "Oha!4▽台風の影響で土砂崩れや浸水が相次ぐ",
+    "commentary": "▽台風が連休を直撃…観光地も混乱▽高市首相が米国へ出発…トランプ氏と会談へ▽アジア競技大会▽プロ野球▽上白石萌音▽A.B.C-Z▽藤岡弘、ファミリーが集結",
     "attr": [
       "stereo",
       "hd",
@@ -396,8 +396,8 @@
     "channelName": "ＲＡＢ青森放送",
     "digitalNo": 1,
     "eventId": "4540",
-    "title": "ZIP!",
-    "commentary": "▽最新のニュース、エンタメ、トレンドなど「時事性のある情報」に加え、ZIP!独自の「オリジナルコンテンツ」も多数用意し、日本の朝に「見たい」をお届けします!",
+    "title": "ZIP!台風25号 関東に最接近被害状況▽連休豪華ライブ一気見",
+    "commentary": "火曜ZIP!は岡部大\n▼シルバーウイーク後半水卜解説最新交通情報\n▼HANA、DISH//、超特急『ROCK IN JAPAN FES. 2026』インタビュー",
     "attr": [
       "stereo",
       "hd",
@@ -426,8 +426,8 @@
     "channelName": "ＲＡＢ青森放送",
     "digitalNo": 1,
     "eventId": "4556",
-    "title": "DayDay.【MCは武田真一と山里亮太!情報&エンタメ＆おしゃべり】[字]",
-    "commentary": "ＭＣは武田＆山里！爽快・情報エンタメトークショー▽身近な話題や共感ネタを深ぼり▽視聴者とリアルタイムでつながる即興アンケート！▽最新の天気",
+    "title": "DayDay.【家計にお得!ゴミ分別(秘)テク▼中国でタケノコ“硫黄で漂白”か】[字]",
+    "commentary": "台風25号 影響は▼清掃芸人が直伝!節約にもなる“〇〇するだけ”簡単ゴミ分別術▼サケ・サンマが不漁・・・旬の戻りカツオが豊漁!なぜ?",
     "attr": [
       "stereo",
       "hd",
@@ -636,8 +636,8 @@
     "channelName": "ＲＡＢ青森放送",
     "digitalNo": 1,
     "eventId": "4558",
-    "title": "ヒルナンデス![デ]",
-    "commentary": "日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。",
+    "title": "ヒルナンデス！[デ]あさこ＆佳代子の沖縄絶景旅！熱海観光客おすすめスポット調査",
+    "commentary": "沖縄絶景旅！神秘的な鍾乳洞＆やんばるの森の隠れ家カフェ＆干潮時だけ出現穴場ビーチ▼熱海の観光客がリアルに行く場所をクチコミ調査しらす山盛り丼＆フルーツジェラート",
     "attr": [
       "stereo",
       "hd",
@@ -727,7 +727,7 @@
     "digitalNo": 1,
     "eventId": "4561",
     "title": "every.[字] 鈴江奈々&森圭介がきょうを分かりやすく",
-    "commentary": "鈴江奈々、森圭介が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載!!",
+    "commentary": "土砂崩れで民家が被害 台風一過で真夏日も…▽高市首相アメリカへ 日米首脳会談…焦点は▽ネット契約落とし穴▽冷凍食品の需要拡大 消費減税に向け動きも",
     "attr": [
       "stereo",
       "hd",
@@ -794,8 +794,8 @@
       "cp1"
     ],
     "sortGenre": "5F",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473880/image/0afcd1fdb0c97b8f84fd09416bab9fad.jpg",
     "isRecommended": null,
     "programStart": 20260922190000,
     "programEnd": 20260922202500,
@@ -966,8 +966,8 @@
     "channelName": "ＲＡＢ青森放送",
     "digitalNo": 1,
     "eventId": "4538",
-    "title": "news zero[字]",
-    "commentary": "藤井貴彦が、大切なニュースを「長く、深く」。今起きているニュースを「速報とライブ映像」で届けます。夜11時、明日を迎えるきっかけに…",
+    "title": "news zero[字]台風25号…千葉豪雨に“匹敵” 各地の“被害”全容は",
+    "commentary": "車の水没や停電など生活にも影響か▼【速報】トランプ大統領国連総会で何を語る？▼バスケＢリーグ開幕▼白熱プロ野球Ｖ争い",
     "attr": [
       "stereo",
       "hd",
@@ -1021,26 +1021,27 @@
   },
   {
     "@search.score": 1,
-    "cid": "2_15774786",
+    "cid": "2_15822491",
     "serviceCode": "22544_32402",
     "channelName": "ＲＡＢ青森放送",
     "digitalNo": 1,
-    "eventId": "4533",
-    "title": "タイムレスマン[字]▼風磨考案ゲームでゲストと心理戦▼絶品スイーツをかけ極限バトル",
-    "commentary": "信頼ビリビリペン▼風磨考案！豪華ゲストと極限心理戦！横山裕＆上田竜也▼絶品スイーツをかけ新ゲームに挑む!",
+    "eventId": "5101",
+    "title": "栗原はるみ・心平の青森いただきます![再]",
+    "commentary": "日本を代表する料理家栗原はるみと息子の心平が食をツールに青森を旅します。亡くなった家族と一緒に旅をした思い出の場所を巡ります。",
     "attr": [
       "stereo",
       "hd",
-      "cp1"
+      "cp1",
+      "rep"
     ],
-    "sortGenre": "52",
+    "sortGenre": "56",
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923005400,
     "programEnd": 20260923015100,
     "programDate": 20260922,
-    "programId": 924129,
+    "programId": 877979,
     "start_time": "54",
     "duration": 57,
     "top": 1494,

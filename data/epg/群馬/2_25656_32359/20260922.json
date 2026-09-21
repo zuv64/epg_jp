@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260922003000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 30,
     "end_time": "20260922010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 60,
     "end_time": "20260922010500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 65,
     "end_time": "20260922051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 315,
     "end_time": "20260922052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 320,
     "end_time": "20260922055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 350,
     "end_time": "20260922060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 360,
     "end_time": "20260922063000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 390,
     "end_time": "20260922070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 420,
     "end_time": "20260922071500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 435,
     "end_time": "20260922074500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 465,
     "end_time": "20260922075000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 470,
     "end_time": "20260922075700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -416,7 +416,7 @@
     "top": 477,
     "end_time": "20260922080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -446,7 +446,7 @@
     "top": 480,
     "end_time": "20260922081500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -476,7 +476,7 @@
     "top": 495,
     "end_time": "20260922083000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1239,7 +1239,7 @@
     "channelName": "群馬テレビ",
     "digitalNo": 3,
     "eventId": "9914",
-    "title": "ニュースeye8",
+    "title": "ニュースeye8 「大型連休 こんにゃくパークで秋の祭典」",
     "commentary": "今を読み取る確かな目(eye)と地域に対する愛（アイ）で、子供からお年寄りまで幅広い世代に分かりやすくニュースを伝えます。",
     "attr": [
       "stereo",
@@ -1329,7 +1329,7 @@
     "channelName": "群馬テレビ",
     "digitalNo": 3,
     "eventId": "9964",
-    "title": "GO!GO!グリーンウイングス",
+    "title": "GO!GO!グリーンウイングス 「松浦未波さんがスタジオに登場」",
     "commentary": "ＳＶリーグ女子バレーボール、群馬グリーンウイングスの応援番組。直近の試合の振り返りをはじめ、チームや選手の横顔なども紹介します。",
     "attr": [
       "stereo",

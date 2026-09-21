@@ -6,8 +6,8 @@
     "channelName": "ＡＴＶ青森テレビ",
     "digitalNo": 6,
     "eventId": "31259",
-    "title": "news23[字]あなたと、あなたの身近な人にとって大切なニュースを",
-    "commentary": "どこよりもわかりやすく、わかりやすい言葉で、色んな人の意見、色んな声、色んな視点と共にお伝えします。経験豊富な23ジャーナリストたちが、ニュースを深掘りします。",
+    "title": "news23[字]【最新】連休直撃の台風25号　関東各地で土砂崩れなど相次ぐ",
+    "commentary": "【最新】連休直撃の台風25号　関東各地で土砂崩れなど相次ぐ/【スタジオ生出演】「検事の仕事を愛していました」大阪地検の元トップからの性被害訴える女性はなぜ辞職に",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260922002600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -37,7 +37,7 @@
     "digitalNo": 6,
     "eventId": "31291",
     "title": "クレイジージャーニー☆丸山ゴンザレス・ルーマニアのマンホールタウン旅・第ゼロ章[字]",
-    "commentary": "番組初回!ゴンザレス初登場ルーマニアのマンホールタウン取材(秘)話▽90年代チャウシェスク政権下の人口増加政策の闇をTBS貴重映像で遡る!▽シンナー吸う子達に衝撃",
+    "commentary": "レギュラー初回放送!ゴンザレス・ルーマニアのマンホールタウン旅(秘)話▽90年代チャウシェスク政権人口増加政策の闇をTBS貴重映像で遡る▽シンナー吸う子に衝撃",
     "attr": [
       "stereo",
       "hd",
@@ -56,7 +56,7 @@
     "top": 26,
     "end_time": "20260922012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 85,
     "end_time": "20260922015500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 115,
     "end_time": "20260922022400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 144,
     "end_time": "20260922033000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 210,
     "end_time": "20260922034800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 228,
     "end_time": "20260922035000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 230,
     "end_time": "20260922042000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 260,
     "end_time": "20260922045000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 290,
     "end_time": "20260922052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 320,
     "end_time": "20260922080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -336,8 +336,8 @@
     "channelName": "ＡＴＶ青森テレビ",
     "digitalNo": 6,
     "eventId": "31359",
-    "title": "ラヴィット!　日本でいちばん明るい朝番組[字]",
-    "commentary": "今の暮らしが10倍楽しくなるライフアイデア発見バラエティ!すぐに手が届く“楽しい!\"をお届けします▼MC川島明(麒麟)&田村真子(TBSアナウンサー)",
+    "title": "ラヴィット!土屋太鳳&よしお兄さん参戦!全問正解で高額賞金!4択サバイバルクイズ",
+    "commentary": "[字]▼1人でも生き残れば高額賞金!4択サバイバルクイズ!バスケ五輪メダリスト・馬瓜エブリンがスゴ技シュート披露!▼よしお兄さん&あづきお姉さんが『からだ☆ダンダン』",
     "attr": [
       "stereo",
       "hd",
@@ -396,8 +396,8 @@
     "channelName": "ＡＴＶ青森テレビ",
     "digitalNo": 6,
     "eventId": "31375",
-    "title": "ひるおび[字]",
-    "commentary": "あなたを“いたわる\"1時間!天気痛・家事の裏ワザ・明日行きたいイベント情報…毎日忙しいあなたをちょっと笑顔にする情報にこだわってお届けします▼復活!亭主改造計画",
+    "title": "ひるおび[字]ホームセンター出口調査「あなたが買った便利グッズ見せて」▼台風被害状況",
+    "commentary": "カインズ&島忠ホームズで購入品を出口調査!キッチン・掃除・洗濯…秋の便利グッズと意外な使用法に密着▼生中継!絶景500万本の彼岸花&絶品グルメ▼連休直撃…台風情報",
     "attr": [
       "stereo",
       "hd",
@@ -426,16 +426,16 @@
     "channelName": "ＡＴＶ青森テレビ",
     "digitalNo": 6,
     "eventId": "31399",
-    "title": "アジア大会　愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　愛知・名古屋 バスケ女子予選ほか[字][デ]",
+    "commentary": "28年ぶりの女王奪還を目指すバスケットボール女子日本代表!勝てば1位通過!フィリピンとのグループステージ最終戦に挑む!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473838/image/8daf4f37f33312d19eb8ea38d4226528.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922123000,
     "programEnd": 20260922153000,
@@ -456,8 +456,8 @@
     "channelName": "ＡＴＶ青森テレビ",
     "digitalNo": 6,
     "eventId": "31415",
-    "title": "アジア大会　愛知・名古屋　バレーボール女子3位決定戦ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　愛知・名古屋　[字][デ]",
+    "commentary": "48年ぶりの金メダルへ!バレーボール女子日本代表、中国との決勝戦は今夜7時頃から!その前に、21日に行われた準決勝の日韓戦をプレイバック!",
     "attr": [
       "stereo",
       "hd",
@@ -487,15 +487,15 @@
     "digitalNo": 6,
     "eventId": "31407",
     "title": "アジア大会　愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "commentary": "32年ぶりの日本開催!日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!日本競泳陣メダルラッシュへ!若きエース松下知之大会2冠なるか?",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473840/image/e64b8dea32995aff60b6d038dd44b236.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922170000,
     "programEnd": 20260922190000,
@@ -516,16 +516,16 @@
     "channelName": "ＡＴＶ青森テレビ",
     "digitalNo": 6,
     "eventId": "31411",
-    "title": "アジア大会　愛知・名古屋　バレーボール女子決勝ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　愛知・名古屋　バレーボール女子決勝　日本vs中国[字][デ]",
+    "commentary": "48年ぶりの金メダルなるか?Wエース佐藤&和田率いるバレーボール女子日本代表が中国との決勝戦!卓球女子団体は準々決勝!早田ひな・張本美和らが登場!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473841/image/e981a34bd4f09b690dace4023f6a1ee8.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922190000,
     "programEnd": 20260922232700,

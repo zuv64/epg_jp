@@ -6,7 +6,7 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "18757",
-    "title": "歴史探偵　東京“幻の世界遺産”　徳川家霊廟[解][字][再]",
+    "title": "歴史探偵 東京“幻の世界遺産” 徳川家霊廟[解][字][再]",
     "commentary": "世界遺産級の徳川の秘宝！かつて東京のど真ん中に建ち並んでいた徳川将軍家の霊廟を3DCGで精細に復元！失われた「国の宝」そこに秘められた謎と将軍たちの思いに迫る。",
     "attr": [
       "stereo",
@@ -18,16 +18,16 @@
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260921235000,
-    "programEnd": 20260922003500,
+    "programStart": 20260921235500,
+    "programEnd": 20260922004000,
     "programDate": 20260921,
     "programId": 579343,
-    "start_time": "50",
-    "duration": 35,
+    "start_time": "55",
+    "duration": 40,
     "top": 0,
-    "end_time": "20260922003500",
+    "end_time": "20260922004000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -37,8 +37,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "18999",
-    "title": "SONGS　福山雅治PART2▽大泉と思い出の街・渋谷へ▽ヒット曲ライブ[字][再]",
-    "commentary": "「HELLO」「想望」福山雅治が大ヒット曲ライブを披露。さらに福山が下積み時代を過ごした渋谷の街で大泉洋とロケも。思い出のレストランを訪ね2人だけの本音トーク！",
+    "title": "SONGS 福山雅治PART2▽大泉と思い出の街・渋谷へ▽ヒット曲ライブ[字][再]",
+    "commentary": "「HELLO」「想望」福山雅治が大ヒット曲ライブを披露。さらに福山が下積み時代を過ごした渋谷の街で大泉洋とロケも。思い出のレストランを訪ね２人だけの本音トーク!",
     "attr": [
       "stereo",
       "hd",
@@ -49,16 +49,16 @@
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260922003500,
-    "programEnd": 20260922012000,
+    "programStart": 20260922004000,
+    "programEnd": 20260922012500,
     "programDate": 20260921,
     "programId": 1508,
-    "start_time": "35",
+    "start_time": "40",
     "duration": 45,
-    "top": 35,
-    "end_time": "20260922012000",
+    "top": 40,
+    "end_time": "20260922012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -68,8 +68,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19001",
-    "title": "うまいッ！　アジの最高峰シマアジ　愛媛・宇和島市[字][再]",
-    "commentary": "高級魚しまあじが今回の食材。世界的グルメガイドで2つ星を獲得したフレンチシェフも絶賛する上品な脂が特徴です。俳優・曽田陵介さんが、しまあじの養殖現場を訪ねます。",
+    "title": "うまいッ！ アジの最高峰シマアジ 愛媛・宇和島市[字][再]",
+    "commentary": "高級魚しまあじが今回の食材。世界的グルメガイドで２つ星を獲得したフレンチシェフも絶賛する上品な脂が特徴です。俳優・曽田陵介さんが、しまあじの養殖現場を訪ねます。",
     "attr": [
       "stereo",
       "hd",
@@ -80,16 +80,16 @@
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260922012000,
-    "programEnd": 20260922014500,
+    "programStart": 20260922012500,
+    "programEnd": 20260922015000,
     "programDate": 20260921,
     "programId": 35381,
-    "start_time": "20",
+    "start_time": "25",
     "duration": 25,
-    "top": 80,
-    "end_time": "20260922014500",
+    "top": 85,
+    "end_time": "20260922015000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -99,8 +99,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19010",
-    "title": "3か月でマスターするギター　[終]（12）ライブデビューみんなでセッション[解][字]",
-    "commentary": "ドクターキャピタル流メソッドで、たった3か月でギターが弾ける▽「糸」＆「FirstLove」弾き語り▽「ルビーの指環」「プレイバックpart2」ソロギター",
+    "title": "３か月でマスターするギター [終](12)ライブデビューみんなでセッション[解][字]",
+    "commentary": "ドクターキャピタル流メソッドで、たった３か月でギターが弾ける▽「糸」&「FirstLove」弾き語り▽「ルビーの指環」「プレイバックpart2」ソロギター",
     "attr": [
       "stereo",
       "hd",
@@ -111,16 +111,16 @@
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260922014500,
-    "programEnd": 20260922021500,
+    "programStart": 20260922015000,
+    "programEnd": 20260922022000,
     "programDate": 20260921,
     "programId": 996600,
-    "start_time": "45",
+    "start_time": "50",
     "duration": 30,
-    "top": 105,
-    "end_time": "20260922021500",
+    "top": 110,
+    "end_time": "20260922022000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -130,8 +130,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "24709",
-    "title": "J−MELO　Ado",
-    "commentary": "Adoが登場したNHKワールドJAPANの「J−MELO」を国内波でも放送！「歌い手」としての思いから、今後の目標まで大いに語る。迫力のライブ映像もたっぷりと！",
+    "title": "J-MELO Ado ",
+    "commentary": "Adoが登場したNHKワールドJAPANの「J-MELO」を国内波でも放送！「歌い手」としての思いから、今後の目標まで大いに語る。迫力のライブ映像もたっぷりと!",
     "attr": [
       "stereo",
       "hd",
@@ -141,16 +141,16 @@
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260922021500,
-    "programEnd": 20260922024400,
+    "programStart": 20260922022000,
+    "programEnd": 20260922024900,
     "programDate": 20260921,
     "programId": 6156,
-    "start_time": "15",
+    "start_time": "20",
     "duration": 29,
-    "top": 135,
-    "end_time": "20260922024400",
+    "top": 140,
+    "end_time": "20260922024900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -161,7 +161,7 @@
     "digitalNo": 1,
     "eventId": "24980",
     "title": "空からクルージング特別編「ヨーロッパの城と宮殿」",
-    "commentary": "世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。8Kで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。",
+    "commentary": "世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。",
     "attr": [
       "stereo",
       "hd",
@@ -171,16 +171,16 @@
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260922024400,
-    "programEnd": 20260922034400,
+    "programStart": 20260922024900,
+    "programEnd": 20260922034900,
     "programDate": 20260921,
     "programId": 652146,
-    "start_time": "44",
+    "start_time": "49",
     "duration": 60,
-    "top": 164,
-    "end_time": "20260922034400",
+    "top": 169,
+    "end_time": "20260922034900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -191,7 +191,7 @@
     "digitalNo": 1,
     "eventId": "24981",
     "title": "ヨーロッパ絶景の道「ナポリからローマへ」",
-    "commentary": "「ヨーロッパ　絶景の道」シリーズ　　ヨーロッパ各地の美しい風景や街並みをお届けします。今回は、イタリアのナポリからローマへの道をたどります。",
+    "commentary": "「ヨーロッパ 絶景の道」シリーズ  ヨーロッパ各地の美しい風景や街並みをお届けします。今回は、イタリアのナポリからローマへの道をたどります。",
     "attr": [
       "stereo",
       "hd",
@@ -201,16 +201,16 @@
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260922034400,
+    "programStart": 20260922034900,
     "programEnd": 20260922042500,
     "programDate": 20260921,
     "programId": 921570,
-    "start_time": "44",
-    "duration": 41,
-    "top": 224,
+    "start_time": "49",
+    "duration": 36,
+    "top": 229,
     "end_time": "20260922042500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -220,7 +220,7 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19017",
-    "title": "大相撲（2026年）　幕内の全取組　秋場所　九日目",
+    "title": "大相撲(2026年) 幕内の全取組 秋場所 九日目",
     "commentary": " ",
     "attr": [
       "stereo",
@@ -240,7 +240,7 @@
     "top": 265,
     "end_time": "20260922045000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -250,8 +250,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19018",
-    "title": "視点・論点[字][再]",
-    "commentary": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
+    "title": "視点・論点 軽度認知障害・MCIに気づくために[字][再]",
+    "commentary": "認知症の高齢者は約４４３万人。そんな中、軽度認知障害・MCIが注目されています。正常な状態に戻る人も少なくないＭＣＩ。どうすれば変化に気づけるのか考えます",
     "attr": [
       "stereo",
       "hd",
@@ -271,7 +271,7 @@
     "top": 290,
     "end_time": "20260922050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -301,7 +301,7 @@
     "top": 300,
     "end_time": "20260922051000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -312,7 +312,7 @@
     "digitalNo": 1,
     "eventId": "25381",
     "title": "連続テレビ小説「ブラッサム」PR[字]",
-    "commentary": "28日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さん、渡部篤郎さんなどキャスト陣の熱い思いに迫る。",
+    "commentary": "２８日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さん、渡部篤郎さんなどキャスト陣の熱い思いに迫る。",
     "attr": [
       "stereo",
       "hd",
@@ -331,7 +331,7 @@
     "top": 310,
     "end_time": "20260922051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -341,7 +341,7 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "25382",
-    "title": "秀サルでもわかる　豊臣兄弟！　なんで信長は討たれてしまったの？[字]",
+    "title": "秀サルでもわかる 豊臣兄弟！ なんで信長は討たれてしまったの?[字]",
     "commentary": "大河ドラマ「豊臣兄弟！」を一層楽しく見るための公式ガイド。目からウロコの情報満載。二匹のおサルが、歴史的背景や複雑な人間関係を、とっても分かりやすく解説します。",
     "attr": [
       "stereo",
@@ -355,13 +355,13 @@
     "programStart": 20260922051500,
     "programEnd": 20260922052000,
     "programDate": 20260922,
-    "programId": -1,
+    "programId": 988928,
     "start_time": "15",
     "duration": 5,
     "top": 315,
     "end_time": "20260922052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -371,8 +371,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "24136",
-    "title": "熱談プレイバック　名馬オグリキャップ！地方競馬から感動ラストランまで[字][再]",
-    "commentary": "地方競馬からのしあがり日本一に登り詰めた名馬の中の名馬・オグリキャップ！衝撃のデビュー戦から日本中が涙した伝説のラスト・ランまでを、お宝映像と講談で！",
+    "title": "熱談プレイバック 名馬オグリキャップ！地方競馬から感動ラストランまで[字][再]",
+    "commentary": "地方競馬からのしあがり日本一に登り詰めた名馬の中の名馬・オグリキャップ！衝撃のデビュー戦から日本中が涙した伝説のラスト・ランまでを、お宝映像と講談で!",
     "attr": [
       "stereo",
       "hd",
@@ -392,7 +392,7 @@
     "top": 320,
     "end_time": "20260922054800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -402,8 +402,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "24267",
-    "title": "今夜放送　武井壮ファミリーヒストリーPR",
-    "commentary": "今夜7時30分放送！9歳のとき母と生き別れた武井壮さん。父が家に帰らず、兄と2人で苦しい日々を生き抜いた。母の行方、そして明らかになる母の真実とは。",
+    "title": "今夜放送 武井壮ファミリーヒストリーPR",
+    "commentary": "今夜7時30分放送!9歳のとき母と生き別れた武井壮さん。父が家に帰らず、兄と２人で苦しい日々を生き抜いた。母の行方、そして明らかになる母の真実とは。",
     "attr": [
       "stereo",
       "hd",
@@ -422,7 +422,7 @@
     "top": 348,
     "end_time": "20260922054900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -432,8 +432,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "24268",
-    "title": "NHKスペシャルPR　病への挑戦　第2集　うつ病　克服へのカギ",
-    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするPR番組。今回は9月20日放送の『病への挑戦　第2集　うつ病　克服へのカギ』。",
+    "title": "NHKスペシャルPR 病への挑戦 第２集 うつ病 克服へのカギ",
+    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするＰＲ番組。今回は９月２０日放送の『病への挑戦 第２集 うつ病 克服へのカギ』。",
     "attr": [
       "stereo",
       "hd",
@@ -452,7 +452,7 @@
     "top": 349,
     "end_time": "20260922055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -482,7 +482,7 @@
     "top": 350,
     "end_time": "20260922060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -512,7 +512,7 @@
     "top": 360,
     "end_time": "20260922061000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -522,8 +522,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "25386",
-    "title": "あさイチの鈴木奈穂子アナが「NHK　ONE」を解説[字]",
-    "commentary": "鈴木奈穂子アナがNHK　ONE「ニュース・防災」アプリの便利な使い方を教えます！災害から命と暮らしを守るための様々な機能をスマホ画面を見せながらご紹介します！",
+    "title": "あさイチの鈴木奈穂子アナが「NHK ONE」を解説[字]",
+    "commentary": "鈴木奈穂子アナがNHK ONE「ニュース・防災」アプリの便利な使い方を教えます！災害から命と暮らしを守るための様々な機能をスマホ画面を見せながらご紹介します!",
     "attr": [
       "stereo",
       "hd",
@@ -536,13 +536,13 @@
     "programStart": 20260922061000,
     "programEnd": 20260922061500,
     "programDate": 20260922,
-    "programId": -1,
+    "programId": 1001302,
     "start_time": "10",
     "duration": 5,
     "top": 370,
     "end_time": "20260922061500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -552,8 +552,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "25389",
-    "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "title": "アニメまとめPR 10月スタート!注目の4番組[字]",
+    "commentary": "１０月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ Season2」の見どころを紹介!",
     "attr": [
       "stereo",
       "hd",
@@ -572,7 +572,7 @@
     "top": 375,
     "end_time": "20260922062000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -582,7 +582,7 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "25391",
-    "title": "Dearにっぽん　PR番組[字]",
+    "title": "Dearにっぽん PR番組[字]",
     "commentary": "【語り】吉岡里帆",
     "attr": [
       "stereo",
@@ -602,7 +602,7 @@
     "top": 380,
     "end_time": "20260922062200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -612,8 +612,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "25393",
-    "title": "【夜ドラ】税金で買った本　PR[字]",
-    "commentary": "ヤンキー高校生・石平紀一（奥平大兼）は、ひょんなことから図書館でアルバイトをすることに。個性的な図書館員たちと繰り広げるライブラリー・ヒューマンコメディー！",
+    "title": "【夜ドラ】税金で買った本 PR[字]",
+    "commentary": "ヤンキー高校生・石平紀一（奥平大兼）は、ひょんなことから図書館でアルバイトをすることに。個性的な図書館員たちと繰り広げるライブラリー・ヒューマンコメディー!",
     "attr": [
       "stereo",
       "hd",
@@ -632,7 +632,7 @@
     "top": 382,
     "end_time": "20260922062400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -642,8 +642,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "25394",
-    "title": "今夜放送　武井壮ファミリーヒストリーPR",
-    "commentary": "今夜7時30分放送！9歳のとき母と生き別れた武井壮さん。父が家に帰らず、兄と2人で苦しい日々を生き抜いた。母の行方、そして明らかになる母の真実とは。",
+    "title": "今夜放送 武井壮ファミリーヒストリーPR",
+    "commentary": "今夜7時30分放送!9歳のとき母と生き別れた武井壮さん。父が家に帰らず、兄と２人で苦しい日々を生き抜いた。母の行方、そして明らかになる母の真実とは。",
     "attr": [
       "stereo",
       "hd",
@@ -662,7 +662,7 @@
     "top": 384,
     "end_time": "20260922062500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -672,13 +672,12 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "23716",
-    "title": "【NHK地域局発】とやまスペシャル　とやま鉄道の旅　特別号！第2弾[字][再]",
-    "commentary": "息をのむ絶景、四季折々のご当地グルメ、ユニークな観光スポット…富山の鉄道沿線を満喫できる情報満載の特別企画・第2弾！美しい映像とともに旅気分を味わえるひと時を！",
+    "title": "とやまスペシャル とやま鉄道の旅 特別号！第２弾[字]",
+    "commentary": "息をのむ絶景、四季折々のご当地グルメ、ユニークな観光スポット…富山の鉄道沿線を満喫できる情報満載の特別企画・第２弾！美しい映像とともに旅気分を味わえるひと時を!",
     "attr": [
       "stereo",
       "hd",
-      "cp1",
-      "rep"
+      "cp1"
     ],
     "sortGenre": "84",
     "hasImage": 0,
@@ -693,7 +692,7 @@
     "top": 385,
     "end_time": "20260922065300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -723,7 +722,7 @@
     "top": 413,
     "end_time": "20260922065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -753,7 +752,7 @@
     "top": 415,
     "end_time": "20260922070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -763,8 +762,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19032",
-    "title": "NHKニュース　おはよう日本[字]",
-    "commentary": "国内外の最新ニュースをわかりやすくコンパクトに。気になる現場からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょうの気象情報も詳しくお伝えします。",
+    "title": "NHKニュース おはよう日本 9月22日(火)[字]",
+    "commentary": "▼台風２５号 連休直撃 影響は ▼国連総会 首脳演説きょうから ▼高市首相とトランプ大統領 首脳会談へ ▼絶滅に瀕するサイ 密猟と保護の最前線",
     "attr": [
       "stereo",
       "hd",
@@ -783,7 +782,7 @@
     "top": 420,
     "end_time": "20260922072500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -793,7 +792,7 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19033",
-    "title": "NHKニュース　おはよう首都圏（関東甲信越）[字]",
+    "title": "NHKニュース おはよう首都圏（関東甲信越）[字]",
     "commentary": "ニュース・気象情報・交通情報",
     "attr": [
       "stereo",
@@ -813,7 +812,7 @@
     "top": 445,
     "end_time": "20260922073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -823,8 +822,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19034",
-    "title": "経済バックヤード　毎日がスペシャル♪「スーパーマーケット」の舞台裏[字]",
-    "commentary": "手ごろでおいしい！暮らしの頼れる味方・スーパーの舞台裏。▽大人気の総菜コーナーのクオリティーを支える「虎の穴」に潜入！▽地方発スーパーの楽しい逆張り戦略とは？",
+    "title": "経済バックヤード 毎日がスペシャル♪「スーパーマーケット」の舞台裏[字]",
+    "commentary": "手ごろでおいしい！暮らしの頼れる味方・スーパーの舞台裏。▽大人気の総菜コーナーのクオリティーを支える「虎の穴」に潜入！▽地方発スーパーの楽しい逆張り戦略とは?",
     "attr": [
       "stereo",
       "hd",
@@ -843,7 +842,7 @@
     "top": 450,
     "end_time": "20260922075500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -873,7 +872,7 @@
     "top": 475,
     "end_time": "20260922080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -883,7 +882,7 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19045",
-    "title": "【連続テレビ小説】風、薫る（127）最終週「道標（みちしるべ）」[解][字]",
+    "title": "【連続テレビ小説】風、薫る(127)最終週「道標(みちしるべ)」[解][字]",
     "commentary": "ツヤ（東野絢香）は、佳枝（相田翔子）の看護をするりん（見上愛）に、患者の変化に気づく方法を尋ねるが、りんはうまく答えられず…",
     "attr": [
       "stereo",
@@ -891,8 +890,8 @@
       "cp1"
     ],
     "sortGenre": "30",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/80050000/80050736/image/a17b077d5f32c9cd674a6612cc8f46f9.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922080000,
     "programEnd": 20260922081500,
@@ -903,7 +902,7 @@
     "top": 480,
     "end_time": "20260922081500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -914,7 +913,7 @@
     "digitalNo": 1,
     "eventId": "20669",
     "title": "もうすぐ！連続テレビ小説「ブラッサム」[字]",
-    "commentary": "28日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、加賀まりこさん、松たか子さんなどキャスト陣の熱い思いに迫る。",
+    "commentary": "２８日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、加賀まりこさん、松たか子さんなどキャスト陣の熱い思いに迫る。",
     "attr": [
       "stereo",
       "hd",
@@ -927,7 +926,7 @@
     "programStart": 20260922081500,
     "programEnd": 20260922084500,
     "programDate": 20260922,
-    "programId": -1,
+    "programId": 1008662,
     "start_time": "15",
     "duration": 30,
     "top": 495,
@@ -943,8 +942,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "21678",
-    "title": "チコちゃんに叱られる！　拡大版SP▽ジャージの縦線▽引っ越しの段ボール[解][字][再]",
-    "commentary": "拡大版SP！ジャージに縦線が入っているのはなぜ？引っ越しの段ボールに白が多いのはなぜ？映画の公開はなぜ“ロードショー”？“鳩（はと）時計”の鳥はなぜ鳩？",
+    "title": "チコちゃんに叱られる! 拡大版SP▽ジャージの縦線▽引っ越しの段ボール[解][字][再]",
+    "commentary": "拡大版SP!ジャージに縦線が入っているのはなぜ？引っ越しの段ボールに白が多いのはなぜ？映画の公開はなぜ“ロードショー”？“鳩（はと）時計”の鳥はなぜ鳩?",
     "attr": [
       "stereo",
       "hd",
@@ -1169,7 +1168,7 @@
     "programStart": 20260922114700,
     "programEnd": 20260922114900,
     "programDate": 20260922,
-    "programId": -1,
+    "programId": 969217,
     "start_time": "47",
     "duration": 2,
     "top": 707,
@@ -1426,7 +1425,7 @@
     "digitalNo": 1,
     "eventId": "24274",
     "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "commentary": "10月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ　Season2」の見どころを紹介！",
     "attr": [
       "stereo",
       "hd",
@@ -1480,13 +1479,13 @@
   },
   {
     "@search.score": 1,
-    "cid": "2_15761973",
+    "cid": "2_15834020",
     "serviceCode": "25600_32352",
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
-    "eventId": "19715",
-    "title": "【連続テレビ小説】ひよっこ（35）「響け若人のうた」[解][字]",
-    "commentary": "みね子（有村架純）が東京に来て1か月、初めての給料日がやって来た。早速家族への仕送りを送金したみね子は、寮に来ている訪問販売ですてきなブラウスを見つける。",
+    "eventId": "27852",
+    "title": "【連続テレビ小説】ひよっこ（34）「響け若人のうた」[解][字]",
+    "commentary": "乙女寮に来た綿引（竜星涼）は、みね子（有村架純）に、実を最近見かけた人に会ったと言う。動揺するみね子だが、早く美代子（木村佳乃）に教えたいと考える。",
     "attr": [
       "stereo",
       "hd",
@@ -1848,7 +1847,7 @@
     "digitalNo": 1,
     "eventId": "19068",
     "title": "大相撲（2026年）秋場所　十日目　思い出の土俵〜昭和61年秋場所〜[二][字]",
-    "commentary": " ",
+    "commentary": "1敗で単独トップの横綱・大の里は伯乃富士と。2敗で元気な関脇2人、熱海富士は大関・琴櫻、藤ノ川は隆の勝と対戦",
     "attr": [
       "stereo",
       "hd",
@@ -2210,7 +2209,7 @@
     "digitalNo": 1,
     "eventId": "24339",
     "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "commentary": "10月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ　Season2」の見どころを紹介！",
     "attr": [
       "stereo",
       "hd",
@@ -2269,8 +2268,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19084",
-    "title": "ニュースウオッチ9[二][字]",
-    "commentary": "夜9時。複雑に課題が絡み合う社会の「いまを映すいまを読み解く」。国内外の独自取材と記者キャスターの解説で「深く」迫ります。▽スポーツは速報で！",
+    "title": "ニュースウオッチ9▽国連総会トランプ大統領・高市首相が演説へ[二][字]",
+    "commentary": "国連総会トランプ大統領・高市首相が演説へどうなる日米首脳会談広内キャスターが現地から報告▽大相撲秋場所の結果▽プロ野球の結果",
     "attr": [
       "stereo",
       "hd",
@@ -2511,7 +2510,7 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "24346",
-    "title": "“サル”でもわかる　豊臣兄弟！　徳川家康は豊臣兄弟が嫌いだったの？[字]",
+    "title": "秀サルでもわかる　豊臣兄弟！　徳川家康は豊臣兄弟が嫌いだったの？[字]",
     "commentary": "大河ドラマ「豊臣兄弟！」を一層楽しく見るための公式ガイド。目からウロコの情報満載。二匹のおサルが、歴史的背景や複雑な人間関係を、とっても分かりやすく解説します。",
     "attr": [
       "stereo",
@@ -2676,7 +2675,7 @@
     "programStart": 20260923012500,
     "programEnd": 20260923021100,
     "programDate": 20260922,
-    "programId": 1007739,
+    "programId": 582055,
     "start_time": "25",
     "duration": 46,
     "top": 1525,
@@ -2812,8 +2811,8 @@
     "channelName": "NHK前橋　総合",
     "digitalNo": 1,
     "eventId": "19370",
-    "title": "視点・論点[字][再]",
-    "commentary": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
+    "title": "視点・論点　多様な被災者支援ネットワークをめざして[字][再]",
+    "commentary": "この10年間、大きな地震災害を経験した熊本県の人たち。避難所や仮設住宅など、転居を繰り返すなか、孤独や孤立を感じる人も少なくありません。支援の在り方を考えます",
     "attr": [
       "stereo",
       "hd",

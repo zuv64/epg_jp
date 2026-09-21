@@ -14,8 +14,8 @@
       "cp1"
     ],
     "sortGenre": "41",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473708/image/819e183990902c9fde4a7e419a6b14a7.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922000000,
     "programEnd": 20260922003000,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260922003000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -44,8 +44,8 @@
       "cp1"
     ],
     "sortGenre": "40",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473709/image/c168c4f8ec69f0efdaeede5c4d88fa76.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922003000,
     "programEnd": 20260922005500,
@@ -56,7 +56,7 @@
     "top": 30,
     "end_time": "20260922005500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 55,
     "end_time": "20260922010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 60,
     "end_time": "20260922012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 85,
     "end_time": "20260922013000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 90,
     "end_time": "20260922020000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 120,
     "end_time": "20260922020300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 240,
     "end_time": "20260922043000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 270,
     "end_time": "20260922043500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 275,
     "end_time": "20260922050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 300,
     "end_time": "20260922052900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 329,
     "end_time": "20260922053000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -387,7 +387,7 @@
     "top": 330,
     "end_time": "20260922060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -417,7 +417,7 @@
     "top": 360,
     "end_time": "20260922063000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -448,7 +448,7 @@
     "top": 390,
     "end_time": "20260922065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -478,7 +478,7 @@
     "top": 415,
     "end_time": "20260922070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -496,8 +496,8 @@
       "cp1"
     ],
     "sortGenre": "41",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473714/image/949c0179c58784ecee9d235bbe04d86a.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922070000,
     "programEnd": 20260922073000,
@@ -508,7 +508,7 @@
     "top": 420,
     "end_time": "20260922073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -538,7 +538,7 @@
     "top": 450,
     "end_time": "20260922080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -556,8 +556,8 @@
       "cp1"
     ],
     "sortGenre": "40",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473712/image/3a0ec2b5f8b514f0217e8f5ebf867f2e.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922080000,
     "programEnd": 20260922082500,
@@ -568,7 +568,7 @@
     "top": 480,
     "end_time": "20260922082500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -598,7 +598,7 @@
     "top": 505,
     "end_time": "20260922083000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1270,7 +1270,7 @@
     "digitalNo": 3,
     "eventId": "50936",
     "title": "tvkプロ野球中継横浜DeNAベイスターズ熱烈LIVE「横浜×中日」[多]",
-    "commentary": " ",
+    "commentary": "ハートを揺さぶる投球 マウンドで躍動する姿 ちょっと時間が経っちゃったけれど再会！がんばってtvk初解説",
     "attr": [
       "stereo",
       "hd",
@@ -1278,8 +1278,8 @@
       "multi"
     ],
     "sortGenre": "11",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473711/image/8472c3aecc1a7741572130fba34b2058.png",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922180500,
     "programEnd": 20260922215000,

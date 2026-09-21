@@ -6,8 +6,8 @@
     "channelName": "ＡＫＴ秋田テレビ",
     "digitalNo": 8,
     "eventId": "35447",
-    "title": "すぽると![字]",
-    "commentary": "キャプテンは元高校球児のバカリズム!モットーは独自目線×独自取材▼週末スポーツをバカリズム独自の切り口で楽しく詳しく分かりやすく!新時代スポーツショー",
+    "title": "すぽると!　ここだけの本音連発!森保一監督にバカリズムが直撃&田中碧に独占密着[字]",
+    "commentary": "森保監督が語る半年契約の真実&4年後のW杯へ未来を託したい選手とは!?▼ブラジル戦の涙から…田中碧「再起の道のり」▼村上宗隆30号につながった特殊能力!",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921005500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 55,
     "end_time": "20260921012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 85,
     "end_time": "20260921022000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 140,
     "end_time": "20260921022200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 282,
     "end_time": "20260921044500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 285,
     "end_time": "20260921045500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 295,
     "end_time": "20260921052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -217,7 +217,7 @@
     "digitalNo": 8,
     "eventId": "35454",
     "title": "めざましテレビ[デ]",
-    "commentary": "目覚める朝に新情報をニュース&スポーツ&エンタメ▽ココ調でギモン検証▽イマドキなトレンド▽話題深掘りカイトウ▽わんこ&ロペ&占い▽最新!あまゆか天気",
+    "commentary": "大型台風きょう最接近…交通影響・最新進路は▼織田裕二踊る登壇▼М!LK初ロッキン▼大谷翔平が屋外練習再開▼鈴木彩艶が好セーブ▼グルメづくし宮城旅",
     "attr": [
       "stereo",
       "hd",
@@ -236,7 +236,7 @@
     "top": 325,
     "end_time": "20260921090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -246,8 +246,8 @@
     "channelName": "ＡＫＴ秋田テレビ",
     "digitalNo": 8,
     "eventId": "35457",
-    "title": "ノンストップ![字]",
-    "commentary": "MCバナナマン設楽統▼生活に直結するニュース・天気&注目のスポーツ・エンタメ・生活情報まで!旬な情報を、明るく・ノンストップ!でお届けします!",
+    "title": "ノンストップ!/関東に今夜最接近か…台風25号の最新情報▽生出演!土屋アンナ[字]",
+    "commentary": "関東に今夜最接近か…台風25号の最新情報▽連休イベントも直撃▽生出演!土屋アンナ▽ポルノグラフィティ▽土屋太鳳佐久間大介",
     "attr": [
       "stereo",
       "hd",
@@ -306,8 +306,8 @@
     "channelName": "ＡＫＴ秋田テレビ",
     "digitalNo": 8,
     "eventId": "35460",
-    "title": "FNN　Live　News　days[字]",
-    "commentary": "「暮らし」を意識したラインナップで世の中の動きを素早くキャッチ!最新ニュースをわかりやすく、丁寧にお届けします。「命を守る」防災情報も様々なテーマで。",
+    "title": "FNN　Live　News　days【台風25号関東接近ふたたび豪雨おそれ】[字]",
+    "commentary": "「大型」で「強い」台風25号が関東接近、夜から22日にかけて房総半島最接近へ…災害級大雨と暴風に警戒▼予想総雨量400ミリ超え…千葉で再び豪雨のおそれ",
     "attr": [
       "stereo",
       "hd",
@@ -336,8 +336,8 @@
     "channelName": "ＡＫＴ秋田テレビ",
     "digitalNo": 8,
     "eventId": "35461",
-    "title": "ぽかぽか[字]",
-    "commentary": "ハライチ&神田愛花がお届けする生バラエティ▽勝手なイメージ「〇〇っぽい」で迫る、ゲストの素顔・業界の裏側&裏話▽曜日オリジナル企画も!楽しいお昼を",
+    "title": "ぽかぽか◆福澤朗・ACEes那須雄登・ふくらPが語るクイズ番組の裏側大公開SP[字]",
+    "commentary": "クイズ番組司会者・クイズのプロ・高学歴アイドルの3人が語るクイズ番組の裏側を大公開◆那須雄登のカバンの中身&ベストバイ◆ふくらP考案のクイズで真剣勝負",
     "attr": [
       "stereo",
       "hd",
@@ -367,7 +367,7 @@
     "digitalNo": 8,
     "eventId": "35462",
     "title": "旬感LIVE　とれたてっ![字][デ]",
-    "commentary": "全国各地の「いま起きていること」を伝えるニュース・情報番組。MC青木源太と歯に衣着せないパネラーたちがズバッと切り込みます!",
+    "commentary": "台風25号が大型連休直撃か　交通影響は?▼MC青木源太の新企画",
     "attr": [
       "stereo",
       "hd",
@@ -458,7 +458,7 @@
     "digitalNo": 8,
     "eventId": "35465",
     "title": "Live　News　イット![字]",
-    "commentary": "榎並大二郎、山崎夕貴、遠藤玲子が「毎日の夕方」を安心して過ごすためのお手伝い。暮らしに必要な情報をどこよりも丁寧に取材し、分かりやすくお伝えします。",
+    "commentary": "台風25号関東最接近へ被災地千葉また大荒れ都心も危険な暴風警戒▼発見スーパー高齢者長寿の秘訣を全国取材▼緊迫「漁船にクマ」▼高市総理NY訪問へ",
     "attr": [
       "stereo",
       "hd",
@@ -488,7 +488,7 @@
     "digitalNo": 8,
     "eventId": "35467",
     "title": "Live　News　あきた[字]",
-    "commentary": "▽6時9分〜県内[N]\n「それ!」が知りたい",
+    "commentary": "県内最高齢は112歳健康に生きるこつは?▽バレーにサッカーに週末スポーツを詳報(他)",
     "attr": [
       "stereo",
       "hd",
@@ -728,7 +728,7 @@
     "digitalNo": 8,
     "eventId": "35475",
     "title": "FNN　Live　News　α[字]",
-    "commentary": "働く人に役立つ情報を+αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "commentary": "台風25号が関東接近大雨と強風に厳重警戒▽代表鈴木唯人に密着▽激戦!スーパーGT",
     "attr": [
       "stereo",
       "hd",

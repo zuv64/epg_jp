@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260921002500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -36,7 +36,7 @@
     "channelName": "ＹＢＣ山形放送",
     "digitalNo": 4,
     "eventId": "15479",
-    "title": "Going![字]メジャー&プロ野球優勝争いを詳しく▼世界が注目!MotoGP小椋藍",
+    "title": "Going![字]巨人か阪神か!激戦の優勝争い▼22年ぶり快挙!MotoGP小椋藍",
     "commentary": "▼プロ野球、熾烈な優勝争い！残り約10試合、抜け出すのは阪神か巨人か!?▼世界が注目する日本選手SP!日本最速ライダー小椋藍&五輪新競技の日本初プロ選手密着!",
     "attr": [
       "stereo",
@@ -56,7 +56,7 @@
     "top": 25,
     "end_time": "20260921012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 85,
     "end_time": "20260921015500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 115,
     "end_time": "20260921022500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 145,
     "end_time": "20260921023000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 150,
     "end_time": "20260921041100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 251,
     "end_time": "20260921041500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 255,
     "end_time": "20260921042000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 260,
     "end_time": "20260921045000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 290,
     "end_time": "20260921052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -306,8 +306,8 @@
     "channelName": "ＹＢＣ山形放送",
     "digitalNo": 4,
     "eventId": "15509",
-    "title": "Oha!4 NEWS LIVE",
-    "commentary": "あなたにつながるニュースをお届け！▽最新ニュースや気象情報を”どこよりも早く”詳しく！スポーツ・カルチャーもたっぷり！「自分のニュースに、変わるあさ。」",
+    "title": "Oha!4 ▽台風25号接近へ。大雨などに警戒",
+    "commentary": "▽東国原英夫氏を名誉毀損の疑いで書類送検▽KO1KEYZを取材！来月に日韓同時デビューする思いは…▽市川團十郎＆市川ぼたん＆市川新之助",
     "attr": [
       "stereo",
       "hd",
@@ -326,7 +326,7 @@
     "top": 320,
     "end_time": "20260921055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -336,8 +336,8 @@
     "channelName": "ＹＢＣ山形放送",
     "digitalNo": 4,
     "eventId": "15508",
-    "title": "ZIP!",
-    "commentary": "▽最新のニュース、エンタメ、トレンドなど「時事性のある情報」に加え、ZIP!独自の「オリジナルコンテンツ」も多数用意し、日本の朝に「見たい」をお届けします!",
+    "title": "ZIP!台風25号雨量は千葉豪雨に匹敵▼各地のイベント休止も▼大型連休の最新天気",
+    "commentary": "月曜ZIP!は瀬戸朝香▼シルバーウイーク連休各地のイベント休止も高速道路渋滞ピークは\n▼宮崎土砂崩れ女性死亡▼クマが漁船に乗り込む▼相模原少年４人再逮捕",
     "attr": [
       "stereo",
       "hd",
@@ -356,7 +356,7 @@
     "top": 350,
     "end_time": "20260921090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -366,8 +366,8 @@
     "channelName": "ＹＢＣ山形放送",
     "digitalNo": 4,
     "eventId": "15503",
-    "title": "DayDay.【MCは武田真一と山里亮太!情報&エンタメ＆おしゃべり】[字]",
-    "commentary": "ＭＣは武田＆山里！爽快・情報エンタメトークショー▽身近な話題や共感ネタを深ぼり▽視聴者とリアルタイムでつながる即興アンケート！▽最新の天気",
+    "title": "DayDay.最大瞬間風速50m予想も!台風25号最新情報▼片付け達人(秘)収納術[字]",
+    "commentary": "台風２５号の影響で各地イベント中止も！暴風や記録的大雨にも警戒 交通への影響は？ ▼物を捨てずにスッキリ！片付けの達人の(秘)収納術",
     "attr": [
       "stereo",
       "hd",
@@ -546,8 +546,8 @@
     "channelName": "ＹＢＣ山形放送",
     "digitalNo": 4,
     "eventId": "15527",
-    "title": "ヒルナンデス![デ]",
-    "commentary": "日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。",
+    "title": "ヒルナンデス！温泉女将に聞くメディアお初グルメ＆豪華クルーズ船飛鳥III北海道の旅[デ]",
+    "commentary": "高地優吾＆柳沢慎吾が湯河原の温泉女将にメディアお初の厳選グルメを聞いて回る！湯河原を知り尽くす女将のお薦めグルメとは？▼小島奈津子が母とクルーズ船で北海道へ",
     "attr": [
       "stereo",
       "hd",
@@ -576,8 +576,8 @@
     "channelName": "ＹＢＣ山形放送",
     "digitalNo": 4,
     "eventId": "15510",
-    "title": "情報ライブ ミヤネ屋[字]",
-    "commentary": "ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます!",
+    "title": "ミヤネ屋【速報中継!台風25号が関東に最接近へ 線状降水帯発生の恐れ】[字]",
+    "commentary": "▽速報!台風25号がこのあと関東に最接近 関東など線状降水帯発生の恐れ▽千葉豪雨に匹敵する大雨の恐れ▽シルバーウイークの５連休を直撃 冠水被害や交通への影響は?",
     "attr": [
       "stereo",
       "hd",
@@ -666,8 +666,8 @@
     "channelName": "ＹＢＣ山形放送",
     "digitalNo": 4,
     "eventId": "15526",
-    "title": "YBC news every.",
-    "commentary": "山形の“今”を、より正確に、深く、早くお伝えします。「めばえ」出演者も募集中。詳しくはYBCホームページを。",
+    "title": "YBC news every.▽シルバーウィークを直撃？台風最新情報",
+    "commentary": "今年の日本一の芋煮会にぎわいは▽敬老の日特集・スーパー元気なおじいちゃん▽高校生そば打ち・そば甲子園▽昭和の山形▽天気(他)",
     "attr": [
       "stereo",
       "hd",
@@ -697,15 +697,15 @@
     "digitalNo": 4,
     "eventId": "15532",
     "title": "高校生クイズ▼全国5984校の頂点をかけたクイズの甲子園！ひと夏の青春大冒険![字]",
-    "commentary": "3人1組高校生たちがクイズにかける青春ドキュメント！壮絶どろんこ○×クイズ。・絶景タイマンダッシュ・襷を繋ぐ絆リレー！クイズNo.1の座を目指し全国を大冒険!",
+    "commentary": "3人1組高校生たちがクイズにかける超青春ドキュメント！壮絶どろんこ○×クイズ。・絶景タイマンダッシュ・襷を繋ぐ絆リレー！クイズNo.1の座を目指し全国を大冒険!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "50",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473487/image/b22f5a71e92a0e797a1fa41be6344309.jpg",
     "isRecommended": null,
     "programStart": 20260921190000,
     "programEnd": 20260921215400,
@@ -764,8 +764,8 @@
       "cp1"
     ],
     "sortGenre": "52",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473489/image/b65db9068c12d142f9ef920e95028009.jpg",
     "isRecommended": null,
     "programStart": 20260921220000,
     "programEnd": 20260921230000,

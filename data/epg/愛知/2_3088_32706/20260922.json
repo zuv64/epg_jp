@@ -6,8 +6,8 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44518",
-    "title": "FNN Live News α[字]",
-    "commentary": "働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "title": "FNN Live News α【台風25号が関東接近▼代表鈴木唯人に密着】[字]",
+    "commentary": "台風２５号が関東接近大雨と強風に厳重警戒▽代表鈴木唯人に密着▽激戦！スーパーGT",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260922001500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 15,
     "end_time": "20260922003000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 30,
     "end_time": "20260922003500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 35,
     "end_time": "20260922014300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 103,
     "end_time": "20260922014500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 105,
     "end_time": "20260922022000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 140,
     "end_time": "20260922025000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 170,
     "end_time": "20260922032000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 200,
     "end_time": "20260922032100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 201,
     "end_time": "20260922040700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 248,
     "end_time": "20260922041000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 250,
     "end_time": "20260922041200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -387,7 +387,7 @@
     "top": 252,
     "end_time": "20260922043000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -418,7 +418,7 @@
     "top": 270,
     "end_time": "20260922045500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -448,7 +448,7 @@
     "top": 295,
     "end_time": "20260922052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -458,8 +458,8 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44533",
-    "title": "めざましテレビ[デ]",
-    "commentary": "目覚める朝に新情報をニュース＆スポーツ＆エンタメ▽ココ調でギモン検証▽イマドキなトレンド▽話題深掘りカイトウ▽わんこ＆ロペ＆占い▽最新！あまゆか天気",
+    "title": "めざましテレビ【９時まで】台風で各地が冠水／大西流星＆正門良規[デ]",
+    "commentary": "大型台風で各地が冠水土砂崩れ女性生き埋め千葉で氾濫か車水没も▼飲酒事故３歳児死亡▼上田綺世鮮烈ゴール▼團十郎親子語る本音▼大西＆正門が生出演▼デパ地下秋スイーツ",
     "attr": [
       "stereo",
       "hd",
@@ -478,7 +478,7 @@
     "top": 325,
     "end_time": "20260922090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -508,7 +508,7 @@
     "top": 540,
     "end_time": "20260922095000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -518,16 +518,16 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44537",
-    "title": "スイッチ![デ]",
-    "commentary": "“地域の皆さんとのつながり”を大切にした東海地方の地域密着の生情報番組！旅・グルメ・健康など人＆地域の生活のヒントが満載！土曜朝は「スイッチ！サタデー」生放送!",
+    "title": "スイッチ！[デ]【常滑旅Ｑ参加で豪華賞品！窯を改装(秘)レストラン＆アウトレット常滑焼】",
+    "commentary": "▽ＴＶを見ながらクイズに参加！豪華賞品が当たるチャンス▽松平健がビックカメラで視聴者にプレゼントする福袋づくり!▽DAIGOが上前津駅周辺でトルコアイスを堪能!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "22",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473715/image/c7e271674287684628ce614926613ab6.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922095000,
     "programEnd": 20260922111400,
@@ -538,7 +538,7 @@
     "top": 590,
     "end_time": "20260922111400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -568,7 +568,7 @@
     "top": 674,
     "end_time": "20260922111500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -598,7 +598,7 @@
     "top": 675,
     "end_time": "20260922112500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -628,7 +628,7 @@
     "top": 685,
     "end_time": "20260922113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -638,8 +638,8 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44541",
-    "title": "FNN Live News days[字]",
-    "commentary": "「暮らし」を意識したラインナップで世の中の動きを素早くキャッチ！最新ニュースをわかりやすく、丁寧にお届けします。「命を守る」防災情報も様々なテーマで。",
+    "title": "FNN Live News days【台風25号が関東に最接近…被害全容は】[字]",
+    "commentary": "台風２５号関東に最接近…連休中に記録的大雨か▽伊豆諸島で特別警報…各地で冠水や土砂崩れで被害全容は▽高市総理が国連総会出席でＮＹへ…トランプ氏と会談も",
     "attr": [
       "stereo",
       "hd",
@@ -658,7 +658,7 @@
     "top": 690,
     "end_time": "20260922114700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -668,8 +668,8 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44542",
-    "title": "ぽかぽか[字][デ]",
-    "commentary": "ハライチ＆神田愛花がお届けする生バラエティ▽勝手なイメージ「〇〇っぽい」で迫る、ゲストの素顔・業界の裏側＆裏話▽曜日オリジナル企画も！楽しいお昼を",
+    "title": "ぽかぽか【昭和・平成ｖｓ令和チームで年の差クイズＳＰ▼懐かし映像＆最新流行】[字][デ]",
+    "commentary": "昭和・平成ギラギラに野々村、令和ピチピチに=LOVE&なえなの参戦▼懐かし社会現象＆各時代の流行から出題▼あなたの一票が勝敗を決める！生で国民投票２択陣取り合戦",
     "attr": [
       "stereo",
       "hd",
@@ -688,7 +688,7 @@
     "top": 707,
     "end_time": "20260922135000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -698,16 +698,16 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44543",
-    "title": "とれたてっ![字][デ]",
-    "commentary": "全国各地の「いま起きていること」を伝えるニュース・情報番組。ＭＣ青木源太と歯に衣着せないパネラーたちがズバッと切り込みます!",
+    "title": "とれたてっ！[字][デ] 大型連休 台風影響どこまで▼ＭＣ青木の新企画▼「終の棲家」特集",
+    "commentary": "大型連休 台風影響どこまで…最新情報▼ＭＣ青木の新企画▼「終の棲家」特集",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "5F",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473716/image/383eb0dab1b1d95e7fbf8acd124c0250.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922135000,
     "programEnd": 20260922154200,
@@ -718,7 +718,7 @@
     "top": 830,
     "end_time": "20260922154200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -728,8 +728,8 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44546",
-    "title": "ニュース ONE[字]",
-    "commentary": "暮らしのためのニュースだから、まじめに。前向きなニュースだから、明るく。大切なニュースだから、あなたと。“イマ”に敏感な視聴者が気になるニュースをお届けします。",
+    "title": "ニュース ＯＮＥ[字]【岐阜モーニング頂点は▽懐かしパノラマカーあの音色を徹底調査】",
+    "commentary": "喫茶王国・岐阜モーニング頂点は！朝のぜいたくをお得に▽懐かしパノラマカーあの音色を徹底調査！▽車のトラブルに密着！楽しい旅が一転…ピンチ帰り道にタイヤパンク",
     "attr": [
       "stereo",
       "hd",
@@ -748,7 +748,7 @@
     "top": 942,
     "end_time": "20260922190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -849,8 +849,8 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44551",
-    "title": "なにわＡぇ！の放送させてください![字]",
-    "commentary": " ",
+    "title": "なにわＡぇ！の放送させてください！[字] 生放送で国民投票！ＯＡ権をかけたロケバトル",
+    "commentary": "生放送でお届けする国民投票ロケバトル！なにわ男子＆Ａぇ!groupが4チームに分かれて芸人プロデュースのロケへ！期待度ランキング最下位の罰はまさかのお蔵入り…!",
     "attr": [
       "stereo",
       "hd",
@@ -909,8 +909,8 @@
     "channelName": "東海テレビ",
     "digitalNo": 1,
     "eventId": "44553",
-    "title": "FNN Live News α[字]",
-    "commentary": "働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "title": "FNN Live News α【人生変わる“話し方ジム”▼田中碧が独占告白！】[字]",
+    "commentary": "キャリアアップに人生変わる“話し方ジム”▽田中碧が独占告白！１０周年のＢリーグ",
     "attr": [
       "stereo",
       "hd",
@@ -940,7 +940,7 @@
     "digitalNo": 1,
     "eventId": "44554",
     "title": "青春ＲＥＣ〜今だけの１シーン〜",
-    "commentary": "東海３県の学校を舞台に学生が主役の青春ムービーを作る!",
+    "commentary": "東海３県の学校を舞台に学生が主役の青春ムービーを作る！今回は名古屋たちばな高校！高校では珍しい少林寺拳法部にザ・マミィ潜入！今年誕生したチアダンス部の悩みとは?",
     "attr": [
       "stereo",
       "hd",

@@ -6,8 +6,8 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39649",
-    "title": "news23[字]あなたと、あなたの身近な人にとって大切なニュースを",
-    "commentary": "どこよりもわかりやすく、わかりやすい言葉で、色んな人の意見、色んな声、色んな視点と共にお伝えします。経験豊富な２３ジャーナリストたちが、ニュースを深掘りします。",
+    "title": "news23[字]【最新】連休直撃の台風25号 関東各地で土砂崩れなど相次ぐ",
+    "commentary": "【最新】連休直撃の台風25号 関東各地で土砂崩れなど相次ぐ／【スタジオ生出演】「検事の仕事を愛していました」大阪地検の元トップからの性被害訴える女性はなぜ辞職に",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260922002600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 26,
     "end_time": "20260922002900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 29,
     "end_time": "20260922005900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 59,
     "end_time": "20260922013100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 91,
     "end_time": "20260922013700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -157,7 +157,7 @@
     "digitalNo": 5,
     "eventId": "39709",
     "title": "捨てられ聖女の異世界ごはん旅[終] #12【アガルアニメType-C】",
-    "commentary": "〜隠れスキルでキャンピングカーを召喚しました〜\nおいしいと楽しいが詰まった異世界グルメ旅、スタート!",
+    "commentary": "「おつカレー様！でも冒険は続くよ、どこまでも!」\n〜隠れスキルでキャンピングカーを召喚しました〜\nおいしいと楽しいが詰まった異世界グルメ旅、スタート!",
     "attr": [
       "stereo",
       "hd",
@@ -177,7 +177,7 @@
     "top": 97,
     "end_time": "20260922020700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -187,8 +187,8 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39661",
-    "title": "シェア!CBC",
-    "commentary": " ",
+    "title": "10/13(火)よる10時スタート!火曜ドラマ「いろはの恋は時代をかける」",
+    "commentary": "令和の小学校教師に江戸娘の魂がタイムスリップ!?\n上白石萌音×向井康二が送る\n時代を越えるロマンティックコメディが今、走り出すーー",
     "attr": [
       "stereo",
       "hd",
@@ -207,7 +207,7 @@
     "top": 127,
     "end_time": "20260922021500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -217,7 +217,7 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39705",
-    "title": "鬼の花嫁[終] #12",
+    "title": "鬼の花嫁[終] ＃１２「鬼の花嫁」",
     "commentary": "あなたは私を愛してくれる…?\n「あやかし×和風シンデレラストーリー」が待望のアニメ化!",
     "attr": [
       "stereo",
@@ -238,7 +238,7 @@
     "top": 135,
     "end_time": "20260922024500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -268,7 +268,7 @@
     "top": 165,
     "end_time": "20260922031600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -298,7 +298,7 @@
     "top": 196,
     "end_time": "20260922034600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -328,7 +328,7 @@
     "top": 226,
     "end_time": "20260922035800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -358,7 +358,7 @@
     "top": 238,
     "end_time": "20260922040000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -388,7 +388,7 @@
     "top": 240,
     "end_time": "20260922043000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -398,8 +398,8 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39769",
-    "title": "THE TIME’[デ]",
-    "commentary": "ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継\nニュースも天気も充実",
+    "title": "THE TIME’[デ]台風25号連休直撃 各地で冠水・土砂崩れ相次ぐ 被害全容は",
+    "commentary": "▼アジア大会日本女子バレー４８年ぶり金メダルに王手▼飲酒運転に巻き込まれた重体の３歳児死亡▼奥能登豪雨から２年▼芸能エンタメ▼けさの一曲▼関心調査▼最新ニュース",
     "attr": [
       "stereo",
       "hd",
@@ -418,7 +418,7 @@
     "top": 270,
     "end_time": "20260922052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -448,7 +448,7 @@
     "top": 320,
     "end_time": "20260922080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -458,8 +458,8 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39757",
-    "title": "ラヴィット！ 日本でいちばん明るい朝番組[字]",
-    "commentary": "今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼MC川島明(麒麟)&田村真子(TBSアナウンサー) ",
+    "title": "ラヴィット！土屋太鳳＆よしお兄さん参戦！全問正解で高額賞金！４択サバイバルクイズ",
+    "commentary": "[字]▼１人でも生き残れば高額賞金!4択サバイバルクイズ!バスケ五輪メダリスト・馬瓜エブリンがスゴ技シュート披露!▼よしお兄さん＆あづきお姉さんが『からだ☆ダンダン』",
     "attr": [
       "stereo",
       "hd",
@@ -478,7 +478,7 @@
     "top": 480,
     "end_time": "20260922095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -508,7 +508,7 @@
     "top": 595,
     "end_time": "20260922102500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -538,7 +538,7 @@
     "top": 625,
     "end_time": "20260922105500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -568,7 +568,7 @@
     "top": 655,
     "end_time": "20260922112000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -586,8 +586,8 @@
       "cp1"
     ],
     "sortGenre": "25",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473744/image/746bdbe66eb42effc46a9985a5f4b65a.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922112000,
     "programEnd": 20260922113000,
@@ -598,7 +598,7 @@
     "top": 680,
     "end_time": "20260922113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -628,7 +628,7 @@
     "top": 690,
     "end_time": "20260922115500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -638,8 +638,8 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39821",
-    "title": "ひるおび[字]",
-    "commentary": "その日一番の気になるニュースをかみ砕いて解説 生放送ならではの筋書きのない展開で恵俊彰があなたの“知りたい”に全力で応えます!!",
+    "title": "ひるおび[字]【台風25号被害状況は? ▽アジア大会現地中継 】",
+    "commentary": "台風25号被害状況は? ▽アジア大会現地中継",
     "attr": [
       "stereo",
       "hd",
@@ -658,7 +658,7 @@
     "top": 715,
     "end_time": "20260922123000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -668,16 +668,16 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39833",
-    "title": "アジア大会 愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会 愛知・名古屋 バスケ女子予選ほか[字][デ]",
+    "commentary": "28年ぶりの女王奪還を目指すバスケットボール女子日本代表！勝てば1位通過!フィリピンとのグループステージ最終戦に挑む!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473838/image/8daf4f37f33312d19eb8ea38d4226528.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922123000,
     "programEnd": 20260922153000,
@@ -688,26 +688,26 @@
     "top": 750,
     "end_time": "20260922153000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
     "@search.score": 1,
-    "cid": "2_15764943",
+    "cid": "2_15842489",
     "serviceCode": "3096_32707",
     "channelName": "CBCテレビ",
     "digitalNo": 5,
-    "eventId": "39837",
-    "title": "アジア大会 愛知・名古屋 バレーボール女子３位決定戦ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "eventId": "39845",
+    "title": "アジア大会 愛知・名古屋[字][デ]",
+    "commentary": "48年ぶりの金メダルへ！バレーボール女子日本代表、中国との決勝戦は今夜7時頃から!その前に、21日に行われた準決勝の日韓戦をプレイバック!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473839/image/afc24fbdec47dad74dcfc2ee93bf0030.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922153000,
     "programEnd": 20260922170000,
@@ -718,7 +718,7 @@
     "top": 930,
     "end_time": "20260922170000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -728,16 +728,16 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39841",
-    "title": "アジア大会 愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会 愛知・名古屋  競泳 決勝[字][デ]",
+    "commentary": "日本競泳陣メダルラッシュへ!男子400m個人メドレーに若きエース松下知之が大会2冠を狙う!4x100mメドレーリレーにはスーパー高校生・大橋信が登場!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473840/image/e64b8dea32995aff60b6d038dd44b236.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922170000,
     "programEnd": 20260922190000,
@@ -748,7 +748,7 @@
     "top": 1020,
     "end_time": "20260922190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -758,16 +758,16 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39849",
-    "title": "アジア大会 愛知・名古屋 バレーボール女子決勝ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会 愛知・名古屋 バレーボール女子決勝 日本vs中国[字][デ]",
+    "commentary": "48年ぶりの金メダルなるか?Wエース佐藤&和田率いるバレーボール女子日本代表が中国との決勝戦！卓球女子団体は準々決勝！早田ひな・張本美和らが登場!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473841/image/e981a34bd4f09b690dace4023f6a1ee8.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922190000,
     "programEnd": 20260922232700,
@@ -818,8 +818,8 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39773",
-    "title": "news23[字]あなたと、あなたの身近な人にとって大切なニュースを",
-    "commentary": "どこよりもわかりやすく、わかりやすい言葉で、色んな人の意見、色んな声、色んな視点と共にお伝えします。経験豊富な２３ジャーナリストたちが、ニュースを深掘りします。",
+    "title": "news23[字] 【台風で6人死亡6人不明】土砂崩れ相次ぐ…皇居・大手門の橋も冠水",
+    "commentary": "千葉・鴨川市裏山崩れ２人死亡▽このあと日米首脳会談▽原油高騰どこまで？サウジに攻撃で広がる懸念▽巨大マツタケ狙う中国のハンター▽熱戦！アジア大会卓球・競泳頂点へ",
     "attr": [
       "stereo",
       "hd",
@@ -939,7 +939,7 @@
     "digitalNo": 5,
     "eventId": "39829",
     "title": "恋をするなら二度目が上等season2 第4話【長谷川慎&古屋呂敏W主演】[解][字]",
-    "commentary": "「一生、ずっと、どこまでも。二度目の恋は、もう終わらせないーー」あれから２年後ーー同棲２年目の最高の幸せに潜む“元カレたち”の影！？【ドラマイズム】",
+    "commentary": "＃４「さかのぼり嫉妬」▼撮影現場で崇（古屋呂敏）の魅力を引き出す、元恋人のデザイナー・類(阿久根温世)。宮田(長谷川慎)の不安は増すばかりで…!?【ドラマイズム】",
     "attr": [
       "stereo",
       "hd",
@@ -1028,8 +1028,8 @@
     "channelName": "CBCテレビ",
     "digitalNo": 5,
     "eventId": "39793",
-    "title": "シェア!CBC",
-    "commentary": " ",
+    "title": "10/16(金)よる10時スタート!金曜ドラマ「LOST10」",
+    "commentary": "主演・横浜流星 脚本・奥寺佐渡子×監督・塚原あゆ子\n『Ｎのために』『最愛』の制作陣が贈る\n完全オリジナルのヒューマンサスペンス・エンタテインメント!",
     "attr": [
       "stereo",
       "hd",

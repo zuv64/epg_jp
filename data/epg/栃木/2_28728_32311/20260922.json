@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260922003000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 30,
     "end_time": "20260922010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 60,
     "end_time": "20260922013000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 90,
     "end_time": "20260922013500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 95,
     "end_time": "20260922014000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 103,
     "end_time": "20260922015200",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 112,
     "end_time": "20260922015300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 320,
     "end_time": "20260922052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 325,
     "end_time": "20260922053000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 330,
     "end_time": "20260922060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 360,
     "end_time": "20260922063000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 390,
     "end_time": "20260922070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 420,
     "end_time": "20260922071500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -416,7 +416,7 @@
     "top": 435,
     "end_time": "20260922073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -446,7 +446,7 @@
     "top": 450,
     "end_time": "20260922080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -476,7 +476,7 @@
     "top": 480,
     "end_time": "20260922083000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -506,7 +506,7 @@
     "top": 510,
     "end_time": "20260922090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -536,7 +536,7 @@
     "top": 540,
     "end_time": "20260922093000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -566,7 +566,7 @@
     "top": 570,
     "end_time": "20260922100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -596,7 +596,7 @@
     "top": 600,
     "end_time": "20260922103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -966,8 +966,8 @@
     "channelName": "とちぎテレビ",
     "digitalNo": 3,
     "eventId": "7751",
-    "title": "５時に夢中!",
-    "commentary": " ",
+    "title": "５時に夢中！▼記憶を頼りに絵を描け！半蔵門美術展！▼お題は秋のフルーツ狩り",
+    "commentary": "▽平日夕方の大人の秘密基地テレビ！▼自分の記憶を頼りに絵を描け！半蔵門美術展！お題は秋のフルーツ狩り！印象に残る絵は生まれるのか!",
     "attr": [
       "stereo",
       "hd",
@@ -997,7 +997,7 @@
     "digitalNo": 3,
     "eventId": "7752",
     "title": "イブ6プラス[N][天]",
-    "commentary": "あなたの生活を『プラス』に彩る総合情報番組。",
+    "commentary": "県内ニュース▽天気予報▽「ペットとイキイキ生活」初心者でも育てやすいグッピーの飼育セットを紹介",
     "attr": [
       "stereo",
       "hd",
@@ -1207,7 +1207,7 @@
     "digitalNo": 3,
     "eventId": "7759",
     "title": "とちテレNEWS9[N][天]",
-    "commentary": "最新の栃木のニュースを知るには「とちテレNEWS9」。政治、経済、事件、話題、スポーツなど、県内のさまざまなトピックスを中心に「今日の栃木」をお伝えします。",
+    "commentary": "クリケットの世界ランキング１位のインドを佐野に迎え、日本と記念試合「スズキ カップ日印国交樹立７５周年記念試合」",
     "attr": [
       "stereo",
       "hd",

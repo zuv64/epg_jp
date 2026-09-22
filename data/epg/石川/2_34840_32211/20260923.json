@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260923001500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 15,
     "end_time": "20260923004800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 48,
     "end_time": "20260923005300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 53,
     "end_time": "20260923015300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 113,
     "end_time": "20260923015800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 118,
     "end_time": "20260923021300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 133,
     "end_time": "20260923022800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 148,
     "end_time": "20260923025800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 178,
     "end_time": "20260923032800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 208,
     "end_time": "20260923033800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 260,
     "end_time": "20260923042500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 265,
     "end_time": "20260923045500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 295,
     "end_time": "20260923052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -397,7 +397,7 @@
     "digitalNo": 5,
     "eventId": "44355",
     "title": "グッド！モーニング[デ][字]",
-    "commentary": "けさ知っておきたいニュースを独自目線でわかりやすく伝えます。依田さんの「お天気検定」、「ニュース検定」、「エンタメ検定」にも挑戦しよう!",
+    "commentary": "速報!日米首脳会談▽台風25号と大雨で川が氾濫し市街地大規模冠水 都内でも土砂崩れ被害▽ホワイトハウス”出禁”の米メディア3社がトランプ政権を”憲法違反”で提訴",
     "attr": [
       "stereo",
       "hd",
@@ -427,7 +427,7 @@
     "digitalNo": 5,
     "eventId": "44356",
     "title": "羽鳥慎一モーニングショー[字]",
-    "commentary": "羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。",
+    "commentary": "台風２５号各地に爪痕河川氾濫で住宅も浸水相次ぐ被害に住民苦悩▽ノーベル賞の登竜門ラスカー賞受賞！睡眠研究・柳沢教授生出演",
     "attr": [
       "stereo",
       "hd",
@@ -547,7 +547,7 @@
     "digitalNo": 5,
     "eventId": "44358",
     "title": "大下容子ワイド!スクランブル[字]",
-    "commentary": "スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説!",
+    "commentary": "超速報 高市総理 初の国連演説▽活発化“トランプ国連外交”日米会談ほか各国に思惑▽両親悲痛…基準値６倍超 飲酒運転で3歳児死亡▽勃発!米政権VSメディア",
     "attr": [
       "stereo",
       "hd",
@@ -576,8 +576,8 @@
     "channelName": "北陸朝日放送",
     "digitalNo": 5,
     "eventId": "44339",
-    "title": "徹子の部屋[字]",
-    "commentary": "司会の黒柳徹子さんが、各界の著名人はもちろん、時の人、話題の人をゲストに迎え、絶妙の話術を駆使してゲストの魅力に迫る、昭和５１年放送開始の長寿トーク番組です。",
+    "title": "徹子の部屋 市川團十郎＆市川新之助[字]",
+    "commentary": "〜初共演！歌舞伎の“名門”を継ぐ親子が〜市川團十郎さん＆市川新之助さんが今日のゲストです。",
     "attr": [
       "stereo",
       "hd",
@@ -788,7 +788,7 @@
     "channelName": "北陸朝日放送",
     "digitalNo": 5,
     "eventId": "44365",
-    "title": "スーパーJチャンネル[字]",
+    "title": "スーパーＪチャンネル 井澤健太朗と森山みなみが＜ニュースのハテナ＞を深掘り[字]",
     "commentary": "メインキャスターにフレッシュな井澤健太朗×森山みなみ!\nどこよりも＜ハテナ＞と向き合い、どこよりも＜納得感＞のあるをテーマに掲げニュースを深掘りしていきます。",
     "attr": [
       "stereo",
@@ -818,8 +818,8 @@
     "channelName": "北陸朝日放送",
     "digitalNo": 5,
     "eventId": "44368",
-    "title": "[生]ふむふむ",
-    "commentary": "「ふむふむ」と視聴者に納得してもらえる情報を。石川のニュースをまるっとお届け!",
+    "title": "[生]ふむふむ ・震災の記憶をつなぐ ・金の高騰と仏壇 ・手話言語の国際デー",
+    "commentary": "「ふむふむ」と視聴者に納得してもらえる情報を。石川のニュースをまるっとお届け!\n◆大学の「学生防災部」が防災イベント\n◆金の高騰で仏壇離れ?",
     "attr": [
       "stereo",
       "hd",
@@ -879,8 +879,8 @@
     "channelName": "北陸朝日放送",
     "digitalNo": 5,
     "eventId": "44369",
-    "title": "[生]ふむふむ",
-    "commentary": "「ふむふむ」と視聴者に納得してもらえる情報を。石川のニュースをまるっとお届け!",
+    "title": "[生]ふむふむ ・震災の記憶をつなぐ ・金の高騰と仏壇 ・手話言語の国際デー",
+    "commentary": "「ふむふむ」と視聴者に納得してもらえる情報を。石川のニュースをまるっとお届け!\n◆大学の「学生防災部」が防災イベント\n◆金の高騰で仏壇離れ?",
     "attr": [
       "stereo",
       "hd",
@@ -910,8 +910,8 @@
     "channelName": "北陸朝日放送",
     "digitalNo": 5,
     "eventId": "44351",
-    "title": "くりぃむクイズ ミラクル9 3時間SP[字]",
-    "commentary": "くりぃむしちゅー上田がＭＣを務める新感覚クイズバラエティ。有田チームとゲストキャプテン率いるチームとの対抗戦！著名人が様々なクイズに挑戦します",
+    "title": "くりぃむクイズ ミラクル９ 全国の名所＆レジャー情報満載 3時間SP [字]",
+    "commentary": "▼日本全国の涼しい名所＆レジャー情報が満載3時間SP!100人アンケートでは秋の味覚でなくなったら…超残念な食材は？そして昭和100年タイムマシンQも!",
     "attr": [
       "stereo",
       "hd",

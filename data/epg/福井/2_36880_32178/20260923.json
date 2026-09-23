@@ -14,8 +14,8 @@
       "cp1"
     ],
     "sortGenre": "52",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473969/image/b9466cf995e475035a5068ea5d7f1dbc.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260922235900,
     "programEnd": 20260923005400,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260923005400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 54,
     "end_time": "20260923005900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 59,
     "end_time": "20260923012900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 89,
     "end_time": "20260923015900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 119,
     "end_time": "20260923020300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 123,
     "end_time": "20260923020400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -198,15 +198,15 @@
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923020400,
-    "programEnd": 20260923020900,
+    "programEnd": 20260923040000,
     "programDate": 20260922,
     "programId": 6315,
     "start_time": "04",
-    "duration": 5,
+    "duration": 116,
     "top": 124,
-    "end_time": "20260923020900",
+    "end_time": "20260923040000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 240,
     "end_time": "20260923041400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 254,
     "end_time": "20260923041500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 255,
     "end_time": "20260923042000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +326,7 @@
     "top": 260,
     "end_time": "20260923045000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 290,
     "end_time": "20260923052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 320,
     "end_time": "20260923055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -396,8 +396,8 @@
     "channelName": "ＦＢＣテレビ",
     "digitalNo": 7,
     "eventId": "17220",
-    "title": "ZIP!",
-    "commentary": "▽最新のニュース、エンタメ、トレンドなど「時事性のある情報」に加え、ZIP!独自の「オリジナルコンテンツ」も多数用意し、日本の朝に「見たい」をお届けします!",
+    "title": "ZIP!▽Snow Man渡辺翔太生出演!▽連休最終日まだ間に合う人気行楽",
+    "commentary": "水曜は渡邊圭祐\n▽松村北斗(SixTONES)・今田美桜に思い出インタビュー\n▽Number_i が恒例ダレ呼ぶクエスチョンに挑戦!",
     "attr": [
       "stereo",
       "hd",
@@ -416,7 +416,7 @@
     "top": 350,
     "end_time": "20260923080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -446,7 +446,7 @@
     "top": 480,
     "end_time": "20260923095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -476,7 +476,7 @@
     "top": 595,
     "end_time": "20260923102500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -506,7 +506,7 @@
     "top": 625,
     "end_time": "20260923112000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -536,7 +536,7 @@
     "top": 680,
     "end_time": "20260923113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -566,7 +566,7 @@
     "top": 690,
     "end_time": "20260923114000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -596,7 +596,7 @@
     "top": 700,
     "end_time": "20260923114500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -626,7 +626,7 @@
     "top": 705,
     "end_time": "20260923115500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -636,8 +636,8 @@
     "channelName": "ＦＢＣテレビ",
     "digitalNo": 7,
     "eventId": "17216",
-    "title": "ヒルナンデス![デ]",
-    "commentary": "日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。",
+    "title": "ヒルナンデス！道の駅日本一！群馬・川場田園プラザ！行列必至の世界最高米おにぎり[デ]",
+    "commentary": "開店前から行列！道の駅全国１位の群馬・川場田園プラザを閉店まで北斗晶と徹底調査!1日3000個爆売れの世界最高米おにぎり＆１時間で完売の上州牛カレーパンとは",
     "attr": [
       "stereo",
       "hd",
@@ -656,7 +656,7 @@
     "top": 715,
     "end_time": "20260923135500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -666,8 +666,8 @@
     "channelName": "ＦＢＣテレビ",
     "digitalNo": 7,
     "eventId": "17225",
-    "title": "情報ライブ ミヤネ屋[字]",
-    "commentary": "ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます!",
+    "title": "ミヤネ屋【速報！千葉で新たに決壊…被害拡大の恐れ▽安否不明者の救助は】[字]",
+    "commentary": "▽速報！千葉で新たに堤防決壊…被害拡大の恐れ\n▽安否不明者の救助は?最新情報\n▽衝撃!世界の巨額マネーSP",
     "attr": [
       "stereo",
       "hd",
@@ -795,7 +795,7 @@
     ],
     "sortGenre": "40",
     "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473899/image/d24ff10d49bd43e8f4a62e56cb9e5214.jpg",
+    "imgPath": "/monomedia/sirc/470000/473899/image/d641fe3edffd7b318ca4c2a13d003599.jpg",
     "isRecommended": null,
     "programStart": 20260923190000,
     "programEnd": 20260923225400,
@@ -846,8 +846,8 @@
     "channelName": "ＦＢＣテレビ",
     "digitalNo": 7,
     "eventId": "17222",
-    "title": "news zero[字]",
-    "commentary": "藤井貴彦が、大切なニュースを「長く、深く」。今起きているニュースを「速報とライブ映像」で届けます。夜11時、明日を迎えるきっかけに…",
+    "title": "news zero[字]長期化か…冠水が続く千葉・佐倉市▼連休最終日の混雑は",
+    "commentary": "国連総会で各国演説…トランプ氏が語ったこと▼【体操】アジア制覇へ▼プロ野球し烈V争い",
     "attr": [
       "stereo",
       "hd",
@@ -884,8 +884,8 @@
       "cp1"
     ],
     "sortGenre": "50",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/473902/image/c8cdefaa122a23a035782c15cab8cccb.jpg",
     "isRecommended": null,
     "programStart": 20260923235900,
     "programEnd": 20260924005400,

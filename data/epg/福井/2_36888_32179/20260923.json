@@ -6,8 +6,8 @@
     "channelName": "福井テレビ",
     "digitalNo": 8,
     "eventId": "15888",
-    "title": "FNN　Live　News　α[字]",
-    "commentary": "働く人に役立つ情報を+αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "title": "FNN　Live　News　α【人生変わる“話し方ジム\"▼田中碧が独占告白!】[字]",
+    "commentary": "キャリアアップに人生変わる“話し方ジム\"▽田中碧が独占告白!10周年のBリーグ",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260923001500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 15,
     "end_time": "20260923004500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -87,7 +87,7 @@
     "top": 45,
     "end_time": "20260923011500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 75,
     "end_time": "20260923021000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 130,
     "end_time": "20260923024000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 160,
     "end_time": "20260923031000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 190,
     "end_time": "20260923034000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 250,
     "end_time": "20260923042000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 260,
     "end_time": "20260923045000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 290,
     "end_time": "20260923052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 320,
     "end_time": "20260923052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -337,8 +337,8 @@
     "channelName": "福井テレビ",
     "digitalNo": 8,
     "eventId": "15900",
-    "title": "めざましテレビ[デ]",
-    "commentary": "目覚める朝に新情報をニュース&スポーツ&エンタメ▽ココ調でギモン検証▽イマドキなトレンド▽話題深掘りカイトウ▽わんこ&ロペ&占い▽最新!あまゆか天気",
+    "title": "めざましテレビ【9時まで】一帯冠水…千葉は/Number_i密着[デ]",
+    "commentary": "一帯冠水…千葉の街は?車数十台が土に埋まる▼コメ下落も農家悲鳴▼速報!日米首脳会談▼森保Jが再始動▼Number_iにLA独占密着!▼めざまし×踊る大捜査線企画",
     "attr": [
       "stereo",
       "hd",
@@ -357,7 +357,7 @@
     "top": 325,
     "end_time": "20260923090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -387,7 +387,7 @@
     "top": 540,
     "end_time": "20260923095000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -398,7 +398,7 @@
     "digitalNo": 8,
     "eventId": "15904",
     "title": "アイシー〜瞬間記憶捜査・柊班〜#8[再][字][解]",
-    "commentary": "【瞬間記憶能力】=通称“カメラアイ\"を持つ女性刑事が「忘れたくても忘れられない」過去と向き合いながら、クセのある仲間たちと事件解決に奮闘する刑事ドラマ",
+    "commentary": "遺体で見つかった花形紗奈の捜査を続ける柊班。一方、氷月の支えになりたいという土屋の真意を氷月はいまだ信じられないでいた。柊班それぞれが選んだ選択とは…",
     "attr": [
       "stereo",
       "hd",
@@ -418,7 +418,7 @@
     "top": 590,
     "end_time": "20260923105000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -448,7 +448,7 @@
     "top": 650,
     "end_time": "20260923112000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -478,7 +478,7 @@
     "top": 680,
     "end_time": "20260923112500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -508,7 +508,7 @@
     "top": 685,
     "end_time": "20260923113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -538,7 +538,7 @@
     "top": 690,
     "end_time": "20260923114100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -568,7 +568,7 @@
     "top": 701,
     "end_time": "20260923114400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -598,7 +598,7 @@
     "top": 704,
     "end_time": "20260923114700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -608,8 +608,8 @@
     "channelName": "福井テレビ",
     "digitalNo": 8,
     "eventId": "15911",
-    "title": "ぽかぽか[字]",
-    "commentary": "ハライチ&神田愛花がお届けする生バラエティ▽勝手なイメージ「〇〇っぽい」で迫る、ゲストの素顔・業界の裏側&裏話▽曜日オリジナル企画も!楽しいお昼を",
+    "title": "ぽかぽか　桐谷健太(秘)謎の私生活▼伝説ドラマ秘話&素顔タレコミ▼中島健人が大暴露[字]",
+    "commentary": "紅白から月9まで幅広く活躍する桐谷の素顔に迫る▼目立つしかない!学校中の女子に写真配布…自作のファッション誌…衝撃の学園伝説ぶっちゃけ▼足ツボ我慢対決",
     "attr": [
       "stereo",
       "hd",
@@ -628,7 +628,7 @@
     "top": 707,
     "end_time": "20260923135000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -658,7 +658,7 @@
     "top": 830,
     "end_time": "20260923144500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -688,7 +688,7 @@
     "top": 885,
     "end_time": "20260923144800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -718,7 +718,7 @@
     "top": 888,
     "end_time": "20260923145000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -788,8 +788,8 @@
     "channelName": "福井テレビ",
     "digitalNo": 8,
     "eventId": "15916",
-    "title": "イット![字]",
-    "commentary": "榎並大二郎、山崎夕貴、遠藤玲子が「毎日の夕方」を安心して過ごすためのお手伝い。暮らしに必要な情報をどこよりも丁寧に取材し、分かりやすくお伝えします。",
+    "title": "イット!【榎並大二郎、山崎夕貴、遠藤玲子が「夕方」を安心して過ごすお手伝い】[字]",
+    "commentary": "千葉・印旛沼で堤防決壊を確認…台風25号の大雨被害が長期化▽日米首脳会談で「同盟揺るぎないものに」▽再び…台風26号発生へ▽ご当地遊園地閉園へ",
     "attr": [
       "stereo",
       "hd",
@@ -819,7 +819,7 @@
     "digitalNo": 8,
     "eventId": "15920",
     "title": "イット!",
-    "commentary": "福井のニュースを正確にわかりやすく!いち早くお届けします▽身近な話題が満載",
+    "commentary": "▽大野出身チェロ奏者世界3位の弦楽四重奏“凱旋公演\"たっぷり▽あわら旬のイチジク猛暑…今年の甘みは?スイーツふんだんに!▽健康特集(3)心不全の予防に下半身筋トレ!?",
     "attr": [
       "stereo",
       "hd",
@@ -977,8 +977,8 @@
       "fin"
     ],
     "sortGenre": "30",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474334/image/bd38a3e7f6a7225ebc6009526657c41d.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923220000,
     "programEnd": 20260923225400,
@@ -1059,8 +1059,8 @@
     "channelName": "福井テレビ",
     "digitalNo": 8,
     "eventId": "15928",
-    "title": "FNN　Live　News　α[字]",
-    "commentary": "働く人に役立つ情報を+αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "title": "FNN　Live　News　α【高市総理が国連初演説▼サッカー佐藤龍之介】[字]",
+    "commentary": "高市総理が国連初演説日米首脳会談の成果は▽サッカー佐藤龍之介▽スポーツツーリズム",
     "attr": [
       "stereo",
       "hd",

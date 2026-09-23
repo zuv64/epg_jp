@@ -6,8 +6,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "22073",
-    "title": "プロジェクトエイリアン　PA012　友達に言えないハナシ[字]",
-    "commentary": "参加者は10代限定。それぞれ自分の特性や病気などが原因で友達付き合いに悩む彼らが、月ウサギ（ベビー・ヴァギー）とともに、これからを生きるヒントを探す旅に出る。",
+    "title": "プロジェクトエイリアン PA012 友達に言えないハナシ[字]",
+    "commentary": "参加者は１０代限定。それぞれ自分の特性や病気などが原因で友達付き合いに悩む彼らが、月ウサギ（ベビー・ヴァギー）とともに、これからを生きるヒントを探す旅に出る。",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260923002000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -37,7 +37,7 @@
     "digitalNo": 1,
     "eventId": "24345",
     "title": "連続テレビ小説「ブラッサム」PR[字]",
-    "commentary": "28日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さん、渡部篤郎さんなどキャスト陣の熱い思いに迫る。",
+    "commentary": "２８日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さん、渡部篤郎さんなどキャスト陣の熱い思いに迫る。",
     "attr": [
       "stereo",
       "hd",
@@ -56,7 +56,7 @@
     "top": 20,
     "end_time": "20260923002500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -66,7 +66,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24346",
-    "title": "“サル”でもわかる　豊臣兄弟！　徳川家康は豊臣兄弟が嫌いだったの？[字]",
+    "title": "秀サルでもわかる 豊臣兄弟！ 徳川家康は豊臣兄弟が嫌いだったの?[字]",
     "commentary": "大河ドラマ「豊臣兄弟！」を一層楽しく見るための公式ガイド。目からウロコの情報満載。二匹のおサルが、歴史的背景や複雑な人間関係を、とっても分かりやすく解説します。",
     "attr": [
       "stereo",
@@ -86,7 +86,7 @@
     "top": 25,
     "end_time": "20260923003500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -96,7 +96,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19356",
-    "title": "【土曜ドラマ】リラの花咲くけものみち2（5）[解][字][再]",
+    "title": "【土曜ドラマ】リラの花咲くけものみち2(5)[解][字][再]",
     "commentary": "七海（大石愛陽）と犬飼（上川隆也）の励ましで、牧場再開を決断する勝喜（温水洋一）。殺処分のことで苦しむ聡里（山田杏奈）の前に祖母チドリ（風吹ジュン）が現れる。",
     "attr": [
       "stereo",
@@ -117,7 +117,7 @@
     "top": 35,
     "end_time": "20260923012000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -127,8 +127,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24347",
-    "title": "NHKスペシャルPR　病への挑戦　第2集　うつ病　克服へのカギ",
-    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするPR番組。今回は9月20日放送の『病への挑戦　第2集　うつ病　克服へのカギ』。",
+    "title": "NHKスペシャルPR 病への挑戦 第２集 うつ病 克服へのカギ",
+    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするＰＲ番組。今回は９月２７日放送の『病への挑戦 第２集 うつ病 克服へのカギ』。",
     "attr": [
       "stereo",
       "hd",
@@ -147,7 +147,7 @@
     "top": 80,
     "end_time": "20260923012100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -158,7 +158,7 @@
     "digitalNo": 1,
     "eventId": "24348",
     "title": "連続テレビ小説「ブラッサム」PR[字]",
-    "commentary": "28日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さんや渡部篤郎さんなど魅力的なキャスト陣の映像初公開。",
+    "commentary": "２８日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さんや渡部篤郎さんなど魅力的なキャスト陣の映像初公開。",
     "attr": [
       "stereo",
       "hd",
@@ -177,7 +177,7 @@
     "top": 81,
     "end_time": "20260923012300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -187,8 +187,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24349",
-    "title": "おもかげPR　1分版",
-    "commentary": "浅田次郎の傑作小説を中村雅俊主演でドラマ化した「おもかげ」。魅力を1分でお届けします。",
+    "title": "おもかげPR 1分版",
+    "commentary": "浅田次郎の傑作小説を中村雅俊主演でドラマ化した「おもかげ」。魅力を１分でお届けします。",
     "attr": [
       "stereo",
       "hd",
@@ -207,7 +207,7 @@
     "top": 83,
     "end_time": "20260923012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -217,8 +217,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19364",
-    "title": "地域局発　北海道道Presents「MUSIC　CANVAS大黒摩季」[字]",
-    "commentary": "大黒摩季が一夜限りのSPライブを披露！「ら・ら・ら」「熱くなれ」「夏が来る」など大ヒットナンバーも！さらに、母校やライブハウスを訪れ、ふるさとへの思いを語る！",
+    "title": "ニュース",
+    "commentary": " ",
     "attr": [
       "stereo",
       "hd",
@@ -229,15 +229,15 @@
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923012500,
-    "programEnd": 20260923021100,
+    "programEnd": 20260923012500,
     "programDate": 20260922,
-    "programId": 1007739,
+    "programId": -1,
     "start_time": "25",
-    "duration": 46,
+    "duration": 0,
     "top": 85,
-    "end_time": "20260923021100",
+    "end_time": "20260923012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -247,7 +247,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24358",
-    "title": "江ノ電のある風景　鎌倉から藤沢まで10キロの旅",
+    "title": "江ノ電のある風景 鎌倉から藤沢まで１０キロの旅",
     "commentary": "江ノ電の愛称で親しまれている江ノ島電鉄。神奈川県の鎌倉と藤沢の間を結び、車窓から見える多彩な風景は多くの外国人観光客もひきつけている。",
     "attr": [
       "stereo",
@@ -267,7 +267,7 @@
     "top": 131,
     "end_time": "20260923031100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -277,8 +277,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24359",
-    "title": "運転席からの風景　JR鶴見線",
-    "commentary": "京浜工業地帯を走り、人とモノを運ぶ路線として、日本の経済発展を支えてきたJR鶴見線。沿線にはユニークな駅も多い。鶴見線の魅力を運転席からの風景で伝える。",
+    "title": "運転席からの風景 ＪＲ鶴見線",
+    "commentary": "京浜工業地帯を走り、人とモノを運ぶ路線として、日本の経済発展を支えてきたＪＲ鶴見線。沿線にはユニークな駅も多い。鶴見線の魅力を運転席からの風景で伝える。",
     "attr": [
       "stereo",
       "hd",
@@ -297,7 +297,7 @@
     "top": 191,
     "end_time": "20260923041100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 251,
     "end_time": "20260923042500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -337,7 +337,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19369",
-    "title": "大相撲（2026年）　幕内の全取組　秋場所　十日目",
+    "title": "大相撲(2026年) 幕内の全取組 秋場所 十日目",
     "commentary": " ",
     "attr": [
       "stereo",
@@ -357,7 +357,7 @@
     "top": 265,
     "end_time": "20260923045000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -367,8 +367,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19370",
-    "title": "視点・論点[字][再]",
-    "commentary": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
+    "title": "視点・論点 多様な被災者支援ネットワークをめざして[字][再]",
+    "commentary": "この１０年間、大きな地震災害を経験した熊本県の人たち。避難所や仮設住宅など、転居を繰り返すなか、孤独や孤立を感じる人も少なくありません。支援の在り方を考えます",
     "attr": [
       "stereo",
       "hd",
@@ -388,7 +388,7 @@
     "top": 290,
     "end_time": "20260923050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -418,7 +418,7 @@
     "top": 300,
     "end_time": "20260923051000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -428,8 +428,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "25397",
-    "title": "あさイチの鈴木奈穂子アナが「NHK　ONE」を解説[字]",
-    "commentary": "鈴木奈穂子アナがNHK　ONE「ニュース・防災」アプリの便利な使い方を教えます！災害から命と暮らしを守るための様々な機能をスマホ画面を見せながらご紹介します！",
+    "title": "あさイチの鈴木奈穂子アナが「NHK ONE」を解説[字]",
+    "commentary": "鈴木奈穂子アナがNHK ONE「ニュース・防災」アプリの便利な使い方を教えます！災害から命と暮らしを守るための様々な機能をスマホ画面を見せながらご紹介します!",
     "attr": [
       "stereo",
       "hd",
@@ -442,13 +442,13 @@
     "programStart": 20260923051000,
     "programEnd": 20260923051500,
     "programDate": 20260923,
-    "programId": -1,
+    "programId": 1001302,
     "start_time": "10",
     "duration": 5,
     "top": 310,
     "end_time": "20260923051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -459,7 +459,7 @@
     "digitalNo": 1,
     "eventId": "25398",
     "title": "連続テレビ小説「ブラッサム」PR[字]",
-    "commentary": "28日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さん、渡部篤郎さんなどキャスト陣の熱い思いに迫る。",
+    "commentary": "２８日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さん、渡部篤郎さんなどキャスト陣の熱い思いに迫る。",
     "attr": [
       "stereo",
       "hd",
@@ -478,7 +478,7 @@
     "top": 315,
     "end_time": "20260923052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -488,7 +488,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "22304",
-    "title": "四国colors「絵本　ひらけば」　絵本作家・柴田ケイコの世界[字]",
+    "title": "四国colors「絵本 ひらけば」 絵本作家・柴田ケイコの世界[字]",
     "commentary": "大人気の絵本「パンどろぼう」。作者の柴田ケイコさんはふるさと高知で創作を続けている。絵本には子育て中の人たちへのエールが込められている。創作の現場に密着した。",
     "attr": [
       "stereo",
@@ -508,7 +508,7 @@
     "top": 320,
     "end_time": "20260923054500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -518,8 +518,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "22353",
-    "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "title": "アニメまとめPR 10月スタート!注目の4番組[字]",
+    "commentary": "１０月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ Season2」の見どころを紹介!",
     "attr": [
       "stereo",
       "hd",
@@ -538,7 +538,7 @@
     "top": 345,
     "end_time": "20260923055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -568,7 +568,7 @@
     "top": 350,
     "end_time": "20260923055500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -598,7 +598,7 @@
     "top": 355,
     "end_time": "20260923060000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -628,7 +628,7 @@
     "top": 360,
     "end_time": "20260923061000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -638,7 +638,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "23533",
-    "title": "長宗我部兄弟！[字]",
+    "title": "長宗我部兄弟![字]",
     "commentary": "大河ドラマ「豊臣兄弟！」の裏で、もうひとつの“兄弟大河”が始まる？最新研究とドラマでひも解く、驚きの戦国物語へ",
     "attr": [
       "stereo",
@@ -658,7 +658,7 @@
     "top": 370,
     "end_time": "20260923065300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -688,7 +688,7 @@
     "top": 413,
     "end_time": "20260923065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -718,7 +718,7 @@
     "top": 415,
     "end_time": "20260923070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -728,8 +728,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19384",
-    "title": "NHKニュース　おはよう日本[字]",
-    "commentary": "国内外の最新ニュースをわかりやすくコンパクトに。気になる現場からの生中継やニュースの深層に迫る特集も。スポーツ情報、きょうの気象情報も詳しくお伝えします。",
+    "title": "NHKニュース おはよう日本 日米首脳会談 議論の焦点は[字]",
+    "commentary": "▼台風２５号に伴う大雨 被害相次ぐ▼高市首相が国連総会で演説へ▼ひぼう中傷からスポーツ選手を守れ ほか",
     "attr": [
       "stereo",
       "hd",
@@ -748,7 +748,7 @@
     "top": 420,
     "end_time": "20260923072500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -778,7 +778,7 @@
     "top": 445,
     "end_time": "20260923073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -788,7 +788,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19386",
-    "title": "経済バックヤード　チン♪して満腹　大満足！「冷凍食品」の舞台裏[字]",
+    "title": "経済バックヤード チン♪して満腹 大満足！「冷凍食品」の舞台裏[字]",
     "commentary": "チン♪して満足「冷凍食品」の舞台裏！▽ひと皿ぜんぶ盛り“ワンプレート”開発現場▽見参！冷凍うどんプロフェッショナル▽澤部佑さん＆丸山桂里奈さんも大満足♪",
     "attr": [
       "stereo",
@@ -808,7 +808,7 @@
     "top": 450,
     "end_time": "20260923075500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -838,7 +838,7 @@
     "top": 475,
     "end_time": "20260923080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -848,7 +848,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19397",
-    "title": "【連続テレビ小説】風、薫る（128）最終週「道標（みちしるべ）」[解][字]",
+    "title": "【連続テレビ小説】風、薫る(128)最終週「道標(みちしるべ)」[解][字]",
     "commentary": "いよいよ試験の日を迎える。緊張の面持ちのツヤ（東野絢香）、セツ（村上穂乃佳）らを、りん（見上愛）と直美（上坂樹里）で見送る。",
     "attr": [
       "stereo",
@@ -857,7 +857,7 @@
     ],
     "sortGenre": "30",
     "hasImage": 1,
-    "imgPath": "/monomedia/sirc/80050000/80050737/image/da22820ce7c5f310aed5bee2c80e4106.jpg",
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923080000,
     "programEnd": 20260923081500,
@@ -868,7 +868,7 @@
     "top": 480,
     "end_time": "20260923081500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -878,8 +878,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "21691",
-    "title": "探検ファクトリー　特別編　羽田空港の裏側　安心・安全を守る技[解][字]",
-    "commentary": "東京・羽田空港の裏側を探検する大型連休特別版。エンジンを緻密な技術で調べる整備士、グランドハンドリングスタッフ、パイロットなど空の安心安全を守るプロの技に迫る！",
+    "title": "探検ファクトリー 特別編 羽田空港の裏側 空の安心・安全を守る技[解][字]",
+    "commentary": "東京・羽田空港の裏側を探検する大型連休特別版。エンジンを緻密な技術で調べる整備士、グランドハンドリングスタッフ、パイロットなど空の安心安全を守るプロの技に迫る!",
     "attr": [
       "stereo",
       "hd",
@@ -898,7 +898,7 @@
     "top": 495,
     "end_time": "20260923090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -929,7 +929,7 @@
     "top": 540,
     "end_time": "20260923094600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -953,13 +953,13 @@
     "programStart": 20260923094600,
     "programEnd": 20260923094800,
     "programDate": 20260923,
-    "programId": -1,
+    "programId": 750790,
     "start_time": "46",
     "duration": 2,
     "top": 586,
     "end_time": "20260923094800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -989,7 +989,7 @@
     "top": 588,
     "end_time": "20260923095000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1019,7 +1019,7 @@
     "top": 590,
     "end_time": "20260923100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1049,7 +1049,7 @@
     "top": 600,
     "end_time": "20260923100500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1080,7 +1080,7 @@
     "top": 605,
     "end_time": "20260923111700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1091,7 +1091,7 @@
     "digitalNo": 1,
     "eventId": "25408",
     "title": "NHKスペシャルPR　病への挑戦　第2集　うつ病　克服へのカギ",
-    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするPR番組。今回は9月20日放送の『病への挑戦　第2集　うつ病　克服へのカギ』。",
+    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするPR番組。今回は9月27日放送の『病への挑戦　第2集　うつ病　克服へのカギ』。",
     "attr": [
       "stereo",
       "hd",
@@ -1110,7 +1110,7 @@
     "top": 677,
     "end_time": "20260923111800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1140,7 +1140,7 @@
     "top": 678,
     "end_time": "20260923112000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1170,7 +1170,7 @@
     "top": 680,
     "end_time": "20260923112500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1180,8 +1180,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24364",
-    "title": "未来予測反省会「2020年ごろ東京に1，000mの超高層ビルが建つ」[解][字][再]",
-    "commentary": "「東京に1000m級の超高層ビルが建つ」！？現実離れした未来予測かと思いきや、バブル期には実際に「空中都市」計画が存在した！夢の摩天楼はなぜ実現しなかったのか？",
+    "title": "未来予測反省会「2020年ごろ東京に1,000mの超高層ビルが建つ」[解][字][再]",
+    "commentary": "「東京に1000m級の超高層ビルが建つ」!?現実離れした未来予測かと思いきや、バブル期には実際に「空中都市」計画が存在した！夢の摩天楼はなぜ実現しなかったのか?",
     "attr": [
       "stereo",
       "hd",
@@ -1201,7 +1201,7 @@
     "top": 685,
     "end_time": "20260923115400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1231,7 +1231,7 @@
     "top": 714,
     "end_time": "20260923120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1261,7 +1261,7 @@
     "top": 720,
     "end_time": "20260923121000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1271,7 +1271,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "49460",
-    "title": "ニュース（北陸3県）",
+    "title": "ニュース（北陸３県）",
     "commentary": " ",
     "attr": [
       "mono",
@@ -1291,7 +1291,7 @@
     "top": 730,
     "end_time": "20260923121500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1302,7 +1302,7 @@
     "digitalNo": 1,
     "eventId": "24201",
     "title": "連続テレビ小説「ブラッサム」PR[字]",
-    "commentary": "28日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、加賀まりこさん、松たか子さんなどキャスト陣の熱い思いに迫る。",
+    "commentary": "２８日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、加賀まりこさん、松たか子さんなどキャスト陣の熱い思いに迫る。",
     "attr": [
       "stereo",
       "hd",
@@ -1321,7 +1321,7 @@
     "top": 735,
     "end_time": "20260923121700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1331,8 +1331,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24202",
-    "title": "あしたが変わるトリセツショー　PR　1分でわかるトリセツショー健康編",
-    "commentary": "暮らしに役立つ「あしたが変わるトリセツショー」の内容を1分で紹介！すきま時間にオススメのひざ痛＆尿もれ対策ワザ▼キッチンの油汚れ掃除に意外なコツなど情報満載！",
+    "title": "あしたが変わるトリセツショー PR 1分でわかるトリセツショー健康編",
+    "commentary": "暮らしに役立つ「あしたが変わるトリセツショー」の内容を１分で紹介！すきま時間にオススメのひざ痛＆尿もれ対策ワザ▼キッチンの油汚れ掃除に意外なコツなど情報満載!",
     "attr": [
       "stereo",
       "hd",
@@ -1351,7 +1351,7 @@
     "top": 737,
     "end_time": "20260923121800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1361,8 +1361,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "24203",
-    "title": "ダーウィンが来た！10min．「アマゾン奥地で発見！秘密の怪魚ワールド」[字]",
-    "commentary": "アマゾン奥地の“清流”で、巨大な怪魚たちの暮らしぶりに迫る。“淡水のシーラカンス”とも呼ばれる幻の巨大魚タライロンやデンキウナギなど、驚きの怪魚ワールドに潜入！",
+    "title": "ダーウィンが来た!10min.「アマゾン奥地で発見！秘密の怪魚ワールド」[字]",
+    "commentary": "アマゾン奥地の“清流”で、巨大な怪魚たちの暮らしぶりに迫る。“淡水のシーラカンス”とも呼ばれる幻の巨大魚タライロンやデンキウナギなど、驚きの怪魚ワールドに潜入!",
     "attr": [
       "stereo",
       "hd",
@@ -1381,18 +1381,18 @@
     "top": 738,
     "end_time": "20260923123000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
     "@search.score": 1,
-    "cid": "2_15772597",
+    "cid": "2_15760257",
     "serviceCode": "36864_32176",
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
-    "eventId": "19716",
-    "title": "【連続テレビ小説】ひよっこ（36）「響け若人のうた」[解][字]",
-    "commentary": "赤坂のすずふり亭に来たみね子（有村架純）は、鈴子（宮本信子）と省吾（佐々木蔵之介）に挨拶して、初めての給料でここの洋食を食べるのを楽しみにしていたと伝える。",
+    "eventId": "19715",
+    "title": "【連続テレビ小説】ひよっこ(35)「響け若人のうた」[解][字]",
+    "commentary": "みね子（有村架純）が東京に来て１か月、初めての給料日がやって来た。早速家族への仕送りを送金したみね子は、寮に来ている訪問販売ですてきなブラウスを見つける。",
     "attr": [
       "stereo",
       "hd",
@@ -1411,7 +1411,7 @@
     "top": 750,
     "end_time": "20260923124500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1421,7 +1421,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19415",
-    "title": "【連続テレビ小説】風、薫る（128）最終週「道標（みちしるべ）」[解][字][再]",
+    "title": "【連続テレビ小説】風、薫る(128)最終週「道標(みちしるべ)」[解][字][再]",
     "commentary": "いよいよ試験の日を迎える。緊張の面持ちのツヤ（東野絢香）、セツ（村上穂乃佳）らを、りん（見上愛）と直美（上坂樹里）で見送る。",
     "attr": [
       "stereo",
@@ -1442,7 +1442,7 @@
     "top": 765,
     "end_time": "20260923130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1452,7 +1452,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19416",
-    "title": "ニュース・気象情報[字]",
+    "title": "ニュース「高市首相内外記者会見」[字]",
     "commentary": " ",
     "attr": [
       "stereo",
@@ -1464,45 +1464,257 @@
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923130000,
-    "programEnd": 20260923130500,
+    "programEnd": 20260923132800,
     "programDate": 20260923,
     "programId": -1,
     "start_time": "00",
-    "duration": 5,
+    "duration": 28,
     "top": 780,
-    "end_time": "20260923130500",
+    "end_time": "20260923132800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
     "@search.score": 1,
-    "cid": "2_15772600",
+    "cid": "2_15854682",
     "serviceCode": "36864_32176",
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
-    "eventId": "19417",
-    "title": "セレクション",
-    "commentary": " ",
+    "eventId": "26582",
+    "title": "大河ドラマ「豊臣兄弟！」２分ダイジェスト (36)[字]",
+    "commentary": "四国一統を悲願とする長宗我部元親（磯部寛之）が秀吉（池松壮亮）に反旗を翻す。秀吉は、四国攻めの総大将に秀長（仲野太賀）を指名する。",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
-    "sortGenre": "",
+    "sortGenre": "30",
     "hasImage": 0,
     "imgPath": null,
     "isRecommended": null,
-    "programStart": 20260923130500,
+    "programStart": 20260923132800,
+    "programEnd": 20260923133000,
+    "programDate": 20260923,
+    "programId": -1,
+    "start_time": "28",
+    "duration": 2,
+    "top": 808,
+    "end_time": "20260923133000",
+    "channel_type": "2",
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15801815",
+    "serviceCode": "36864_32176",
+    "channelName": "ＮＨＫ総合・福井",
+    "digitalNo": 1,
+    "eventId": "26320",
+    "title": "名曲考察教室 久保田早紀「異邦人」を紅しょうが＆中川大輔が徹底考察![字][再]",
+    "commentary": "名曲の歌詞をとことん考察してその魅力を味わい尽くそう！今回は久保田早紀の「異邦人」に紅しょうがと中川大輔が挑戦する。番組オリジナルのミュージックビデオも必見!",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1",
+      "rep"
+    ],
+    "sortGenre": "54",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260923133000,
+    "programEnd": 20260923135800,
+    "programDate": 20260923,
+    "programId": 911715,
+    "start_time": "30",
+    "duration": 28,
+    "top": 810,
+    "end_time": "20260923135800",
+    "channel_type": "2",
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15801817",
+    "serviceCode": "36864_32176",
+    "channelName": "ＮＨＫ総合・福井",
+    "digitalNo": 1,
+    "eventId": "26324",
+    "title": "連続テレビ小説「ブラッサム」PR[字]",
+    "commentary": "２８日に新しく始まる朝ドラ「ブラッサム」の見どころをひと足早くお届け。主演の石橋静河さんをはじめ、国仲涼子さんや渡部篤郎さんなど魅力的なキャスト陣の映像初公開。",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "27",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260923135800,
+    "programEnd": 20260923140000,
+    "programDate": 20260923,
+    "programId": -1,
+    "start_time": "58",
+    "duration": 2,
+    "top": 838,
+    "end_time": "20260923140000",
+    "channel_type": "2",
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15801818",
+    "serviceCode": "36864_32176",
+    "channelName": "ＮＨＫ総合・福井",
+    "digitalNo": 1,
+    "eventId": "26325",
+    "title": "おもかげPR 1分版",
+    "commentary": "浅田次郎の傑作小説を中村雅俊主演でドラマ化した「おもかげ」。魅力を１分でお届けします。",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "27",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260923140000,
+    "programEnd": 20260923140100,
+    "programDate": 20260923,
+    "programId": -1,
+    "start_time": "00",
+    "duration": 1,
+    "top": 840,
+    "end_time": "20260923140100",
+    "channel_type": "2",
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15801819",
+    "serviceCode": "36864_32176",
+    "channelName": "ＮＨＫ総合・福井",
+    "digitalNo": 1,
+    "eventId": "26326",
+    "title": "マイリスト登録のやり方 ドキュメント７２時間・スマホ版[字]",
+    "commentary": "NHKONEの便利機能「マイリスト登録」のやり方をご紹介。いったん登録すれば、お気に入りの番組を探す手間いらずで、見逃しも防げます！ドキュメント７２時間版。",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "80",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260923140100,
+    "programEnd": 20260923140200,
+    "programDate": 20260923,
+    "programId": -1,
+    "start_time": "01",
+    "duration": 1,
+    "top": 841,
+    "end_time": "20260923140200",
+    "channel_type": "2",
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15801820",
+    "serviceCode": "36864_32176",
+    "channelName": "ＮＨＫ総合・福井",
+    "digitalNo": 1,
+    "eventId": "26327",
+    "title": "あしたが変わるトリセツショー ファンが語る!「トリセツのココがおすすめ!」2[字]",
+    "commentary": "全国から集まった番組ファンが、トリセツショーの好きなところを語る「ココがおすすめ」第二弾▼医療・健康など暮らしを豊かにする情報をお届けするトリセツの魅力とは?",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "23",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260923140200,
+    "programEnd": 20260923140400,
+    "programDate": 20260923,
+    "programId": 1001301,
+    "start_time": "02",
+    "duration": 2,
+    "top": 842,
+    "end_time": "20260923140400",
+    "channel_type": "2",
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15801821",
+    "serviceCode": "36864_32176",
+    "channelName": "ＮＨＫ総合・福井",
+    "digitalNo": 1,
+    "eventId": "26328",
+    "title": "さわやか自然百景10min.(47)佐賀 唐津の海と東よか干潟[字]",
+    "commentary": "今回の舞台は佐賀県。玄界灘に浮かぶ唐津市の馬渡島周辺の海はサンゴが海底を覆い、大型回遊魚が現れる。佐賀市の東よか干潟には秋、シギやチドリが５千羽以上も飛来する。",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "82",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260923140400,
+    "programEnd": 20260923141400,
+    "programDate": 20260923,
+    "programId": 911591,
+    "start_time": "04",
+    "duration": 10,
+    "top": 844,
+    "end_time": "20260923141400",
+    "channel_type": "2",
+    "is_end": true,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "2_15801822",
+    "serviceCode": "36864_32176",
+    "channelName": "ＮＨＫ総合・福井",
+    "digitalNo": 1,
+    "eventId": "26330",
+    "title": "新プロジェクトＸ “たかが芋”とは言わせない 執念の逆転劇〜焼き芋〜[解][字][再]",
+    "commentary": "安くて素朴なおやつとして愛されてきた焼き芋に今、革命が起きている。国内だけでなく海外でも人気が沸騰し輸出量が急増中。茨城の小さな農家が巻き起こした執念の逆転劇。",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1",
+      "rep"
+    ],
+    "sortGenre": "80",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20260923141400,
     "programEnd": 20260923150000,
     "programDate": 20260923,
-    "programId": 11773,
-    "start_time": "05",
-    "duration": 115,
-    "top": 785,
+    "programId": 857611,
+    "start_time": "14",
+    "duration": 46,
+    "top": 854,
     "end_time": "20260923150000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1532,7 +1744,7 @@
     "top": 900,
     "end_time": "20260923150500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1542,7 +1754,7 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19419",
-    "title": "大相撲（2026年）秋場所　十一日目[字]",
+    "title": "大相撲(2026年)秋場所 十一日目[字]",
     "commentary": " ",
     "attr": [
       "stereo",
@@ -1572,8 +1784,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19420",
-    "title": "大相撲（2026年）秋場所十一日目　立行司木村庄之助　土俵人生を振り返る[二][字]",
-    "commentary": " ",
+    "title": "大相撲(2026年)秋場所十一日目 立行司木村庄之助 土俵人生を振り返る[二][字]",
+    "commentary": "１敗の横綱・大の里は２敗で追う関脇・藤ノ川との直接対決。これまでの対戦成績は藤ノ川が２勝。今場所はどんな戦いになるのか？▽２敗の関脇・熱海富士は大関・霧島と対戦",
     "attr": [
       "stereo",
       "hd",
@@ -1648,7 +1860,7 @@
     "programStart": 20260923180500,
     "programEnd": 20260923183500,
     "programDate": 20260923,
-    "programId": -1,
+    "programId": 1008665,
     "start_time": "05",
     "duration": 30,
     "top": 1085,
@@ -1665,7 +1877,7 @@
     "digitalNo": 1,
     "eventId": "24204",
     "title": "NHKスペシャルPR　病への挑戦　第2集　うつ病　克服へのカギ",
-    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするPR番組。今回は9月20日放送の『病への挑戦　第2集　うつ病　克服へのカギ』。",
+    "commentary": "NHKスペシャルの見どころをギュギュっとまとめてお伝えするPR番組。今回は9月27日放送の『病への挑戦　第2集　うつ病　克服へのカギ』。",
     "attr": [
       "stereo",
       "hd",
@@ -1695,7 +1907,7 @@
     "digitalNo": 1,
     "eventId": "24205",
     "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "commentary": "10月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ　Season2」の見どころを紹介！",
     "attr": [
       "stereo",
       "hd",
@@ -1905,8 +2117,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19445",
-    "title": "ニュースウオッチ9[二][字]",
-    "commentary": "夜9時。複雑に課題が絡み合う社会の「いまを映すいまを読み解く」。国内外の独自取材と記者キャスターの解説で「深く」迫ります。▽スポーツは速報で！",
+    "title": "ニュースウオッチ9　▽注目の日米首脳会談を詳しく▽台風25号の被害状況は[二][字]",
+    "commentary": "注目の日米首脳会談内容を詳しく・国連総会トランプ大統領と高市首相の演説は▽首都圏を直撃台風25号の被害状況▽大相撲秋場所",
     "attr": [
       "stereo",
       "hd",
@@ -1975,7 +2187,7 @@
     ],
     "sortGenre": "30",
     "hasImage": 1,
-    "imgPath": "/monomedia/sirc/80050000/80050742/image/cf3cd516adca5aa9d92f39c056f899ff.jpg",
+    "imgPath": "/monomedia/sirc/80050000/80050742/image/e066c7d589ffef5d5c90bb30a6b08812.jpg",
     "isRecommended": null,
     "programStart": 20260923224500,
     "programEnd": 20260923230000,
@@ -2192,7 +2404,7 @@
     "programStart": 20260924002000,
     "programEnd": 20260924003500,
     "programDate": 20260923,
-    "programId": 1007742,
+    "programId": 944330,
     "start_time": "20",
     "duration": 15,
     "top": 1460,
@@ -2209,7 +2421,7 @@
     "digitalNo": 1,
     "eventId": "19797",
     "title": "NHKスペシャル　病への挑戦　がん治療最前線　がんが消えた！克服の道　[字][再]",
-    "commentary": "がんが消えた！？最新科学で病の正体に迫り、克服への道を探る新シリーズ。第1集は40年以上日本人の死因の第1位のがん。新たな治療のカギを握る免疫やAIの力とは",
+    "commentary": "がんが消えた！？最新科学で病の正体に迫り、克服への道を探る新シリーズ。第1集は40年以上日本人の死因の第1位のがん。新たな治療のカギを握る免疫やAIの力とは。",
     "attr": [
       "stereo",
       "hd",
@@ -2390,8 +2602,8 @@
     "channelName": "ＮＨＫ総合・福井",
     "digitalNo": 1,
     "eventId": "19813",
-    "title": "視点・論点[字][再]",
-    "commentary": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
+    "title": "視点・論点　21世紀“超都市”に生きる[字][再]",
+    "commentary": "人口減少と高齢化が進む日本で今後の都市計画の在り方の手がかりとなる「超都市」。建築家・磯崎新が提唱したこの概念について、所沢や富山の取り組みを踏まえて読み解く",
     "attr": [
       "stereo",
       "hd",

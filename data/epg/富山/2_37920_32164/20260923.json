@@ -6,8 +6,8 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13350",
-    "title": "news23[字]あなたと、あなたの身近な人にとって大切なニュースを",
-    "commentary": "どこよりもわかりやすく、わかりやすい言葉で、色んな人の意見、色んな声、色んな視点と共にお伝えします。経験豊富な23ジャーナリストたちが、ニュースを深掘りします。",
+    "title": "news23[字]　【台風で6人死亡6人不明】土砂崩れ相次ぐ…皇居・大手門の橋も冠水",
+    "commentary": "千葉・鴨川市裏山崩れ2人死亡▽このあと日米首脳会談▽原油高騰どこまで?サウジに攻撃で広がる懸念▽巨大マツタケ狙う中国のハンター▽熱戦!アジア大会卓球・競泳頂点へ",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260923002600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 26,
     "end_time": "20260923012400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 84,
     "end_time": "20260923015400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 114,
     "end_time": "20260923022400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 144,
     "end_time": "20260923025400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 174,
     "end_time": "20260923034700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 227,
     "end_time": "20260923035000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 230,
     "end_time": "20260923035300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 266,
     "end_time": "20260923043000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 270,
     "end_time": "20260923050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 300,
     "end_time": "20260923052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -337,8 +337,8 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13494",
-    "title": "THE　TIME,[字][デ]",
-    "commentary": "安住紳一郎が明るく楽しく丁寧に、そして正直にお伝えします!",
+    "title": "THE　TIME,[字][デ]アジア大会競泳男子17歳の新星・小島が金▽台風で皇居の橋冠水",
+    "commentary": "体操・杉原愛子が日本女子初の金!現役復帰後の快挙▽バレー女子は中国と激戦▽3歳死亡事故で逮捕の68歳男「当日朝にワインや焼酎」▽Number_iが特殊能力告白!?",
     "attr": [
       "stereo",
       "hd",
@@ -357,7 +357,7 @@
     "top": 320,
     "end_time": "20260923080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -367,8 +367,8 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13470",
-    "title": "ラヴィット!　日本でいちばん明るい朝番組[字]",
-    "commentary": "今の暮らしが10倍楽しくなるライフアイデア発見バラエティ!すぐに手が届く“楽しい!\"をお届けします▼MC川島明(麒麟)&田村真子(TBSアナウンサー)",
+    "title": "ラヴィット!はま寿司人気メニューでグルメトレイン&アドリブで回避!即興の達人",
+    "commentary": "▼全国ご当地菓子が通過!グルメトレイン\n▼よくある困った状況をアドリブで回避!即興の達人に河合郁人も参戦[字]",
     "attr": [
       "stereo",
       "hd",
@@ -387,7 +387,7 @@
     "top": 480,
     "end_time": "20260923095500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -417,7 +417,7 @@
     "top": 595,
     "end_time": "20260923105000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 650,
     "end_time": "20260923111900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -477,7 +477,7 @@
     "top": 679,
     "end_time": "20260923112300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -507,7 +507,7 @@
     "top": 683,
     "end_time": "20260923113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -537,7 +537,7 @@
     "top": 690,
     "end_time": "20260923115500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -547,8 +547,8 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13486",
-    "title": "ひるおび[字]",
-    "commentary": "その日一番の気になるニュースをかみ砕いて解説　生放送ならではの筋書きのない展開で恵俊彰があなたの“知りたい\"に全力で応えます!!",
+    "title": "ひるおび[字]【アジア大会・現地中継　日本選手のメダルは?】",
+    "commentary": "アジア大会・現地中継　日本選手のメダルは?",
     "attr": [
       "stereo",
       "hd",
@@ -567,7 +567,7 @@
     "top": 715,
     "end_time": "20260923123000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -577,16 +577,16 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13514",
-    "title": "アジア大会　愛知・名古屋[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　体操男子団体決勝　体操王国ニッポン12年ぶり団体金メダルへ!ほか[字][デ]",
+    "commentary": "体操王国ニッポン12年ぶり団体金メダルへ!東京五輪金・橋本大輝&パリ五輪金・岡慎之助のWエースが登場!事実上の世界一決定戦、永遠のライバル中国との頂上決戦に挑む",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473904/image/4f130416d92db7ceb5558e6c2d7d845d.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923123000,
     "programEnd": 20260923170000,
@@ -597,7 +597,7 @@
     "top": 750,
     "end_time": "20260923170000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -607,16 +607,16 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13522",
-    "title": "アジア大会　愛知・名古屋　卓球男子団体準決勝ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　愛知・名古屋　競泳決勝ほか[字][デ]",
+    "commentary": "日本競泳界のヒロイン・池江璃花子が大会初登場!8年ぶりのアジア制覇へ!進化を続ける35歳・鈴木聡美2つ目のメダルなるか?トビウオジャパン更なるメダルラッシュへ!",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473905/image/493faa08f1365fe7dd0ebf4742e8f81a.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923170000,
     "programEnd": 20260923185900,
@@ -627,7 +627,7 @@
     "top": 1020,
     "end_time": "20260923185900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -645,8 +645,8 @@
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473903/image/71fa1797d70d23c3b3e4c504c0c9eebc.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923185900,
     "programEnd": 20260923190000,
@@ -657,7 +657,7 @@
     "top": 1139,
     "end_time": "20260923190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -667,16 +667,16 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13530",
-    "title": "アジア大会　愛知・名古屋　サッカー男子予選ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会 サッカー男子 予選 日本vsタイ 次のW杯を担う若きサムライが躍動 ほか[字][デ]",
+    "commentary": "次のW杯を担う若きサムライが16年ぶりの金メダルへ、開幕2連勝!予選1位突破をかけタイとの戦いに挑む!さらに60年ぶり金メダルへ、卓球女子団体は準決勝で宿命の日韓戦",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "16",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473906/image/96441a09665b0dec127e243ecfc6191a.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923190000,
     "programEnd": 20260923232700,
@@ -727,8 +727,8 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13462",
-    "title": "news23[字]あなたと、あなたの身近な人にとって大切なニュースを",
-    "commentary": "どこよりもわかりやすく、わかりやすい言葉で、色んな人の意見、色んな声、色んな視点と共にお伝えします。経験豊富な23ジャーナリストたちが、ニュースを深掘りします。",
+    "title": "news23[字]台風25号の被害広がる　印旛沼から排水できず…冠水が長期化",
+    "commentary": "シルバーウイーク5連休最終日　都心はシトシト雨▽NYで日米首脳会談　高市総理の思いは届いたのか▽トランプ大統領の頭の中は中国だけ?▽皇室への誹謗中傷止まず",
     "attr": [
       "stereo",
       "hd",
@@ -757,8 +757,8 @@
     "channelName": "チューリップテレビ",
     "digitalNo": 6,
     "eventId": "13478",
-    "title": "よるのブランチ[字]",
-    "commentary": "MCミキ&パンサー向井\nZ世代に流行している最新トレンド情報を紹介",
+    "title": "よるのブランチ[字]『LIL LEAGUE』と歌詞穴埋めクイズ!KO1KEYZに直撃",
+    "commentary": "LIL LEAGUEとZ世代バトル★歌詞穴埋めクイズ!注目の新人グループ・KO1KEYZからも出題　ラップバトルではM!LK塩崎が煽りまくり!勝敗はいかに…!?",
     "attr": [
       "stereo",
       "hd",

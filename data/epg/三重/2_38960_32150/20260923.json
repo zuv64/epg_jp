@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260923002000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 20,
     "end_time": "20260923005000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -66,8 +66,8 @@
     "channelName": "三重テレビ",
     "digitalNo": 7,
     "eventId": "32038",
-    "title": "5時に夢中!",
-    "commentary": "個性豊かなコメンテーターとともに、ストレスを解消する“本音マル出し\"ぶっちゃけワイドショー",
+    "title": "5時に夢中!▽記憶を頼りに絵を描け!半蔵門美術展!▽お題は秋のフルーツ狩り",
+    "commentary": "▽平日の大人の秘密基地テレビ!▼自分の記憶を頼りに絵を描け!半蔵門美術展!お題は秋のフルーツ狩り!印象に残る絵は生まれるのか!",
     "attr": [
       "stereo",
       "hd",
@@ -86,7 +86,7 @@
     "top": 50,
     "end_time": "20260923015000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 110,
     "end_time": "20260923022000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 140,
     "end_time": "20260923025000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 170,
     "end_time": "20260923032000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 200,
     "end_time": "20260923035000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 290,
     "end_time": "20260923052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +266,7 @@
     "top": 320,
     "end_time": "20260923055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +296,7 @@
     "top": 350,
     "end_time": "20260923062000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 380,
     "end_time": "20260923062500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 385,
     "end_time": "20260923065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -387,7 +387,7 @@
     "top": 415,
     "end_time": "20260923072500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -418,7 +418,7 @@
     "top": 445,
     "end_time": "20260923073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -448,7 +448,7 @@
     "top": 450,
     "end_time": "20260923083000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -478,7 +478,7 @@
     "top": 510,
     "end_time": "20260923090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -508,7 +508,7 @@
     "top": 540,
     "end_time": "20260923093000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -538,7 +538,7 @@
     "top": 570,
     "end_time": "20260923100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -557,8 +557,8 @@
       "rep"
     ],
     "sortGenre": "55",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474283/image/8d0d2be2893857c676a32905d4935296.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923100000,
     "programEnd": 20260923103000,
@@ -569,7 +569,7 @@
     "top": 600,
     "end_time": "20260923103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -599,7 +599,7 @@
     "top": 630,
     "end_time": "20260923110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -629,7 +629,7 @@
     "top": 660,
     "end_time": "20260923113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -659,7 +659,7 @@
     "top": 690,
     "end_time": "20260923120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -689,7 +689,7 @@
     "top": 720,
     "end_time": "20260923123000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -719,7 +719,7 @@
     "top": 750,
     "end_time": "20260923130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -749,7 +749,7 @@
     "top": 780,
     "end_time": "20260923133000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -767,8 +767,8 @@
       "cp1"
     ],
     "sortGenre": "31",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474264/image/454d4f7e48381fefdded3200c7634a06.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923133000,
     "programEnd": 20260923140000,
@@ -779,7 +779,7 @@
     "top": 810,
     "end_time": "20260923140000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -809,7 +809,7 @@
     "top": 840,
     "end_time": "20260923143000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -827,8 +827,8 @@
       "cp1"
     ],
     "sortGenre": "31",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474267/image/f167ffa0ca5579b731d3ef2a2d0751c9.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923143000,
     "programEnd": 20260923150000,
@@ -839,7 +839,7 @@
     "top": 870,
     "end_time": "20260923150000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -869,7 +869,7 @@
     "top": 900,
     "end_time": "20260923153000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -899,7 +899,7 @@
     "top": 930,
     "end_time": "20260923160000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -929,7 +929,7 @@
     "top": 960,
     "end_time": "20260923170000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -959,7 +959,7 @@
     "top": 1020,
     "end_time": "20260923173000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -990,7 +990,7 @@
     "top": 1050,
     "end_time": "20260923173500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1020,7 +1020,7 @@
     "top": 1055,
     "end_time": "20260923174000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1050,7 +1050,7 @@
     "top": 1060,
     "end_time": "20260923180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1080,7 +1080,7 @@
     "top": 1080,
     "end_time": "20260923183000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1111,7 +1111,7 @@
     "top": 1110,
     "end_time": "20260923195500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1141,7 +1141,7 @@
     "top": 1195,
     "end_time": "20260923200000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1159,8 +1159,8 @@
       "cp1"
     ],
     "sortGenre": "5F",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474276/image/1ac75eb163bf96f1aea7376b8bec52ed.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923200000,
     "programEnd": 20260923205500,
@@ -1482,8 +1482,8 @@
     "channelName": "三重テレビ",
     "digitalNo": 7,
     "eventId": "32089",
-    "title": "5時に夢中!",
-    "commentary": "個性豊かなコメンテーターとともに、ストレスを解消する“本音マル出し\"ぶっちゃけワイドショー",
+    "title": "5時に夢中!▽水曜は松田ゆう姫&中丸雄一▽中目黒で上下黒の服の人を調査!",
+    "commentary": "▽松田ゆう姫&中丸雄一&ブラスが送る平日の大人の秘密基地テレビ!▽追跡は「中目黒で上下黒の服の人」を調査!▽「地球大好き!きっくん」",
     "attr": [
       "stereo",
       "hd",

@@ -6,8 +6,8 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33926",
-    "title": "FNN Live News α[字]",
-    "commentary": "働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "title": "FNN Live News α【人生変わる“話し方ジム”▼田中碧が独占告白！】[字]",
+    "commentary": "キャリアアップに人生変わる“話し方ジム”▽田中碧が独占告白！１０周年のＢリーグ",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260923001500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 15,
     "end_time": "20260923002000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -87,7 +87,7 @@
     "top": 20,
     "end_time": "20260923005000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 50,
     "end_time": "20260923012000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 80,
     "end_time": "20260923021500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 135,
     "end_time": "20260923023000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 150,
     "end_time": "20260923030000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 180,
     "end_time": "20260923030500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 275,
     "end_time": "20260923044500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 285,
     "end_time": "20260923051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 315,
     "end_time": "20260923052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 320,
     "end_time": "20260923052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -367,8 +367,8 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33940",
-    "title": "めざましテレビ[デ]",
-    "commentary": "目覚める朝に新情報をニュース＆スポーツ＆エンタメ▽ココ調でギモン検証▽イマドキなトレンド▽話題深掘りカイトウ▽わんこ＆ロペ＆占い▽最新！あまゆか天気",
+    "title": "めざましテレビ【９時まで】一帯冠水…千葉は/Number_i密着[デ]",
+    "commentary": "一帯冠水…千葉の街は？車数十台が土に埋まる▼コメ下落も農家悲鳴▼速報！日米首脳会談▼森保Ｊが再始動▼Number_iにLA独占密着！▼めざまし×踊る大捜査線企画",
     "attr": [
       "stereo",
       "hd",
@@ -387,7 +387,7 @@
     "top": 325,
     "end_time": "20260923090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -397,8 +397,8 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33943",
-    "title": "ノンストップ![字]",
-    "commentary": "ＭＣバナナマン設楽統▼生活に直結するニュース・天気＆注目のスポーツ・エンタメ・生活情報まで！旬な情報を、明るく・ノンストップ！でお届けします!",
+    "title": "ノンストップ！ 土砂崩れ対策▽コンビニ服競争激化▽今日はココ！肉フェス生中継![字]",
+    "commentary": "台風土砂崩れ相次ぐ…今備えるべき対策とは▽今日楽しむならココ肉グルメフェス生中継▽松たか子ロンバケ＆ラブジェネの出演秘話",
     "attr": [
       "stereo",
       "hd",
@@ -417,7 +417,7 @@
     "top": 540,
     "end_time": "20260923112500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -447,7 +447,7 @@
     "top": 685,
     "end_time": "20260923113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -457,8 +457,8 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33946",
-    "title": "FNN Live News days[字]",
-    "commentary": "「暮らし」を意識したラインナップで世の中の動きを素早くキャッチ！最新ニュースをわかりやすく、丁寧にお届けします。「命を守る」防災情報も様々なテーマで。",
+    "title": "FNN Live News days【台風の爪痕明らかに…不明者の捜索続く】[字]",
+    "commentary": "台風一過も爪痕被害が明らかに…各地で土砂崩れ相次ぎ不明者の捜索続く▽連休最終日で混雑は…交通機関でＵターンラッシュ続く▽高市総理がトランプ大統領と会談",
     "attr": [
       "stereo",
       "hd",
@@ -477,7 +477,7 @@
     "top": 690,
     "end_time": "20260923114700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -487,8 +487,8 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33947",
-    "title": "ぽかぽか[字]",
-    "commentary": "ハライチ＆神田愛花がお届けする生バラエティ▽勝手なイメージ「〇〇っぽい」で迫る、ゲストの素顔・業界の裏側＆裏話▽曜日オリジナル企画も！楽しいお昼を",
+    "title": "ぽかぽか 桐谷健太(秘)謎の私生活▼伝説ドラマ秘話＆素顔タレコミ▼中島健人が大暴露[字]",
+    "commentary": "紅白から月９まで幅広く活躍する桐谷の素顔に迫る▼目立つしかない！学校中の女子に写真配布…自作のファッション誌…衝撃の学園伝説ぶっちゃけ▼足ツボ我慢対決",
     "attr": [
       "stereo",
       "hd",
@@ -507,7 +507,7 @@
     "top": 707,
     "end_time": "20260923135000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -517,8 +517,8 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33948",
-    "title": "とれたてっ![字][デ]",
-    "commentary": "全国各地の「いま起きていること」を伝えるニュース・情報番組。ＭＣ青木源太と歯に衣着せないパネラーたちがズバッと切り込みます!",
+    "title": "とれたてっ！ 大型連休きょう最終日▼ＭＣ青木源太「幕末」愛する新企画[字][デ]",
+    "commentary": "大型連休最終日の街は▼ＭＣ青木の新企画",
     "attr": [
       "stereo",
       "hd",
@@ -537,7 +537,7 @@
     "top": 830,
     "end_time": "20260923144500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -567,7 +567,7 @@
     "top": 885,
     "end_time": "20260923145000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -597,7 +597,7 @@
     "top": 890,
     "end_time": "20260923154500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -627,7 +627,7 @@
     "top": 945,
     "end_time": "20260923155000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -657,7 +657,7 @@
     "top": 950,
     "end_time": "20260923162000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -687,7 +687,7 @@
     "top": 980,
     "end_time": "20260923165000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -717,7 +717,7 @@
     "top": 1010,
     "end_time": "20260923174800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -747,7 +747,7 @@
     "top": 1068,
     "end_time": "20260923190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -765,8 +765,8 @@
       "cp1"
     ],
     "sortGenre": "55",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473981/image/ecb5fe0c7055968ee185aadb9fdd8700.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923190000,
     "programEnd": 20260923205400,
@@ -877,7 +877,7 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33958",
-    "title": "[終]Tokyo middle 30「それでも私たちはー」 #10[字][解]",
+    "title": "[終]Tokyo middle 30「それでも私たちはー」#10[字][解]",
     "commentary": "３５歳の超リアルな恋愛ヒューマンドラマ\n10話(最終回)「それでも私たちはー」",
     "attr": [
       "stereo",
@@ -886,8 +886,8 @@
       "fin"
     ],
     "sortGenre": "30",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474334/image/bd38a3e7f6a7225ebc6009526657c41d.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923220000,
     "programEnd": 20260923225400,
@@ -968,8 +968,8 @@
     "channelName": "ＢＢＴ富山テレビ",
     "digitalNo": 8,
     "eventId": "33961",
-    "title": "FNN Live News α[字]",
-    "commentary": "働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "title": "FNN Live News α【中国でAIドラマ急増▼サッカー佐藤龍之介】[字]",
+    "commentary": "中国でＡＩドラマ急増エンタメ制作現場の今▽サッカー佐藤龍之介▽スポーツツーリズム",
     "attr": [
       "stereo",
       "hd",

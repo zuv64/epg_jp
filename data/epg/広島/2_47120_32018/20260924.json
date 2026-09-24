@@ -6,8 +6,8 @@
     "channelName": "ＲＣＣテレビ",
     "digitalNo": 3,
     "eventId": "33969",
-    "title": "news23[字]あなたと、あなたの身近な人にとって大切なニュースを",
-    "commentary": "どこよりもわかりやすく、わかりやすい言葉で、色んな人の意見、色んな声、色んな視点と共にお伝えします。経験豊富な23ジャーナリストたちが、ニュースを深掘りします。",
+    "title": "news23[字]台風25号の被害広がる　印旛沼から排水できず…冠水が長期化",
+    "commentary": "シルバーウイーク5連休最終日　都心はシトシト雨▽NYで日米首脳会談　高市総理の思いは届いたのか▽トランプ大統領の頭の中は中国だけ?▽皇室への誹謗中傷止まず",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260924002600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 26,
     "end_time": "20260924012500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 85,
     "end_time": "20260924015500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 115,
     "end_time": "20260924022500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 145,
     "end_time": "20260924025500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 175,
     "end_time": "20260924031000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -207,7 +207,7 @@
     "top": 190,
     "end_time": "20260924033900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -237,7 +237,7 @@
     "top": 219,
     "end_time": "20260924040800",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -267,7 +267,7 @@
     "top": 248,
     "end_time": "20260924043700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -297,7 +297,7 @@
     "top": 277,
     "end_time": "20260924044700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -327,7 +327,7 @@
     "top": 287,
     "end_time": "20260924051600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -357,7 +357,7 @@
     "top": 316,
     "end_time": "20260924052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -367,8 +367,8 @@
     "channelName": "ＲＣＣテレビ",
     "digitalNo": 3,
     "eventId": "34073",
-    "title": "THE　TIME,[字][デ]",
-    "commentary": "安住紳一郎が明るく楽しく丁寧に、そして正直にお伝えします!",
+    "title": "THE　TIME,池江璃花子がアジア大会3大会連続メダル▽出張中継TIME米収穫[字][デ]",
+    "commentary": "台風去った後なぜ…千葉・印旛沼の堤防決壊▽アジア大会ニュースターが続々登場!競泳男子21歳の光永が日本新で金▽米倉涼子&内田有紀▽若者の手帳事情",
     "attr": [
       "stereo",
       "hd",
@@ -387,7 +387,7 @@
     "top": 320,
     "end_time": "20260924080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -397,8 +397,8 @@
     "channelName": "ＲＣＣテレビ",
     "digitalNo": 3,
     "eventId": "34069",
-    "title": "ラヴィット!　日本でいちばん明るい朝番組[字]",
-    "commentary": "今の暮らしが10倍楽しくなるライフアイデア発見バラエティ!すぐに手が届く“楽しい!\"をお届けします▼MC川島明(麒麟)&田村真子(TBSアナウンサー)",
+    "title": "ラヴィット!ライン神返信選手権▼浜野謙太「仲良くなりたい!」大作戦!日帰り大洗旅[字]",
+    "commentary": "返信に困るラインどう返す?ライン神返信選手権▼似ている有名人が誰か当てろ!そっくりさんクイズ▼日帰り大洗旅!浜野謙太45歳 木曜メンバーと仲良くなりたい大作戦!完結編",
     "attr": [
       "stereo",
       "hd",
@@ -457,8 +457,8 @@
     "channelName": "ＲＣＣテレビ",
     "digitalNo": 3,
     "eventId": "34093",
-    "title": "ひるおび[字]",
-    "commentary": "あなたを“いたわる\"1時間!天気痛・家事の裏ワザ・明日行きたいイベント情報…毎日忙しいあなたをちょっと笑顔にする情報にこだわってお届けします▼復活!亭主改造計画",
+    "title": "ひるおび[字]日本橋三越に「ロカボな国産ナッツ」限定スイーツ&惣菜が集結!▽台風情報",
+    "commentary": "長野県産のナッツ使用!低糖質で話題!くるみモンブラン・バームクーヘン・サラダ・パスタ・肉料理まで選び放題▽世界が大注目!坂東龍汰&岡山天音▽新たな台風発生か?",
     "attr": [
       "stereo",
       "hd",
@@ -517,8 +517,8 @@
     "channelName": "ＲＣＣテレビ",
     "digitalNo": 3,
     "eventId": "34041",
-    "title": "RCCニュース",
-    "commentary": "最新の広島のニュースをお伝えします。",
+    "title": "RCCニュース　広島の砂防ダムでAI使った実証実験!ショベルカー無人で遠隔操作!?",
+    "commentary": "広島市内の砂防ダムでAI使った実証実験!ショベルカーを無人で遠隔操作!?最新現場に迫る▼まもなく引退するドクターイエロー…引退後は江田島に!?▼広島の最新天気詳しく",
     "attr": [
       "stereo",
       "hd",
@@ -609,8 +609,8 @@
     "channelName": "ＲＣＣテレビ",
     "digitalNo": 3,
     "eventId": "34133",
-    "title": "アジア大会　愛知・名古屋　卓球男子団体決勝ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会　60年ぶり金メダルへ!卓球男子団体決勝 日本vs中国 &競泳決勝 [字][デ]",
+    "commentary": "『事実上の世界一決定戦』卓球!日本のエース・張本智和 率いる男子団体は60年ぶりの金メダルをかけ、8連覇中の中国に挑む!競泳界のヒロイン池江璃花子は個人初メダルへ!",
     "attr": [
       "stereo",
       "hd",
@@ -669,8 +669,8 @@
     "channelName": "ＲＣＣテレビ",
     "digitalNo": 3,
     "eventId": "34141",
-    "title": "アジア大会　愛知・名古屋　卓球女子団体決勝ほか[字][デ]",
-    "commentary": "32年ぶりの日本開催「アジア大会 愛知・名古屋」\n日本のトップアスリートたちが地元の大声援を受け、アジア48億人の頂点へ!",
+    "title": "アジア大会★決勝戦★卓球女子団体VS中国! 事実上の世界頂上決戦勝つのは?[字][デ]",
+    "commentary": "60年ぶりの金メダルなるか?張本美和・早田ひな擁する最強ニッポン出陣▼陸上・女子10000m決勝・田中希美&東京世界陸上の熱狂再び!混合4×400mリレー予選",
     "attr": [
       "stereo",
       "hd",
@@ -760,7 +760,7 @@
     "digitalNo": 3,
     "eventId": "34125",
     "title": "スーパーの裏でヤニ吸うふたり　♯12[終][字]",
-    "commentary": "番組情報決定までしばらくお待ちください。",
+    "commentary": "12本目「スーパーの裏で続くふたり」",
     "attr": [
       "stereo",
       "hd",
@@ -865,7 +865,7 @@
     "programStart": 20260925022100,
     "programEnd": 20260925025100,
     "programDate": 20260924,
-    "programId": -1,
+    "programId": 996739,
     "start_time": "21",
     "duration": 30,
     "top": 1581,

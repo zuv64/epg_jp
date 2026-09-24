@@ -27,7 +27,7 @@
     "top": 0,
     "end_time": "20260924010000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -57,7 +57,7 @@
     "top": 60,
     "end_time": "20260924053000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -67,8 +67,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19919",
-    "title": "しあわせ気分のスペイン語（24）総復習",
-    "commentary": "スペイン北西部のガリシア地方。豊かな大自然に生きる人々の暮らしに密着しながら、初歩的な会話を学ぶ新シリーズ。前園真聖さんと一緒にしあわせになるヒントを探そう！",
+    "title": "しあわせ気分のスペイン語(24)総復習",
+    "commentary": "スペイン北西部のガリシア地方。豊かな大自然に生きる人々の暮らしに密着しながら、初歩的な会話を学ぶ新シリーズ。前園真聖さんと一緒にしあわせになるヒントを探そう!",
     "attr": [
       "stereo",
       "hd",
@@ -87,7 +87,7 @@
     "top": 330,
     "end_time": "20260924055000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -97,8 +97,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19920",
-    "title": "NHK高校講座　日本史探究　江戸幕府の外交政策[字]",
-    "commentary": "日本史を探究！タレント秋元真夏が江戸幕府の外交政策を探究！17世紀前半、日本は海外とどのような関係を結んでいたのだろう？",
+    "title": "ＮＨＫ高校講座 日本史探究 江戸幕府の外交政策[字]",
+    "commentary": "日本史を探究！タレント秋元真夏が江戸幕府の外交政策を探究！１７世紀前半、日本は海外とどのような関係を結んでいたのだろう?",
     "attr": [
       "stereo",
       "hd",
@@ -117,7 +117,7 @@
     "top": 350,
     "end_time": "20260924061000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -127,7 +127,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19921",
-    "title": "きょうの健康　あきらめないで！皮膚の自己免疫疾患「全身性強皮症」[解][字]",
+    "title": "きょうの健康 あきらめないで！皮膚の自己免疫疾患「全身性強皮症」[解][字]",
     "commentary": "全身性強皮症は、免疫の異常によってコラーゲンが過剰に作られ、皮膚が硬くなる病気。ステロイドや免疫抑制薬のほか、最近登場した生物学的製剤など、最新の治療法を紹介。",
     "attr": [
       "stereo",
@@ -147,7 +147,7 @@
     "top": 370,
     "end_time": "20260924062500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -158,7 +158,7 @@
     "digitalNo": 2,
     "eventId": "19922",
     "title": "テレビ体操[字]",
-    "commentary": "【出演】岡本美佳，舘野伶奈，吉江晴菜，新井庸太，【ピアノ】能條貴大",
+    "commentary": "【出演】岡本美佳,舘野伶奈,吉江晴菜,新井庸太,【ピアノ】能條貴大",
     "attr": [
       "stereo",
       "hd",
@@ -177,7 +177,7 @@
     "top": 385,
     "end_time": "20260924063500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -187,8 +187,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19923",
-    "title": "みんなのうた「WAになっておどろう　〜イレ　アイエ〜」",
-    "commentary": "90年代／「WAになっておどろう　〜イレ　アイエ〜」うた：AGHARTA（1997年）",
+    "title": "みんなのうた「ＷＡになっておどろう 〜イレ アイエ〜」",
+    "commentary": "90年代/「WAになっておどろう 〜イレ アイエ〜」うた:AGHARTA(1997年)",
     "attr": [
       "stereo",
       "hd",
@@ -207,7 +207,7 @@
     "top": 395,
     "end_time": "20260924064000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -217,8 +217,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19924",
-    "title": "プチプチ・アニメ　ニャッキ！「ニャッキペン」",
-    "commentary": "マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな？",
+    "title": "プチプチ・アニメ ニャッキ!「ニャッキペン」",
+    "commentary": "マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな?",
     "attr": [
       "stereo",
       "hd",
@@ -237,7 +237,7 @@
     "top": 400,
     "end_time": "20260924064500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -247,8 +247,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19925",
-    "title": "ピタゴラスイッチ▽なんのどうぶつ？　あててみて！[字]",
-    "commentary": "今日は「なんのどうぶつ？」を2つ続けてどうぞ。ピタゴラ装置アカデミア「くるり装置」ほか。",
+    "title": "ピタゴラスイッチ▽なんのどうぶつ? あててみて![字]",
+    "commentary": "今日は「なんのどうぶつ？」を２つ続けてどうぞ。ピタゴラ装置アカデミア「くるり装置」ほか。",
     "attr": [
       "stereo",
       "hd",
@@ -267,7 +267,7 @@
     "top": 405,
     "end_time": "20260924065500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -277,8 +277,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19926",
-    "title": "Eテレ0655　木曜日[字]",
-    "commentary": "1日のはじまりをつくる5分番組『0655』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します",
+    "title": "Ｅテレ0655 木曜日[字]",
+    "commentary": "１日のはじまりをつくる5分番組『0655』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します",
     "attr": [
       "stereo",
       "hd",
@@ -297,7 +297,7 @@
     "top": 415,
     "end_time": "20260924070000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -307,8 +307,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19927",
-    "title": "The　Wakey　Show　ベストセレクション[字]",
-    "commentary": "全国のこどもたちに向け、DJウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ！",
+    "title": "The Wakey Show ベストセレクション[字]",
+    "commentary": "全国のこどもたちに向け、ＤＪウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ!",
     "attr": [
       "stereo",
       "hd",
@@ -327,7 +327,7 @@
     "top": 420,
     "end_time": "20260924072000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -337,8 +337,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19928",
-    "title": "アニメ　はなかっぱ「やどりぎ人生」「はなかっぱは有名人！？」[字][デ]",
-    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！",
+    "title": "アニメ はなかっぱ「やどりぎ人生」「はなかっぱは有名人!?」[字][デ]",
+    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ!",
     "attr": [
       "stereo",
       "hd",
@@ -357,7 +357,7 @@
     "top": 440,
     "end_time": "20260924073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -367,8 +367,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19929",
-    "title": "みいつけた！　木曜日[字]",
-    "commentary": "4歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
+    "title": "みいつけた！ 木曜日[字]",
+    "commentary": "４歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
     "attr": [
       "stereo",
       "hd",
@@ -387,7 +387,7 @@
     "top": 450,
     "end_time": "20260924074500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -397,8 +397,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19930",
-    "title": "おかあさんといっしょ　木曜日[字]",
-    "commentary": "2歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
+    "title": "おかあさんといっしょ 木曜日[字]",
+    "commentary": "２歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
     "attr": [
       "stereo",
       "hd",
@@ -409,45 +409,15 @@
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260924074500,
-    "programEnd": 20260924080900,
+    "programEnd": 20260924081000,
     "programDate": 20260924,
     "programId": 4567,
     "start_time": "45",
-    "duration": 24,
+    "duration": 25,
     "top": 465,
-    "end_time": "20260924080900",
-    "channel_type": "2",
-    "is_end": false,
-    "show_remoterec": true
-  },
-  {
-    "@search.score": 1,
-    "cid": "2_15790930",
-    "serviceCode": "51208_31953",
-    "channelName": "NHK山口　教育",
-    "digitalNo": 2,
-    "eventId": "24800",
-    "title": "NHK　ONE　マイリスト登録のやり方　いないいないばあっ！版",
-    "commentary": "NHKONEの便利機能「マイリスト登録」のやり方をご紹介。いったん登録すれば、お気に入りの番組を探す手間いらずで、もっと楽しめます！いないいないばあっ！版。",
-    "attr": [
-      "stereo",
-      "hd",
-      "cp1"
-    ],
-    "sortGenre": "27",
-    "hasImage": 0,
-    "imgPath": null,
-    "isRecommended": null,
-    "programStart": 20260924080900,
-    "programEnd": 20260924081000,
-    "programDate": 20260924,
-    "programId": 4562,
-    "start_time": "09",
-    "duration": 1,
-    "top": 489,
     "end_time": "20260924081000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -457,8 +427,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19933",
-    "title": "いないいないばあっ！　木曜日[字]",
-    "commentary": "粘土遊びってたのしいね。おうちゃんは何をつくるのかな？▼うた「たいこたいこ　どんどん！」、▼童謡「おすもうくまちゃん」。番組の最後におともだちの絵を紹介します。",
+    "title": "いないいないばあっ！ 木曜日[字]",
+    "commentary": "粘土遊びってたのしいね。おうちゃんは何をつくるのかな？▼うた「たいこたいこ どんどん！」、▼童謡「おすもうくまちゃん」。番組の最後におともだちの絵を紹介します。",
     "attr": [
       "stereo",
       "hd",
@@ -477,7 +447,7 @@
     "top": 490,
     "end_time": "20260924082500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -487,8 +457,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19934",
-    "title": "アニメ　おじゃる丸「電ボ　やめると代わりに言いますサービスを使う」[字]",
-    "commentary": "千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。",
+    "title": "アニメ おじゃる丸「電ボ やめると代わりに言いますサービスを使う」[字]",
+    "commentary": "千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動(そうどう)をまきおこします。",
     "attr": [
       "stereo",
       "hd",
@@ -507,7 +477,7 @@
     "top": 505,
     "end_time": "20260924083500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -517,7 +487,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19935",
-    "title": "でこぼこポン！　つかれと上手につきあう発明品[字]",
+    "title": "でこぼこポン！ つかれと上手につきあう発明品[字]",
     "commentary": "発達障害などの子が、ドラマやゲームで楽しくスキルアップ！今回は、疲れをためこみやすい子をサポートする。／出演：鳥居みゆき。声の出演：吉岡里帆ほか",
     "attr": [
       "stereo",
@@ -537,7 +507,7 @@
     "top": 515,
     "end_time": "20260924084500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -547,7 +517,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19936",
-    "title": "プチプチ・アニメ　リヴ＆ベル「マリモの星の仲間たち」",
+    "title": "プチプチ・アニメ リヴ＆ベル「マリモの星の仲間たち」",
     "commentary": "リヴちゃんは大きな水玉リボンがトレードマークの女の子。ハリネズミのベルくんと行くさきには、いつも不思議な事がまっています。",
     "attr": [
       "stereo",
@@ -567,7 +537,7 @@
     "top": 525,
     "end_time": "20260924085000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -577,8 +547,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19937",
-    "title": "まいにちスクスク　親子で楽しむ公園遊び（3）縄とびやボールの遊び方[字]",
-    "commentary": "健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の5分で、あなたの子育てがもっと楽しくなりますよ！",
+    "title": "まいにちスクスク 親子で楽しむ公園遊び（３）縄とびやボールの遊び方[字]",
+    "commentary": "健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ!",
     "attr": [
       "stereo",
       "hd",
@@ -597,7 +567,7 @@
     "top": 530,
     "end_time": "20260924085500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -608,7 +578,7 @@
     "digitalNo": 2,
     "eventId": "19938",
     "title": "みんなのうた「マスク・ド・カメロ」",
-    "commentary": "SPアンコール／「マスク・ド・カメロ」作詞：新藤晴一、作曲：岡野昭仁、編曲：立崎優介・田中ユウスケ・PORNOGRAFFITTI、うた：ポルノグラフィティ",
+    "commentary": "ＳＰアンコール／「マスク・ド・カメロ」作詞：新藤晴一、作曲：岡野昭仁、編曲：立崎優介・田中ユウスケ・PORNOGRAFFITTI、うた:ポルノグラフィティ",
     "attr": [
       "stereo",
       "hd",
@@ -627,7 +597,7 @@
     "top": 535,
     "end_time": "20260924090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -638,7 +608,7 @@
     "digitalNo": 2,
     "eventId": "19939",
     "title": "ドスルコスル「こうする！多文化共生への一歩」[解][字]",
-    "commentary": "「世の中の課題とどう向き合う？」そのヒントを子どもたちに提示する番組。今回のこうする編では、多文化共生について考え始めた新宿区の6年生の活動を紹介。",
+    "commentary": "「世の中の課題とどう向き合う？」そのヒントを子どもたちに提示する番組。今回のこうする編では、多文化共生について考え始めた新宿区の６年生の活動を紹介。",
     "attr": [
       "stereo",
       "hd",
@@ -657,7 +627,7 @@
     "top": 540,
     "end_time": "20260924091000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -667,8 +637,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19940",
-    "title": "姫とボクはわからないっ　SNS投稿には気をつけろ！の巻[解][字]",
-    "commentary": "ネットやスマホとのつきあい方を学べるドラマ。中学2年生になったスグル。念願のSNS投稿デビューを果たすも、まさかの落とし穴が。【出演】新津ちせ、藤森慎吾",
+    "title": "姫とボクはわからないっ ＳＮＳ投稿には気をつけろ！の巻[解][字]",
+    "commentary": "ネットやスマホとのつきあい方を学べるドラマ。中学２年生になったスグル。念願のＳＮＳ投稿デビューを果たすも、まさかの落とし穴が。【出演】新津ちせ、藤森慎吾",
     "attr": [
       "stereo",
       "hd",
@@ -687,7 +657,7 @@
     "top": 550,
     "end_time": "20260924092000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -697,8 +667,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19941",
-    "title": "Q〜こどものための哲学「なんで夜はこわいの？」[字]",
-    "commentary": "日本初の子ども向け哲学番組。少年Qくんが抱いた不満や願望に、ぬいぐるみのチッチがなぜそう思ったのかを問いかけ、対話をしながら、自分なりの答えを探求していく人形劇",
+    "title": "Ｑ〜こどものための哲学「なんで夜はこわいの?」[字]",
+    "commentary": "日本初の子ども向け哲学番組。少年Ｑくんが抱いた不満や願望に、ぬいぐるみのチッチがなぜそう思ったのかを問いかけ、対話をしながら、自分なりの答えを探求していく人形劇",
     "attr": [
       "stereo",
       "hd",
@@ -717,7 +687,7 @@
     "top": 560,
     "end_time": "20260924093500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -727,8 +697,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19942",
-    "title": "えいごでがんこちゃん「あ、あぶないよ！」[解]",
-    "commentary": "がんこちゃんが、道にあいた穴に落ちそうになっている。あ！がんこちゃん、あぶないよ！でも、がんこちゃんは穴に落ちてしまう。どうやって助けたらいいの？！",
+    "title": "えいごでがんこちゃん「あ、あぶないよ!」[解]",
+    "commentary": "がんこちゃんが、道にあいた穴に落ちそうになっている。あ！がんこちゃん、あぶないよ！でも、がんこちゃんは穴に落ちてしまう。どうやって助けたらいいの?!",
     "attr": [
       "stereo",
       "hd",
@@ -747,7 +717,7 @@
     "top": 575,
     "end_time": "20260924094000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -757,8 +727,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19943",
-    "title": "エイゴビート2　Who　is　he？／だれかな？[解]",
-    "commentary": "リズムに乗って体を動かし、楽しく英語を身につけよう！英語ビギナーのキッズが、習ったキーフレーズを引っさげて外国人との会話に挑戦。小学3、4年向け。出演・すみれ",
+    "title": "エイゴビート2 Who is he?/だれかな?[解]",
+    "commentary": "リズムに乗って体を動かし、楽しく英語を身につけよう！英語ビギナーのキッズが、習ったキーフレーズを引っさげて外国人との会話に挑戦。小学３、４年向け。出演・すみれ",
     "attr": [
       "stereo",
       "hd",
@@ -777,7 +747,7 @@
     "top": 580,
     "end_time": "20260924095000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -787,8 +757,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19944",
-    "title": "小学生の基礎英語　on　TV　He　is　nice．[解]",
-    "commentary": "サンシャイン池崎が小学生と英語をエンジョイ！街の外国人にインタビューしたり、海外の小学生とオンラインで話したり、小学校で学ぶ英語を使い楽しくコミュニケーション！",
+    "title": "小学生の基礎英語 on TV He is nice.[解]",
+    "commentary": "サンシャイン池崎が小学生と英語をエンジョイ！街の外国人にインタビューしたり、海外の小学生とオンラインで話したり、小学校で学ぶ英語を使い楽しくコミュニケーション!",
     "attr": [
       "stereo",
       "hd",
@@ -807,7 +777,7 @@
     "top": 590,
     "end_time": "20260924100000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -817,7 +787,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19945",
-    "title": "NHK高校講座　英語コミュニケーションI　小ばなしを聞かせよう",
+    "title": "NHK高校講座 英語コミュニケーションI 小ばなしを聞かせよう",
     "commentary": "日本の小ばなしを英語で演じてみよう。面白さが伝わるようにするにはどんな工夫が必要なのか。英語落語のエキスパート桂かい枝さんに実演を交えて教えてもらう。",
     "attr": [
       "stereo",
@@ -837,7 +807,7 @@
     "top": 600,
     "end_time": "20260924102000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -847,7 +817,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19946",
-    "title": "NHK高校講座　ベーシック英語　英語でヘルプ大作戦！",
+    "title": "NHK高校講座 ベーシック英語 英語でヘルプ大作戦!",
     "commentary": "中学校までの英語のつまずきポイントを基礎からしっかり学べる講座です。今回は、命令文の使い方を学習しましょう。",
     "attr": [
       "stereo",
@@ -867,7 +837,7 @@
     "top": 620,
     "end_time": "20260924103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -877,8 +847,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19947",
-    "title": "NHK高校講座　物理基礎　温度と熱[字]",
-    "commentary": "体温計で「熱を測る」って言うけれど、測っているのは「温度」？熱と温度の違いは何？熱の正体を解き明かすと、水が氷になったり水蒸気になる理由も明らかになるよ！",
+    "title": "ＮＨＫ高校講座 物理基礎 温度と熱[字]",
+    "commentary": "体温計で「熱を測る」って言うけれど、測っているのは「温度」？熱と温度の違いは何？熱の正体を解き明かすと、水が氷になったり水蒸気になる理由も明らかになるよ!",
     "attr": [
       "stereo",
       "hd",
@@ -897,7 +867,7 @@
     "top": 630,
     "end_time": "20260924105000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -907,8 +877,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19948",
-    "title": "NHK高校講座　ベーシック数学　2直線の位置関係[字]",
-    "commentary": "2つの直線が平行でない場合、交わる点、つまり交点ができます。この交点の座標を求めるにはどうすればよいのでしょうか。パパっとわかる問題に挑戦です。",
+    "title": "NHK高校講座 ベーシック数学 ２直線の位置関係[字]",
+    "commentary": "２つの直線が平行でない場合、交わる点、つまり交点ができます。この交点の座標を求めるにはどうすればよいのでしょうか。パパっとわかる問題に挑戦です。",
     "attr": [
       "stereo",
       "hd",
@@ -927,7 +897,7 @@
     "top": 650,
     "end_time": "20260924110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -937,8 +907,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19949",
-    "title": "テイクテック2．0　自動運転[字]",
-    "commentary": "身の回りのテクノロジーの仕組みを楽しく学べる番組「テイクテック2．0」。今回のテーマは「自動運転」。その仕組みをアニメやドラマで紹介します。",
+    "title": "テイクテック2.0 自動運転[字]",
+    "commentary": "身の回りのテクノロジーの仕組みを楽しく学べる番組「テイクテック2.0」。今回のテーマは「自動運転」。その仕組みをアニメやドラマで紹介します。",
     "attr": [
       "stereo",
       "hd",
@@ -957,7 +927,7 @@
     "top": 660,
     "end_time": "20260924111000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -967,8 +937,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19950",
-    "title": "リトル・チャロ（25）",
-    "commentary": "感動の英語アニメ「リトル・チャロ」を10分に再編集して放送。恩人のトモコの映画に出演するため再びニューヨークに戻った子犬のチャロの活躍を描く。▽声：斎藤アリーナ",
+    "title": "リトル・チャロ(25)",
+    "commentary": "感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。恩人のトモコの映画に出演するため再びニューヨークに戻った子犬のチャロの活躍を描く。▽声：斎藤アリーナ",
     "attr": [
       "stereo",
       "hd",
@@ -987,7 +957,7 @@
     "top": 670,
     "end_time": "20260924112000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -997,8 +967,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19951",
-    "title": "すくすく子育て　教えて！保育者のホンネ（1）入園前のあるある心配編[字][再]",
-    "commentary": "人見知りするけど入園できる？うつぶせ寝しかできないけど迷惑かけない？など…もやもや悩んでいませんか？現役保育者にホンネを聞いて不安を吹き飛ばそう！",
+    "title": "すくすく子育て 教えて！保育者のホンネ(1)入園前のあるある心配編[字][再]",
+    "commentary": "人見知りするけど入園できる？うつぶせ寝しかできないけど迷惑かけない？など…もやもや悩んでいませんか？現役保育者にホンネを聞いて不安を吹き飛ばそう!",
     "attr": [
       "stereo",
       "hd",
@@ -1018,7 +988,7 @@
     "top": 680,
     "end_time": "20260924115000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1029,7 +999,7 @@
     "digitalNo": 2,
     "eventId": "19954",
     "title": "ミミクリーズ「はねをたたむ」[解][字]",
-    "commentary": "「ミミクリー（mimicry）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！",
+    "commentary": "「ミミクリー(mimicry)」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう!",
     "attr": [
       "stereo",
       "hd",
@@ -1048,7 +1018,7 @@
     "top": 710,
     "end_time": "20260924120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1078,7 +1048,7 @@
     "top": 720,
     "end_time": "20260924121500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1109,7 +1079,7 @@
     "top": 735,
     "end_time": "20260924130000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1140,7 +1110,7 @@
     "top": 780,
     "end_time": "20260924130500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1170,7 +1140,7 @@
     "top": 785,
     "end_time": "20260924131000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1200,7 +1170,7 @@
     "top": 790,
     "end_time": "20260924134000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1210,8 +1180,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19962",
-    "title": "将棋フォーカス　シリーズ　NHK杯名局選　鈴木大介九段の一局[字]",
-    "commentary": "9月末まで「将棋講座」で講師をつとめる鈴木大介九段を大特集。スタジオに鈴木九段を招き、郷田真隆八段（当時）と戦った1999年度の「NHK杯」の決勝戦を振り返る。",
+    "title": "将棋フォーカス シリーズ NHK杯名局選 鈴木大介九段の一局[字]",
+    "commentary": "９月末まで「将棋講座」で講師をつとめる鈴木大介九段を大特集。スタジオに鈴木九段を招き、郷田真隆八段（当時）と戦った1999年度の「NHK杯」の決勝戦を振り返る。",
     "attr": [
       "stereo",
       "hd",
@@ -1230,7 +1200,7 @@
     "top": 820,
     "end_time": "20260924141000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1240,7 +1210,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19963",
-    "title": "NHK短歌　伝統的なことばを生かして　題「選」[字]",
+    "title": "ＮＨＫ短歌 伝統的なことばを生かして 題「選」[字]",
     "commentary": "大辻隆弘さんが選者の「伝統的なことばを生かして」。今回は口語では使わなくなった文語の動詞がテーマ。ゲストはギタリストの村治佳織さん。司会は尾崎世界観さん。",
     "attr": [
       "stereo",
@@ -1260,7 +1230,7 @@
     "top": 850,
     "end_time": "20260924143500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1270,8 +1240,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19964",
-    "title": "3か月でマスターする世界史　[終]（12）21世紀　台頭するアジア[解][字][再]",
-    "commentary": "戦後、国民国家をめざしたアジアの国々。冷戦時代なぜ戦場となったのか。21世紀、成長するアジアはどこへ向かうのか。最終回、歴史を通していまを見つめる大切さを語る。",
+    "title": "３か月でマスターする世界史 [終](12)21世紀 台頭するアジア[解][字][再]",
+    "commentary": "戦後、国民国家をめざしたアジアの国々。冷戦時代なぜ戦場となったのか。２１世紀、成長するアジアはどこへ向かうのか。最終回、歴史を通していまを見つめる大切さを語る。",
     "attr": [
       "stereo",
       "hd",
@@ -1292,7 +1262,7 @@
     "top": 875,
     "end_time": "20260924150500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1302,8 +1272,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "20171",
-    "title": "偉人の年収　How　much？　戦国武将　豊臣秀長[解][字][再]",
-    "commentary": "教科書に載るような偉人たちはいくら稼いでいたの？お金を切り口に半生をたどると、偉人の生き方や人生観が見えてくる！大河ドラマ『豊臣兄弟！』で人気の豊臣秀長が登場！",
+    "title": "偉人の年収 How much? 戦国武将 豊臣秀長[解][字][再]",
+    "commentary": "教科書に載るような偉人たちはいくら稼いでいたの？お金を切り口に半生をたどると、偉人の生き方や人生観が見えてくる！大河ドラマ『豊臣兄弟！』で人気の豊臣秀長が登場!",
     "attr": [
       "stereo",
       "hd",
@@ -1323,7 +1293,7 @@
     "top": 905,
     "end_time": "20260924153500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1353,7 +1323,7 @@
     "top": 935,
     "end_time": "20260924154500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1363,8 +1333,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19971",
-    "title": "ボクを食べないキミへ　〜人生の食敵〜　松村沙友理　VS　納豆[字]",
-    "commentary": "嫌いな食べもの＝食敵（しょくてき）を克服する、異色の料理番組▽今回は“さゆりんご”こと松村沙友理VS納豆▽料理家・和田明日香が特別メニューを伝授！",
+    "title": "ボクを食べないキミへ 〜人生の食敵〜 松村沙友理 ＶＳ 納豆[字]",
+    "commentary": "嫌いな食べもの＝食敵（しょくてき）を克服する、異色の料理番組▽今回は“さゆりんご”こと松村沙友理ＶＳ納豆▽料理家・和田明日香が特別メニューを伝授!",
     "attr": [
       "stereo",
       "hd",
@@ -1383,7 +1353,7 @@
     "top": 945,
     "end_time": "20260924155500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1393,7 +1363,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19972",
-    "title": "で〜きた　ありがとう[解][字]",
+    "title": "で〜きた ありがとう[解][字]",
     "commentary": "「できないに気づけば、かならずできる」をテーマに、学校生活で必要な集団行動・マナー・社会的スキルを、わかりやすく、自発的に学ぶ番組。今回は『ありがとう』。",
     "attr": [
       "stereo",
@@ -1413,7 +1383,7 @@
     "top": 955,
     "end_time": "20260924160500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1423,7 +1393,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19973",
-    "title": "ストレッチマンGO！「サツマイモ怪人ホクホックンあらわる！」[解][字]",
+    "title": "ストレッチマンＧＯ！「サツマイモ怪人ホクホックンあらわる!」[解][字]",
     "commentary": "ちょっとカラダがかたいけど元気いっぱいな「ストレッチマンゴー」が登場！相棒・のぉ〜り〜と「空き缶」を使った楽しいあそびを紹介します。",
     "attr": [
       "stereo",
@@ -1443,7 +1413,7 @@
     "top": 965,
     "end_time": "20260924161500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1453,8 +1423,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19974",
-    "title": "いないいないばあっ！　木曜日[字]",
-    "commentary": "粘土遊びってたのしいね。おうちゃんは何をつくるのかな？▼うた「たいこたいこ　どんどん！」、▼童謡「おすもうくまちゃん」。番組の最後におともだちの絵を紹介します。",
+    "title": "いないいないばあっ！ 木曜日[字]",
+    "commentary": "粘土遊びってたのしいね。おうちゃんは何をつくるのかな？▼うた「たいこたいこ どんどん！」、▼童謡「おすもうくまちゃん」。番組の最後におともだちの絵を紹介します。",
     "attr": [
       "stereo",
       "hd",
@@ -1473,7 +1443,7 @@
     "top": 975,
     "end_time": "20260924163000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1483,7 +1453,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19975",
-    "title": "ウェルカム！よきまるハウス　宝仙学園女子部ダンス部コラボスペシャル[字][再]",
+    "title": "ウェルカム！よきまるハウス 宝仙学園女子部ダンス部コラボスペシャル[字][再]",
     "commentary": "ダンス強豪校の宝仙学園女子部ダンス部をサボさんとシロウ（ノンスタイル石田明）が訪問！ダンス部員のクイズや障害物競走で大盛り上がり！番組テーマソングを一緒にダンス",
     "attr": [
       "stereo",
@@ -1504,7 +1474,7 @@
     "top": 990,
     "end_time": "20260924170000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1514,8 +1484,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19976",
-    "title": "アニメ　はなかっぱ「やどりぎ人生」「はなかっぱは有名人！？」[字][デ]",
-    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！",
+    "title": "アニメ はなかっぱ「やどりぎ人生」「はなかっぱは有名人!?」[字][デ]",
+    "commentary": "頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ!",
     "attr": [
       "stereo",
       "hd",
@@ -1534,7 +1504,7 @@
     "top": 1020,
     "end_time": "20260924171000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1544,8 +1514,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19977",
-    "title": "The　Wakey　Show　ベストセレクション[字]",
-    "commentary": "全国のこどもたちに向け、DJウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ！",
+    "title": "The Wakey Show ベストセレクション[字]",
+    "commentary": "全国のこどもたちに向け、ＤＪウェイキーとその仲間たちが、今日一日が楽しくなるinterestingな情報をお届けするエデュテインメントショウ!",
     "attr": [
       "stereo",
       "hd",
@@ -1564,7 +1534,7 @@
     "top": 1030,
     "end_time": "20260924173000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1574,7 +1544,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19978",
-    "title": "天才てれびくんgrow▽生放送SP！テレビのリモコンで参加してね[双]",
+    "title": "天才てれびくんgrow▽生放送SP!テレビのリモコンで参加してね[双]",
     "commentary": "▽生放送スペシャル！茶の間戦士のみんなはテレビの前にリモコンをもって集合してね。はてなと一緒に、ゲームやクイズ、なぞときに参加しよう",
     "attr": [
       "stereo",
@@ -1594,7 +1564,7 @@
     "top": 1050,
     "end_time": "20260924180000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1604,8 +1574,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19981",
-    "title": "おかあさんといっしょ　木曜日[字]",
-    "commentary": "2歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
+    "title": "おかあさんといっしょ 木曜日[字]",
+    "commentary": "２歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。",
     "attr": [
       "stereo",
       "hd",
@@ -1624,7 +1594,7 @@
     "top": 1080,
     "end_time": "20260924182400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1634,8 +1604,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19982",
-    "title": "あおきいろ1分版　ててて！とまって！横断歩道を渡るポイント3",
-    "commentary": "横断歩道を渡るときのポイントを「ててて！とまって！」で学ぼう！車が止まってくれたあとも、もう一度まわりをたしかめよう！",
+    "title": "あおきいろ１分版 ててて！とまって！横断歩道を渡るポイント3",
+    "commentary": "横断歩道を渡るときのポイントを「ててて！とまって！」で学ぼう！車が止まってくれたあとも、もう一度まわりをたしかめよう!",
     "attr": [
       "stereo",
       "hd",
@@ -1654,7 +1624,7 @@
     "top": 1104,
     "end_time": "20260924182500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1664,8 +1634,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19983",
-    "title": "みいつけた！　木曜日[字]",
-    "commentary": "4歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
+    "title": "みいつけた！ 木曜日[字]",
+    "commentary": "４歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。",
     "attr": [
       "stereo",
       "hd",
@@ -1684,7 +1654,7 @@
     "top": 1105,
     "end_time": "20260924184000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1695,7 +1665,7 @@
     "digitalNo": 2,
     "eventId": "19984",
     "title": "ピタゴラスイッチ▽ピタゴラ装置ここのところをもういちど見てみましょう[字]",
-    "commentary": "ピタゴラ装置　ここのところをもういちど見てみましょうSP。装置のある部分に注目すると意外な工夫が見えてくる。気づかないけれど、スゴイ仕組みを解説します！",
+    "commentary": "ピタゴラ装置 ここのところをもういちど見てみましょうＳＰ。装置のある部分に注目すると意外な工夫が見えてくる。気づかないけれど、スゴイ仕組みを解説します!",
     "attr": [
       "stereo",
       "hd",
@@ -1714,7 +1684,7 @@
     "top": 1120,
     "end_time": "20260924185000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1724,7 +1694,7 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19985",
-    "title": "アニメ　忍たま乱太郎「スター小松田秀作の段」[字]",
+    "title": "アニメ 忍たま乱太郎「スター小松田秀作の段」[字]",
     "commentary": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
     "attr": [
       "stereo",
@@ -1744,7 +1714,7 @@
     "top": 1130,
     "end_time": "20260924190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1754,8 +1724,8 @@
     "channelName": "NHK山口　教育",
     "digitalNo": 2,
     "eventId": "19986",
-    "title": "アニメ　おしりたんてい（110）「ププッ　ねむれるみどりとゆめたんてい」[字][デ]",
-    "commentary": "「フーム、においますね」レディーにやさしくスイートポテトがだいすきなめいたんてい・おしりたんていが、じょしゅのブラウンとともに、どんなじけんもププッとかいけつ！",
+    "title": "アニメ おしりたんてい(110)「ププッ ねむれるみどりとゆめたんてい」[字][デ]",
+    "commentary": "「フーム、においますね」レディーにやさしくスイートポテトがだいすきなめいたんてい・おしりたんていが、じょしゅのブラウンとともに、どんなじけんもププッとかいけつ!",
     "attr": [
       "stereo",
       "hd",
@@ -1798,7 +1768,7 @@
     "programStart": 20260924192000,
     "programEnd": 20260924194000,
     "programDate": 20260924,
-    "programId": -1,
+    "programId": 4698,
     "start_time": "20",
     "duration": 20,
     "top": 1160,
@@ -1815,7 +1785,7 @@
     "digitalNo": 2,
     "eventId": "25818",
     "title": "アニメまとめPR　10月スタート！注目の4番組[字]",
-    "commentary": " ",
+    "commentary": "10月から放送スタート！この秋、注目のNHKアニメ「恐怖コレクター」「マロニエ王国の七人の騎士」「パンどろぼう」「アオアシ　Season2」の見どころを紹介！",
     "attr": [
       "stereo",
       "hd",

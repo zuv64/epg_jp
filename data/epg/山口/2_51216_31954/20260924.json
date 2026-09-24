@@ -14,7 +14,7 @@
       "cp1"
     ],
     "sortGenre": "50",
-    "hasImage": 0,
+    "hasImage": 1,
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923235900,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260924005400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -56,7 +56,7 @@
     "top": 54,
     "end_time": "20260924014900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -86,7 +86,7 @@
     "top": 109,
     "end_time": "20260924021900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -116,7 +116,7 @@
     "top": 139,
     "end_time": "20260924024900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +146,7 @@
     "top": 169,
     "end_time": "20260924025400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -176,7 +176,7 @@
     "top": 174,
     "end_time": "20260924032400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +206,7 @@
     "top": 204,
     "end_time": "20260924050000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +236,7 @@
     "top": 300,
     "end_time": "20260924052000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -246,8 +246,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8337",
-    "title": "KRYさわやかモーニング",
-    "commentary": "朝一番に知りたい情報をいち早く。県内で最も早く、深夜から早朝の県内ニュースをお伝えします。",
+    "title": "KRYさわやかモーニング「蔵出しフィルム▽おのだサンパークがリニューアル!」",
+    "commentary": "蔵出しフィルム…山口放送のニュース映像を使って過去の９月２４日のできごとを振り返る▽リニューアルするおのだサンパークを内田アナが取材してきました!",
     "attr": [
       "stereo",
       "hd",
@@ -266,7 +266,7 @@
     "top": 320,
     "end_time": "20260924065400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -276,8 +276,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8339",
-    "title": "ZIP!",
-    "commentary": "▽最新のニュース、エンタメ、トレンドなど「時事性のある情報」に加え、ZIP!独自の「オリジナルコンテンツ」も多数用意し、日本の朝に「見たい」をお届けします!",
+    "title": "ZIP!【台風の爪痕一夜明けても水引かず／有村架純マスト持ち物/健二郎DIY】",
+    "commentary": "木曜は山下健二郎▽記録的大雨千葉神奈川で計10人死亡確認▽迫る土砂崩れ瞬間映像▽学校でアルミ窃盗なぜ▽堂本光一 代表作「SHOCK」への思い",
     "attr": [
       "stereo",
       "hd",
@@ -296,7 +296,7 @@
     "top": 414,
     "end_time": "20260924090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -306,8 +306,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8321",
-    "title": "DayDay.【MCは武田真一と山里亮太!情報&エンタメ＆おしゃべり】[字]",
-    "commentary": "ＭＣは武田＆山里！爽快・情報エンタメトークショー▽身近な話題や共感ネタを深ぼり▽視聴者とリアルタイムでつながる即興アンケート！▽最新の天気",
+    "title": "DayDay.【生鮮じゃがいも“輸入解禁”影響は▼静岡“長寿“カギはあの食材】[字]",
+    "commentary": "新たな“台風”発生か▼時間差でナゼ？堤防決壊で住宅に濁流▼生鮮じゃがいも“輸入解禁”へ…価格影響は▼健康寿命１位静岡県…長寿のカギはあの食材▼豪雨で野菜の価格は",
     "attr": [
       "stereo",
       "hd",
@@ -326,7 +326,7 @@
     "top": 540,
     "end_time": "20260924105500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +356,7 @@
     "top": 655,
     "end_time": "20260924112500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -386,7 +386,7 @@
     "top": 685,
     "end_time": "20260924113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -416,7 +416,7 @@
     "top": 690,
     "end_time": "20260924114000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -446,7 +446,7 @@
     "top": 700,
     "end_time": "20260924114500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -476,7 +476,7 @@
     "top": 705,
     "end_time": "20260924115500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -486,8 +486,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8341",
-    "title": "ヒルナンデス![デ]",
-    "commentary": "日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。",
+    "title": "ヒルナンデス！銀座有楽町で柚乃ちゃん初めて体験！濃厚トリュフ石焼きカルボナーラ[デ]",
+    "commentary": "永尾柚乃ちゃん初体験スポット巡り！有楽町アンテナショップでご当地グルメ満喫&最新プラネタリウム▽コストコで超お得商品を総額４万円超えの爆買い！覆面ママ２人は誰?",
     "attr": [
       "stereo",
       "hd",
@@ -506,7 +506,7 @@
     "top": 715,
     "end_time": "20260924135500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -516,8 +516,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8325",
-    "title": "情報ライブ ミヤネ屋[字]",
-    "commentary": "ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます!",
+    "title": "ミヤネ屋【“堤防決壊”で大規模冠水続く…土砂崩れの瞬間捉えた衝撃映像】[字]",
+    "commentary": "▽“堤防決壊”千葉県印旛沼で大規模冠水続く…土砂崩れの“一部始終”を捉えた衝撃映像▽ネクタイを頭に巻いて“熱唱＆ダンス”…福岡県議会議員ら海外視察中の「新動画」",
     "attr": [
       "stereo",
       "hd",
@@ -536,7 +536,7 @@
     "top": 835,
     "end_time": "20260924155000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -546,8 +546,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8332",
-    "title": "every.[字] 鈴江奈々&森圭介がきょうを分かりやすく",
-    "commentary": "鈴江奈々、森圭介が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載!!",
+    "title": "every.[字]台風被害拡大も…新たに「２６号発生」来週後半に本州影響の可能性も(他)",
+    "commentary": "▼習近平氏３年ぶり訪米“異例待遇”の思惑▼WEST.今月末で活動終了へ…7人の今後は▼ネイリスト“殺害”男に拘禁刑２１年求刑▼長雨も影響!?５連休明けインフル猛威",
     "attr": [
       "stereo",
       "hd",
@@ -566,7 +566,7 @@
     "top": 950,
     "end_time": "20260924164500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -576,8 +576,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8343",
-    "title": "kry news every.(第2部)[字]",
-    "commentary": "らいふ▽カルチャー、グルメ、健康など…暮らしに役立つ情報が満載！！毎日の生活に「ふっ」と一息。”ふふふ”と笑顔あふれる番組をお届けします!",
+    "title": "kry every.[字]17:20頃〜【らいふ】山口の夕方が楽しくなる!",
+    "commentary": "本山神事を前に…山車を急坂から落とす勇壮な祭り！▽蔵出しフィルム…かつての９月２４日の出来事",
     "attr": [
       "stereo",
       "hd",
@@ -596,7 +596,7 @@
     "top": 1005,
     "end_time": "20260924175300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -606,8 +606,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8320",
-    "title": "every.[字] 鈴江奈々&森圭介がきょうを分かりやすく",
-    "commentary": "鈴江奈々、森圭介が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載!!",
+    "title": "every.[字]台風被害拡大も…新たに「２６号発生」来週後半に本州影響の可能性も(他)",
+    "commentary": "▼習近平氏３年ぶり訪米“異例待遇”の思惑▼WEST.今月末で活動終了へ…7人の今後は▼ネイリスト“殺害”男に拘禁刑２１年求刑▼長雨も影響!?５連休明けインフル猛威",
     "attr": [
       "stereo",
       "hd",
@@ -626,7 +626,7 @@
     "top": 1073,
     "end_time": "20260924181500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -636,8 +636,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8346",
-    "title": "kry news every.(第4部)",
-    "commentary": "コンセプトは“みんなで見つける「今と未来のやまぐち」”様々な課題を抱える“やまぐちの今”“やまぐちの未来”を“みんな”で見つけていく番組です。",
+    "title": "kry news every.(第4部)鳥取市で保護猫預かり制度スタート",
+    "commentary": "山口大島みかん初出荷▽高校生がニホンアワサンゴ採集▽動物愛護キャンペーン始まる▽熊本地震の被災地に義援金贈呈▽鳥取市で保護猫預かり制度スタート",
     "attr": [
       "stereo",
       "hd",
@@ -656,7 +656,7 @@
     "top": 1095,
     "end_time": "20260924190000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -666,16 +666,16 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8348",
-    "title": "小５クイズ[字] 阿部亮平＆ふくらＰ率いる最強クイズ王軍団!1000万出るか?",
-    "commentary": "アイドル界最強クイズ王！阿部亮平が3度目の1000万円に挑む!▼話題モナキは国立大学院首席メンバーが快進撃！▼ふくらP率いる最強クイズ王軍団",
+    "title": "小学５年生クイズ★Snow Man阿部&モナキ参戦!賞金1000万は誰の手に!?[字]",
+    "commentary": "今夜は全員本命！アイドル界最強クイズ王Snow Man阿部が対策バッチリで快進撃▼話題モナキは大学院首席メンバーが奇跡▼ふくらP率いるQuizKnock最強軍団",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "50",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474028/image/acfc4ef53ce4a92c7f724871d5132a5d.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260924190000,
     "programEnd": 20260924205400,
@@ -816,8 +816,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8330",
-    "title": "news zero[字]",
-    "commentary": "藤井貴彦が、大切なニュースを「長く、深く」。今起きているニュースを「速報とライブ映像」で届けます。夜11時、明日を迎えるきっかけに…",
+    "title": "news zero[字]【台風被害】影響長期化…行方不明者捜索続く▼新たな台風26号",
+    "commentary": "新たな台風発生…最新進路＆列島影響は▼【最新】まもなく米中首脳会談▼詳報サッカー日本代表戦▼大谷翔平が復帰へ＆山本由伸１５勝目は",
     "attr": [
       "stereo",
       "hd",
@@ -846,7 +846,7 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8347",
-    "title": "バカリズム×カズレーザー まっすぐいきてる。",
+    "title": "バカリズム×カズレーザー まっすぐいきてる。[字]",
     "commentary": "「人間の骨拾いたくなくて」虫から生えるキノコ・冬虫夏草を追いかける男！中東女性の美の象徴・謎多き仮面文化を追いかける女！自分の好きをまっすぐ貫く研究者が登場!",
     "attr": [
       "stereo",
@@ -936,8 +936,8 @@
     "channelName": "山口放送",
     "digitalNo": 4,
     "eventId": "8317",
-    "title": "株式会社マジルミエ[字]",
-    "commentary": " ",
+    "title": "株式会社マジルミエ[字]「諦めのある仕事なんて無価値です」",
+    "commentary": "東京湾での戦闘はさらに激化し、マジルミエは魔法少女たちの連携による制圧戦を展開する。戦場は単なる怪異討伐を超えた意味を帯びていく…",
     "attr": [
       "stereo",
       "hd",

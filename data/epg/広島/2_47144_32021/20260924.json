@@ -7,7 +7,7 @@
     "digitalNo": 8,
     "eventId": "8367",
     "title": "FNN　Live　News　α[字]",
-    "commentary": "働く人に役立つ情報を+αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "commentary": "中国でAIドラマ急増エンタメ制作現場の今▽サッカー佐藤龍之介▽スポーツツーリズム",
     "attr": [
       "stereo",
       "hd",
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260924001500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -36,8 +36,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8527",
-    "title": "相葉◎×部[字]",
-    "commentary": " ",
+    "title": "相葉◎×部　都会電車“ゆりかもめ\"の美写真対決【絶景!鉄道写真部】で名作連発![字]",
+    "commentary": "石原良純が豊洲・千客万来の絶品海鮮グルメに舌鼓&お土産も!▼お台場の海からボートで絶景激写▼相葉も関心!今回は名作連発!優勝作品は果たしてどんな写真か?",
     "attr": [
       "stereo",
       "hd",
@@ -56,7 +56,7 @@
     "top": 15,
     "end_time": "20260924004500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -66,8 +66,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8528",
-    "title": "いたジャン!#111",
-    "commentary": " ",
+    "title": "いたジャン!◆7人だけの夏休みin館山◆豪華ヴィラで童心に戻って大はしゃぎ!",
+    "commentary": "Hey!Say!JUMP7人だけの夏休み〜館山の幼稚園に突撃訪問で全力かくれんぼ!▽海を一望できるヴィラ!新鮮な海鮮ゲットでブランコ・鉄棒・プール・トランポリン",
     "attr": [
       "stereo",
       "hd",
@@ -78,45 +78,15 @@
     "imgPath": null,
     "isRecommended": null,
     "programStart": 20260924004500,
-    "programEnd": 20260924011500,
-    "programDate": 20260923,
-    "programId": 866608,
-    "start_time": "45",
-    "duration": 30,
-    "top": 45,
-    "end_time": "20260924011500",
-    "channel_type": "2",
-    "is_end": false,
-    "show_remoterec": true
-  },
-  {
-    "@search.score": 1,
-    "cid": "2_15782136",
-    "serviceCode": "47144_32021",
-    "channelName": "ＴＳＳ",
-    "digitalNo": 8,
-    "eventId": "8370",
-    "title": "いたジャン!#112",
-    "commentary": " ",
-    "attr": [
-      "stereo",
-      "hd",
-      "cp1"
-    ],
-    "sortGenre": "52",
-    "hasImage": 0,
-    "imgPath": null,
-    "isRecommended": null,
-    "programStart": 20260924011500,
     "programEnd": 20260924014500,
     "programDate": 20260923,
     "programId": 866608,
-    "start_time": "15",
-    "duration": 30,
-    "top": 75,
+    "start_time": "45",
+    "duration": 60,
+    "top": 45,
     "end_time": "20260924014500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -146,7 +116,7 @@
     "top": 105,
     "end_time": "20260924015000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -157,7 +127,7 @@
     "digitalNo": 8,
     "eventId": "8372",
     "title": "クレバテス2-魔獣の王と偽りの勇者伝承-#12",
-    "commentary": " ",
+    "commentary": "魔獣王の千年",
     "attr": [
       "stereo",
       "hd",
@@ -176,7 +146,7 @@
     "top": 110,
     "end_time": "20260924022000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -206,7 +176,7 @@
     "top": 140,
     "end_time": "20260924025000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -236,7 +206,7 @@
     "top": 170,
     "end_time": "20260924032000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -266,7 +236,7 @@
     "top": 200,
     "end_time": "20260924035000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -296,7 +266,7 @@
     "top": 230,
     "end_time": "20260924040000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -326,7 +296,7 @@
     "top": 240,
     "end_time": "20260924045500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -356,7 +326,7 @@
     "top": 295,
     "end_time": "20260924052500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -366,8 +336,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8379",
-    "title": "めざましテレビ[デ]",
-    "commentary": "目覚める朝に新情報をニュース&スポーツ&エンタメ▽ココ調でギモン検証▽イマドキなトレンド▽話題深掘りカイトウ▽わんこ&ロペ&占い▽最新!あまゆか天気",
+    "title": "めざましテレビ【9時まで】堤防決壊で周辺被害/ちいかわ応援上映[デ]",
+    "commentary": "堤防決壊&死者10人に「次の台風」進路は▼養殖魚が軒並み高騰▼森保Jきょう再始動▼ちいかわの応援上映▼めざまし踊るクイズ▼かわいい手作り体験▼さつまいもスイーツ",
     "attr": [
       "stereo",
       "hd",
@@ -386,7 +356,7 @@
     "top": 325,
     "end_time": "20260924090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -416,7 +386,7 @@
     "top": 540,
     "end_time": "20260924095000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -426,8 +396,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8383",
-    "title": "[生]ひろしま満点ママ#6248",
-    "commentary": "地元の人しか知らない地元の「プチ自慢」を発掘「地元っこに聞いてみた!」。リポーターはボールボーイ佐竹佑一に高田萌子と前田拓磨アナが隔週でコーナー担当。",
+    "title": "[生]ひろしま満点ママ【廣瀬アナ新加入★蒲刈で人生初体験!藻塩&アコウ!海の幸爆食】",
+    "commentary": "地元っこに聞いてみた!廣瀬蓮アナが新メンバーに!地元で愛される商店で人生初のアレを体験!さらに海の恵みが詰まった藻塩に高級魚アコウまで!廣瀬アナが海の幸を爆食!",
     "attr": [
       "stereo",
       "hd",
@@ -447,7 +417,7 @@
     "top": 590,
     "end_time": "20260924110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -457,7 +427,7 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8384",
-    "title": "ずきゅん。モール・テレビショッピング",
+    "title": "ずきゅん。モール",
     "commentary": " ",
     "attr": [
       "stereo",
@@ -477,7 +447,7 @@
     "top": 660,
     "end_time": "20260924113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -488,7 +458,7 @@
     "digitalNo": 8,
     "eventId": "8385",
     "title": "FNN　TSS　Live　News　days[字]",
-    "commentary": "「暮らし」を意識したラインナップで世の中の動きを素早くキャッチ!最新ニュースをわかりやすく、丁寧にお届けします。「命を守る」防災情報も様々なテーマで。",
+    "commentary": "関東で甚大被害…25号の爪痕▼新たな台風が発生へ週明け沖縄接近の可能性▼どうなるAI?トランプ氏×習近平氏首脳会談▼ドジャース大谷翔平スタメン復帰へ",
     "attr": [
       "stereo",
       "hd",
@@ -507,7 +477,7 @@
     "top": 690,
     "end_time": "20260924114700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -517,8 +487,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8386",
-    "title": "ぽかぽか[字]",
-    "commentary": "ハライチ&神田愛花がお届けする生バラエティ▽勝手なイメージ「〇〇っぽい」で迫る、ゲストの素顔・業界の裏側&裏話▽曜日オリジナル企画も!楽しいお昼を",
+    "title": "ぽかぽか【巨人レジェンドOB駒田&槙原&村田が年俸ルール練習の今昔を激白SP】[字]",
+    "commentary": "村田の死球でルール変更!?槙原が語る敬遠球サヨナラ打の(秘)話!日本刀で一本足打法!?当時の練習法とは…▼2000本安打達成&完全試合達成時のボールの驚きの鑑定額!",
     "attr": [
       "stereo",
       "hd",
@@ -537,7 +507,7 @@
     "top": 707,
     "end_time": "20260924135000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -547,8 +517,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8387",
-    "title": "とれたてっ![字][デ]",
-    "commentary": "全国各地の「いま起きていること」を伝えるニュース・情報番組。MC青木源太と歯に衣着せないパネラーたちがズバッと切り込みます!",
+    "title": "とれたてっ![字][デ]　台風25号で堤防決壊　被災地は…最新中継▼自動運転無人タクシー",
+    "commentary": "台風25号で堤防決壊　被災地は今…最新中継▼MC青木が体験取材　自動運転無人タクシー▼ご当地回転寿司調査",
     "attr": [
       "stereo",
       "hd",
@@ -578,7 +548,7 @@
     "digitalNo": 8,
     "eventId": "8389",
     "title": "[生]TSSライク![字]",
-    "commentary": "事件、事故、災害情報はもちろん、生活に役立つ経済情報から身近な地域の話題まで。広島に根差した「一日まるわかりニュース」をお届け▼広島天気予報▼全国のニュース",
+    "commentary": "広く晴れ都心真夏日か▼新たな台風26号発生へ・前線の活発化に要警戒",
     "attr": [
       "stereo",
       "hd",
@@ -609,7 +579,7 @@
     "digitalNo": 8,
     "eventId": "8390",
     "title": "[生]TSSライク![字]",
-    "commentary": "事件、事故、災害情報はもちろん、生活に役立つ経済情報から身近な地域の話題まで。広島に根差した「一日まるわかりニュース」をお届け▼広島天気予報▼全国のニュース",
+    "commentary": "連休明け通勤風景戻る・連休はどう過ごした?▼上安PFAS問題▼90歳ボディビルダー飽くなき挑戦を徹底取材▼貸し切りバスが足りない!",
     "attr": [
       "stereo",
       "hd",
@@ -640,7 +610,7 @@
     "digitalNo": 8,
     "eventId": "8391",
     "title": "[生]TSSライク![字]",
-    "commentary": "事件、事故、災害情報はもちろん、生活に役立つ経済情報から身近な地域の話題まで。\n広島に根差した「一日まるわかりニュース」をお届け▼広島天気予報▼全国のニュース",
+    "commentary": "連休明け通勤・通学風景が戻る・連休はどう過ごした?▼上安PFAS問題▼秋の夜長を活用する最新快眠グッズに注目▼貸切バスが足りない?!広電車両",
     "attr": [
       "stereo",
       "hd",
@@ -700,8 +670,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8393",
-    "title": "ニッポン今だ!ラボ#26[字]",
-    "commentary": " ",
+    "title": "ニッポン今だ!ラボ[字]",
+    "commentary": "今田耕司と森香澄が暮らしと政策をつなぐ　知的アミューズメント新番組",
     "attr": [
       "stereo",
       "hd",
@@ -730,7 +700,7 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8394",
-    "title": "ナゾトレMAXXX[字]",
+    "title": "ナゾトレMAXXX◆キテレツ猪狩&井上が仲間割れ!?大好評この歌何だっけ合唱団[字]",
     "commentary": "時代を彩る名作CMクイズ!引越のサカイ◆スノ宮舘ピザーラ◆佐藤勝利サトウのごはん◆少年少女合唱団VS上田晋也?",
     "attr": [
       "stereo",
@@ -738,8 +708,8 @@
       "cp1"
     ],
     "sortGenre": "50",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/474467/image/2e65124bc203dfd7c677c7a1511ea62d.jpg",
     "isRecommended": null,
     "programStart": 20260924211500,
     "programEnd": 20260924220900,
@@ -790,16 +760,16 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8396",
-    "title": "タビフクヤマ[字]",
-    "commentary": "1年ぶりの放送に生田絵梨花が出演!生田絵梨花、満島真之介、リリー・フランキーと福山雅治の“原点\"を巡る!",
+    "title": "タビフクヤマ▼福山が思い出の地・渋谷巡る▼上京後秘話を初披露▼一番行きたいお店[字]",
+    "commentary": "福山が思い出の地・渋谷を巡る▼初めて語る上京後秘話▼渋谷に人が集まる謎を解明!▼福山が一番行きたい飲食店とは!?",
     "attr": [
       "stereo",
       "hd",
       "cp1"
     ],
     "sortGenre": "55",
-    "hasImage": 0,
-    "imgPath": null,
+    "hasImage": 1,
+    "imgPath": "/monomedia/sirc/470000/474631/image/dd16c0704f25e63d7a91e356a6567496.jpg",
     "isRecommended": null,
     "programStart": 20260924221500,
     "programEnd": 20260924230900,
@@ -850,8 +820,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8398",
-    "title": "トークィーンズ[字]",
-    "commentary": "最強女子軍団“トークィーンズ\"が集結!",
+    "title": "トークィーンズ　SnowMan深澤辰哉メロすぎデート完結編!浴衣でサプライズ![字]",
+    "commentary": "SnowMan深澤辰哉のリアコ爆増メロすぎデート完結編!▼超高級寿司ランチ&浴衣でサプライズ▼総額100万円超えガチ自腹▼完璧すぎてロマンス詐欺疑惑?",
     "attr": [
       "stereo",
       "hd",
@@ -881,7 +851,7 @@
     "digitalNo": 8,
     "eventId": "8399",
     "title": "FNN　Live　News　α[字]",
-    "commentary": "働く人に役立つ情報を+αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が堤礼実、金曜日は海老原優香。",
+    "commentary": "まもなく米中首脳会談“AI暴走\"回避策は▽W杯後初の日本戦!▽大谷翔平ついに復活",
     "attr": [
       "stereo",
       "hd",
@@ -970,8 +940,8 @@
     "channelName": "ＴＳＳ",
     "digitalNo": 8,
     "eventId": "8402",
-    "title": "ゴリパラ見聞録",
-    "commentary": "ゴリけん、パラシュート部隊の3人が、日本全国のあなたの行きたい場所に旅をし、写真を撮ってきます。",
+    "title": "ゴリパラ見聞録【日本全国どこへでも旅します!】",
+    "commentary": "ゴリけん、パラシュート部隊の3人が、日本全国のあなたの行きたい場所に旅をし、写真を撮ってきます。▽日本全国どこへでも全力で旅します▽ミニチュアづくり▽自慢したい",
     "attr": [
       "stereo",
       "hd",
@@ -1001,7 +971,7 @@
     "digitalNo": 8,
     "eventId": "8403",
     "title": "席替えしたら、どうやら後ろの男が俺のこと好きらしい#7",
-    "commentary": " ",
+    "commentary": "「好きだよ。ずっと前から」  席替えから始まる青春ラブストーリー",
     "attr": [
       "stereo",
       "hd",
@@ -1014,7 +984,7 @@
     "programStart": 20260925020000,
     "programEnd": 20260925023000,
     "programDate": 20260924,
-    "programId": -1,
+    "programId": 1001429,
     "start_time": "00",
     "duration": 30,
     "top": 1560,

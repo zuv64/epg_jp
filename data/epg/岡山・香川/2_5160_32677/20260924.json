@@ -14,8 +14,8 @@
       "cp1"
     ],
     "sortGenre": "08",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/473984/image/a097864832c235a218561050380466e9.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260923231200,
     "programEnd": 20260924000100,
@@ -26,7 +26,7 @@
     "top": 0,
     "end_time": "20260924000100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -36,8 +36,8 @@
     "channelName": "テレビせとうち",
     "digitalNo": 7,
     "eventId": "8559",
-    "title": "スポーツリアライブ",
-    "commentary": "“アスリートやその試合に秘められた「Real」を伝え、スポーツの「Live」が体感できる番組”をコンセプトに、野球・サッカー・五輪種目などを独自目線でお届けします!",
+    "title": "スポーツリアライブ 村上宗隆33号HR▼白熱セリーグ首位争い▼川崎Ｆ小林悠が引退",
+    "commentary": "アジア大会で卓球６０年ぶり団体金へ…準決勝▼村上宗隆33号HR▼白熱セリーグ首位争い！巨人竹丸にアクシデント！？阪神で２１年ぶりの快挙▼川崎Ｆ小林悠が涙の引退",
     "attr": [
       "stereo",
       "hd",
@@ -56,7 +56,7 @@
     "top": 1,
     "end_time": "20260924000600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -87,7 +87,7 @@
     "top": 6,
     "end_time": "20260924003600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -117,7 +117,7 @@
     "top": 36,
     "end_time": "20260924010600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -147,7 +147,7 @@
     "top": 66,
     "end_time": "20260924013600",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -177,7 +177,7 @@
     "top": 96,
     "end_time": "20260924014100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -208,7 +208,7 @@
     "top": 101,
     "end_time": "20260924021100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -238,7 +238,7 @@
     "top": 131,
     "end_time": "20260924024100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -268,7 +268,7 @@
     "top": 280,
     "end_time": "20260924051000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -298,7 +298,7 @@
     "top": 310,
     "end_time": "20260924051500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -328,7 +328,7 @@
     "top": 315,
     "end_time": "20260924054500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -338,8 +338,8 @@
     "channelName": "テレビせとうち",
     "digitalNo": 7,
     "eventId": "8600",
-    "title": "Newsモーニングサテライト",
-    "commentary": "ＮＹ発のマーケット情報など世界の経済・金融ニュースを速報！マーケットのプロが詳しく解説します。",
+    "title": "Newsモーニングサテライト【米中首脳会談 成果はあるか】",
+    "commentary": "「日経朝特急プラス」ＡＩ脅威論が急速に広がる中、世界はＡＩの開発減速で一致できるのか▼政治×マーケット解説の「篠原塾」",
     "attr": [
       "stereo",
       "hd",
@@ -358,7 +358,7 @@
     "top": 345,
     "end_time": "20260924070500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -388,7 +388,7 @@
     "top": 425,
     "end_time": "20260924073000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -419,7 +419,7 @@
     "top": 450,
     "end_time": "20260924075700",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -449,7 +449,7 @@
     "top": 477,
     "end_time": "20260924080000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -479,7 +479,7 @@
     "top": 480,
     "end_time": "20260924080500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -510,7 +510,7 @@
     "top": 485,
     "end_time": "20260924090000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -540,7 +540,7 @@
     "top": 540,
     "end_time": "20260924093000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -571,7 +571,7 @@
     "top": 570,
     "end_time": "20260924103000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -601,7 +601,7 @@
     "top": 630,
     "end_time": "20260924110000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -631,7 +631,7 @@
     "top": 660,
     "end_time": "20260924111300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -661,7 +661,7 @@
     "top": 673,
     "end_time": "20260924113000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -691,7 +691,7 @@
     "top": 690,
     "end_time": "20260924120000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -721,7 +721,7 @@
     "top": 720,
     "end_time": "20260924135500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -751,7 +751,7 @@
     "top": 835,
     "end_time": "20260924142500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -781,7 +781,7 @@
     "top": 865,
     "end_time": "20260924143000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -812,7 +812,7 @@
     "top": 870,
     "end_time": "20260924152500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -842,7 +842,7 @@
     "top": 925,
     "end_time": "20260924155500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -872,7 +872,7 @@
     "top": 955,
     "end_time": "20260924165400",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -902,7 +902,7 @@
     "top": 1014,
     "end_time": "20260924170000",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -933,7 +933,7 @@
     "top": 1020,
     "end_time": "20260924171500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -963,7 +963,7 @@
     "top": 1035,
     "end_time": "20260924174500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -994,7 +994,7 @@
     "top": 1065,
     "end_time": "20260924182500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1012,8 +1012,8 @@
       "cp1"
     ],
     "sortGenre": "54",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474248/image/06e3619811a66ed7ec97067189f83fc3.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260924182500,
     "programEnd": 20260924220500,
@@ -1024,7 +1024,7 @@
     "top": 1105,
     "end_time": "20260924220500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1054,7 +1054,7 @@
     "top": 1325,
     "end_time": "20260924220900",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1084,7 +1084,7 @@
     "top": 1329,
     "end_time": "20260924221500",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1094,8 +1094,8 @@
     "channelName": "テレビせとうち",
     "digitalNo": 7,
     "eventId": "8628",
-    "title": "WBS[字]",
-    "commentary": "「あなたと世界をつなぐ経済ニュース番組」として、より分かりやすく、より深く、明日からの仕事や生活に役立つ情報をお伝えします。",
+    "title": "ＷＢＳ【▼米中首脳会談▼過熱する子供服商戦▼トレたまは空気で温度調整できる服】[字]",
+    "commentary": "■間もなく米中首脳会談 AI覇権握るのは\n■オープンAIのAIが豪国保サイトに侵入\n■過熱する子供服商戦を勝ち抜くには?\n■“食文化旅行”が地方から都市部に波及",
     "attr": [
       "stereo",
       "hd",
@@ -1114,7 +1114,7 @@
     "top": 1335,
     "end_time": "20260924231300",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1144,7 +1144,7 @@
     "top": 1393,
     "end_time": "20260924232100",
     "channel_type": "2",
-    "is_end": false,
+    "is_end": true,
     "show_remoterec": true
   },
   {
@@ -1162,8 +1162,8 @@
       "cp1"
     ],
     "sortGenre": "02",
-    "hasImage": 1,
-    "imgPath": "/monomedia/sirc/470000/474036/image/2e5a89820c858a69366c7bfe9f7d291a.jpg",
+    "hasImage": 0,
+    "imgPath": null,
     "isRecommended": null,
     "programStart": 20260924232100,
     "programEnd": 20260925001000,
@@ -1184,8 +1184,8 @@
     "channelName": "テレビせとうち",
     "digitalNo": 7,
     "eventId": "8631",
-    "title": "スポーツリアライブ",
-    "commentary": "“アスリートやその試合に秘められた「Real」を伝え、スポーツの「Live」が体感できる番組”をコンセプトに、野球・サッカー・五輪種目などを独自目線でお届けします!",
+    "title": "大谷翔平が復帰！山本由伸はメジャー自己最多を更新する１５勝目なるか!",
+    "commentary": "大谷翔平が負傷者リストから復帰！復帰戦での豪快弾なるか？▽山本由伸はメジャー自己最多の１５勝目をかけパドレス戦に先発!",
     "attr": [
       "stereo",
       "hd",
@@ -1229,7 +1229,7 @@
     "programStart": 20260925001500,
     "programEnd": 20260925004500,
     "programDate": 20260924,
-    "programId": -1,
+    "programId": 581410,
     "start_time": "15",
     "duration": 30,
     "top": 1455,
@@ -1259,7 +1259,7 @@
     "programStart": 20260925004500,
     "programEnd": 20260925011500,
     "programDate": 20260924,
-    "programId": -1,
+    "programId": 1001164,
     "start_time": "45",
     "duration": 30,
     "top": 1485,
@@ -1349,7 +1349,7 @@
     "programStart": 20260925015000,
     "programEnd": 20260925022000,
     "programDate": 20260924,
-    "programId": -1,
+    "programId": 921676,
     "start_time": "50",
     "duration": 30,
     "top": 1550,

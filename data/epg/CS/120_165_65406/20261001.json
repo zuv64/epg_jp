@@ -1,0 +1,62 @@
+[
+  {
+    "@search.score": 1,
+    "cid": "120_18486404",
+    "serviceCode": "165_65406",
+    "channelName": "グリーンチャンネル2HD",
+    "digitalNo": 921,
+    "eventId": "45001",
+    "title": "放送休止",
+    "commentary": " ",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "1A",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20261001000000,
+    "programEnd": 20261002000000,
+    "programDate": 20260930,
+    "programId": 100162,
+    "start_time": "00",
+    "duration": 1440,
+    "top": 0,
+    "end_time": "20261002000000",
+    "channel_type": "120",
+    "is_end": false,
+    "show_remoterec": true
+  },
+  {
+    "@search.score": 1,
+    "cid": "120_18641978",
+    "serviceCode": "165_65406",
+    "channelName": "グリーンチャンネル2HD",
+    "digitalNo": 921,
+    "eventId": "45005",
+    "title": "放送休止",
+    "commentary": " ",
+    "attr": [
+      "stereo",
+      "hd",
+      "cp1"
+    ],
+    "sortGenre": "1A",
+    "hasImage": 0,
+    "imgPath": null,
+    "isRecommended": null,
+    "programStart": 20261002000000,
+    "programEnd": 20261003000000,
+    "programDate": 20261001,
+    "programId": 100162,
+    "start_time": "00",
+    "duration": 300,
+    "top": 1440,
+    "end_time": "20261002050000",
+    "channel_type": "120",
+    "is_end": false,
+    "show_remoterec": true
+  }
+]
